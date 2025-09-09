@@ -664,7 +664,6 @@
 ||dns.dynx.pro^
 ||dns.eddi.net^
 ||dns.edgeburnmedia.com^
-||dns.efficientdocuments.com^
 ||dns.elemental.software^
 ||dns.eliv.kr^
 ||dns.engineer.web.id^
@@ -706,6 +705,7 @@
 ||dns.green-ping.lol^
 ||dns.grqu.de^
 ||dns.guard.io^
+||dns.guardmydns.com^
 ||dns.gutwe.in^
 ||dns.ha-dvin.pp.ua^
 ||dns.hahnjo.de^
@@ -1047,6 +1047,7 @@
 ||dnsdojo.org^
 ||dnsdyn.net^
 ||dnsdynamic.org^
+||dnsenc.com^
 ||dnset.com^
 ||dnsexit.com^
 ||dnsfailover.net^
@@ -1434,6 +1435,7 @@
 ||eurotank.ro^
 ||eva.hk^
 ||everton.com^
+||evils.in^
 ||evn01.dnscry.pt^
 ||expired-dns.com^
 ||externalmobiel.lekdijk.online^
@@ -1891,6 +1893,7 @@
 ||itemdb.com^
 ||iterator.lazada.com^
 ||itsaol.com^
+||iu4ever.org^
 ||iugaming.com^
 ||ivc.cc^
 ||ivnkn.xyz^
@@ -2204,6 +2207,7 @@
 ||nl-dro-w-p-1.nashkan.net^
 ||nl.dns.privex.io^
 ||nl.rslvr.eu^
+||no-domain.name^
 ||no-ip.be^
 ||no-ip.biz^
 ||no-ip.ca^
