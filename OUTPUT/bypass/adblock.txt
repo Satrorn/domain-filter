@@ -120,7 +120,6 @@
 ||adguard.easez.net^
 ||adguard.ef67daisuki.club^
 ||adguard.ender.fr^
-||adguard.gambini.org^
 ||adguard.gbrossi.com.br^
 ||adguard.haneulo.com^
 ||adguard.hartley.cloud^
@@ -480,7 +479,6 @@
 ||deaftone.com^
 ||dearabba.org^
 ||dedyn.io^
-||deep-henchman-excuse.cfd^
 ||demosoftonline.com^
 ||demoteam.ch^
 ||den01.dnscry.pt^
@@ -682,6 +680,7 @@
 ||dns.fehlsprache.de^
 ||dns.ffnw.de^
 ||dns.filipccz.eu^
+||dns.fizz.studio^
 ||dns.flatuslifir.is^
 ||dns.flightspace.net^
 ||dns.floriantinney.de^
