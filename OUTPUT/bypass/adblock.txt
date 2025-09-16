@@ -109,7 +109,6 @@
 ||adguard-kartoffel.zernico.de^
 ||adguard.aa4.co.uk^
 ||adguard.abd.ong^
-||adguard.ajinga.net^
 ||adguard.alu.dog^
 ||adguard.avdkishore.dev^
 ||adguard.bonis.de^
@@ -679,7 +678,6 @@
 ||dns.fehlsprache.de^
 ||dns.ffnw.de^
 ||dns.filipccz.eu^
-||dns.fizz.studio^
 ||dns.flatuslifir.is^
 ||dns.flightspace.net^
 ||dns.floriantinney.de^
@@ -1045,7 +1043,6 @@
 ||dnsdojo.org^
 ||dnsdyn.net^
 ||dnsdynamic.org^
-||dnsenc.com^
 ||dnset.com^
 ||dnsexit.com^
 ||dnsfailover.net^
@@ -1162,6 +1159,7 @@
 ||doh.iqiyi.com^
 ||doh.iucc.ac.il^
 ||doh.jeroenhd.nl^
+||doh.kekew.info^
 ||doh.kel.pe^
 ||doh.kidzonet.io^
 ||doh.killtw.im^
@@ -2078,7 +2076,6 @@
 ||migibts.net^
 ||mikata.ru^
 ||mikecartwright.net^
-||mikezhang.xyz^
 ||mil.nf^
 ||mil01.dnscry.pt^
 ||mindhackers.org^
@@ -2934,7 +2931,6 @@
 ||zelslonik.info^
 ||zneth.com^
 ||zoneedit.com^
-||zougloub.eu^
 ||zrh1-ns01.monzoon.net^
 ||zsh.jp^
 ||zverovich.net^
