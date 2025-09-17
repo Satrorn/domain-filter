@@ -112,6 +112,7 @@ payload:
   - +.adguard.abd.ong
   - +.adguard.alu.dog
   - +.adguard.avdkishore.dev
+  - +.adguard.bitteeinbyte.de
   - +.adguard.bonis.de
   - +.adguard.bonsirven.eu
   - +.adguard.dantynes.cyou
@@ -129,7 +130,6 @@ payload:
   - +.adguard.kasbot.net
   - +.adguard.kiboko.it
   - +.adguard.konikoni428.com
-  - +.adguard.leadseason.eu
   - +.adguard.lege.despagne.net
   - +.adguard.londonwebnerd.cloud
   - +.adguard.maison.gifino.fr
@@ -430,6 +430,7 @@ payload:
   - +.cvt01.dnscry.pt
   - +.cw03.ru
   - +.cybertv.tv
+  - +.cynntex.fun
   - +.d-n-s.name
   - +.d-n-s.org.uk
   - +.d.apemlegit.my.id
@@ -662,6 +663,7 @@ payload:
   - +.dns.dynx.pro
   - +.dns.eddi.net
   - +.dns.edgeburnmedia.com
+  - +.dns.efficientdocuments.com
   - +.dns.elemental.software
   - +.dns.eliv.kr
   - +.dns.engineer.web.id
@@ -680,7 +682,6 @@ payload:
   - +.dns.ffnw.de
   - +.dns.filipccz.eu
   - +.dns.flatuslifir.is
-  - +.dns.flightspace.net
   - +.dns.floriantinney.de
   - +.dns.flwagners.com
   - +.dns.flymc.cc
@@ -814,11 +815,11 @@ payload:
   - +.dns.momou.ch
   - +.dns.moonssif.com
   - +.dns.mrkaran.dev
-  - +.dns.msxnet.ru
   - +.dns.mtoo.vip
   - +.dns.mullvad.net
   - +.dns.murgi.de
   - +.dns.muxinghe.cn
+  - +.dns.mzjtechnology.com
   - +.dns.mzrme.cn
   - +.dns.n23.io
   - +.dns.nako.kr
@@ -2932,6 +2933,7 @@ payload:
   - +.zelslonik.info
   - +.zneth.com
   - +.zoneedit.com
+  - +.zougloub.eu
   - +.zrh1-ns01.monzoon.net
   - +.zsh.jp
   - +.zverovich.net
