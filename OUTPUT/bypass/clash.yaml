@@ -630,7 +630,6 @@ payload:
   - +.dns.csaonline.de
   - +.dns.csswg.org
   - +.dns.cwlys.com
-  - +.dns.cybertonic.tech
   - +.dns.cynthialabs.net
   - +.dns.d365.in
   - +.dns.d4d.moe
@@ -663,7 +662,6 @@ payload:
   - +.dns.dynx.pro
   - +.dns.eddi.net
   - +.dns.edgeburnmedia.com
-  - +.dns.efficientdocuments.com
   - +.dns.elemental.software
   - +.dns.eliv.kr
   - +.dns.engineer.web.id
@@ -819,7 +817,6 @@ payload:
   - +.dns.mullvad.net
   - +.dns.murgi.de
   - +.dns.muxinghe.cn
-  - +.dns.mzjtechnology.com
   - +.dns.mzrme.cn
   - +.dns.n23.io
   - +.dns.nako.kr
@@ -935,6 +932,7 @@ payload:
   - +.dns.surfsharkdns.com
   - +.dns.sv-zauner.at
   - +.dns.svoi.dev
+  - +.dns.switch.ch
   - +.dns.sy.st
   - +.dns.syaifullah.com
   - +.dns.szpadel.ovh
@@ -2681,7 +2679,6 @@ payload:
   - +.surak.kz
   - +.surfnet.ca
   - +.suroot.com
-  - +.switch.ch
   - +.swtest.ru
   - +.syd.adfilter.net
   - +.syd02.dnscry.pt
