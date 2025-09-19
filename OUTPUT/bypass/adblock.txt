@@ -629,6 +629,7 @@
 ||dns.csaonline.de^
 ||dns.csswg.org^
 ||dns.cwlys.com^
+||dns.cybertonic.tech^
 ||dns.cynthialabs.net^
 ||dns.d365.in^
 ||dns.d4d.moe^
@@ -678,6 +679,7 @@
 ||dns.fehlsprache.de^
 ||dns.ffnw.de^
 ||dns.filipccz.eu^
+||dns.fizz.studio^
 ||dns.flatuslifir.is^
 ||dns.floriantinney.de^
 ||dns.flwagners.com^
@@ -816,6 +818,7 @@
 ||dns.mullvad.net^
 ||dns.murgi.de^
 ||dns.muxinghe.cn^
+||dns.mzjtechnology.com^
 ||dns.mzrme.cn^
 ||dns.n23.io^
 ||dns.nako.kr^
@@ -1774,6 +1777,7 @@
 ||imprendum.com^
 ||in-the-band.net^
 ||independentonline.ro^
+||india.privacy-dns.pw^
 ||ines.zfn.uni-bremen.de^
 ||inflict.us^
 ||info.gf^
@@ -2678,6 +2682,8 @@
 ||surak.kz^
 ||surfnet.ca^
 ||suroot.com^
+||sweden.privacy-dns.pw^
+||switzerland.privacy-dns.pw^
 ||swtest.ru^
 ||syd.adfilter.net^
 ||syd02.dnscry.pt^
@@ -2779,6 +2785,7 @@
 ||unfiltered.joindns4.eu^
 ||unibutton.com^
 ||unicast.censurfridns.dk^
+||united-arab-emirates.privacy-dns.pw^
 ||unitedhardwood.com^
 ||unusualperson.com^
 ||urology.wiki^
