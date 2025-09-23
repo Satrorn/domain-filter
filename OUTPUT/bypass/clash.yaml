@@ -1176,6 +1176,7 @@ payload:
   - +.dns.eddi.net
   - +.dns.edgeburnmedia.com
   - +.dns.edgeworkssystems.ca
+  - +.dns.edgy.network
   - +.dns.edison42.dev
   - +.dns.efficientdocuments.com
   - +.dns.electrotm.org
@@ -2192,8 +2193,8 @@ payload:
   - +.doomdns.com
   - +.doomdns.org
   - +.door.plasmadancer.ru
+  - +.doq.dns4all.eu
   - +.doq.sa-sa.eu
-  - +.doq64.dns4all.eu
   - +.dot-ch.blahdns.com
   - +.dot-de.blahdns.com
   - +.dot-dns.zmy.cloud
