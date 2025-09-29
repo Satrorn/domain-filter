@@ -712,6 +712,7 @@
 ||abeatsbydrdre.com^
 ||abebooks.co.uk^
 ||abebooks.com^
+||abellalist.com^
 ||abema-tv.com^
 ||abema.io^
 ||abema.tv^
@@ -4067,6 +4068,7 @@
 ||binancezh.top^
 ||bing.net^
 ||bing123.com^
+||bingads.com^
 ||bingagencyawards.com^
 ||bingapis.com^
 ||bingapistatistics.com^
@@ -7633,6 +7635,7 @@
 ||data-archive.ac.uk^
 ||data-intensive-cdt.ac.uk^
 ||data-service.ac.uk^
+||data-vocabulary.org^
 ||data.ac.uk^
 ||data.com^
 ||data.flurry.com^
@@ -16575,6 +16578,7 @@
 ||kinklive.com^
 ||kinkoid.com^
 ||kinkyfamily.com^
+||kinkypeepz.com^
 ||kinmen.org.tw^
 ||kinmen.travel^
 ||kinokuniya.com^
@@ -16695,6 +16699,7 @@
 ||kssdeanery.ac.uk^
 ||ksyp10.com^
 ||ktvu.com^
+||ktzhk.com^
 ||ku77.xyz^
 ||kuaichedao.co^
 ||kuaimao-app.com^
@@ -18315,6 +18320,7 @@
 ||md-t.org^
 ||mdbankpublic.com^
 ||mdhcdn.com^
+||mdialog.com^
 ||mdn.allizom.net^
 ||mdn.dev^
 ||mdn.mozillademos.org^
@@ -27816,6 +27822,7 @@
 ||threads.com^
 ||threads.net^
 ||threatchaos.com^
+||thri.xxx^
 ||thrixxx.com^
 ||throughnightsfire.com^
 ||thtmod1.com^
@@ -28145,6 +28152,7 @@
 ||torrentkitty.tv^
 ||torrentleen.com^
 ||torrentmac.net^
+||torrentprivacy.com^
 ||torrentproject.se^
 ||torrenty.org^
 ||torrentz.eu^
