@@ -668,7 +668,6 @@
 ||aixuntupian.oss-cn-hongkong.aliyuncs.com^
 ||aizipai.cn^
 ||ajiang.net^
-||akcz7ce.cn^
 ||al.autohome.com.cn^
 ||al.newxue.com^
 ||album-cn01a.ocloud.heytapmobi.com^
@@ -1250,7 +1249,6 @@
 ||cgigc.com.cn^
 ||chance-ad.com^
 ||chanet.com.cn^
-||changyan.sohu.com^
 ||channel-analysis-js.gmw.cn^
 ||channel.m.163.com^
 ||chaoku.oss-cn-chengdu.aliyuncs.com^
@@ -1525,7 +1523,6 @@
 ||dataflow.biliapi.com^
 ||datamaster.com.cn^
 ||datas.tianqistatic.com^
-||datasink.ziniao.com^
 ||dazhantai.com^
 ||dc-dragate-cn.heytapmobi.com^
 ||dc.letv.com^
@@ -1680,7 +1677,6 @@
 ||dyp2p-ali.douyucdn.cn^
 ||dyp2p-hw.douyucdn.cn^
 ||dz1ebfi.cn^
-||e-ad-monitor.huya.com^
 ||e-p4p.163.com^
 ||e-stat.huya.com^
 ||e-tax-celer.qerdocb.cn^
@@ -1807,7 +1803,6 @@
 ||f1.pig66.com^
 ||f1.zaojv.com^
 ||facai383.oss-cn-guangzhou.aliyuncs.com^
-||facebok.website^
 ||fakjkwp.cn^
 ||fancyapi.com^
 ||fangcunzhijian1.cn^
@@ -1842,7 +1837,6 @@
 ||fexclick.baidu.com^
 ||ffnvhig.cn^
 ||ffyakazs.cn^
-||ffygfcvv.cn^
 ||fhitagd.cn^
 ||file.blackint3.com^
 ||file.daihuo.qq.com^
@@ -2055,7 +2049,6 @@
 ||h-adashx.ut.youku.com^
 ||h-adashx4ae.ut.taobao.com^
 ||h-adashx4sg.ut.taobao.com^
-||h-adashx4yt.ut.taobao.com^
 ||h.baminw.cn^
 ||h1.kukuw.com^
 ||h1.wk2.com^
@@ -2725,6 +2718,7 @@
 ||log.jd.com^
 ||log.kaayun.com^
 ||log.kuwo.cn^
+||log.liepin.com^
 ||log.m.sm.cn^
 ||log.mix.sina.com.cn^
 ||log.music.baidu.com^
@@ -2828,12 +2822,10 @@
 ||luaqxb.rainso.com^
 ||luimg.baidu.com^
 ||lulucls.icu^
-||lulucoa.icu^
 ||luluebh.icu^
 ||lulugda.icu^
 ||lulugui.icu^
 ||luluhfh.icu^
-||lulujcc.icu^
 ||lulukvm.icu^
 ||lululpz.icu^
 ||luluofn.icu^
@@ -3650,7 +3642,6 @@
 ||reportwest-midas.codmwest.com^
 ||res.imtt.qq.com^
 ||res.mi.baidu.com^
-||resoacard-furti.zmtne.cn^
 ||resolver.mi.xiaomi.com^
 ||resolver.msg.xiaomi.net^
 ||rev.aiclk.com^
@@ -3705,7 +3696,6 @@
 ||sc.shayugg.com^
 ||sc.sonystyle.com.cn^
 ||sc126.com^
-||sca-cota.vivoglobal.com^
 ||sca-domaincfg.vivoglobal.com^
 ||sca-err-up.vivoglobal.com^
 ||sca-onrt-stsdk.vivoglobal.com^
@@ -3948,6 +3938,7 @@
 ||sssvd.china.com^
 ||sstats.thermofisher.com.cn^
 ||sstats.thermoscientific.cn^
+||st.19mi.net^
 ||st.appsad.cn^
 ||st.todesk.com^
 ||sta.ganji.com^
@@ -4017,6 +4008,7 @@
 ||statistical-report.djiservice.org^
 ||stats.chinaz.com^
 ||stats.cn.ronghub.com^
+||stats.dmp.ghac.cn^
 ||stats.gioneemobile.net^
 ||stats.hanmaker.com^
 ||stats.music.xiaomi.com^
@@ -4152,6 +4144,8 @@
 ||telegramcn.co^
 ||telemetry.api.joox.com^
 ||telemetry.canva.cn^
+||telemetry.cell-0.cn-north-1.prod.tangerinebox.console.aws.a2z.org.cn^
+||telemetry.cell-0.cn-northwest-1.prod.tangerinebox.console.aws.a2z.org.cn^
 ||telemetry.pod1.prod.avatar.ext.hp.com^
 ||telemetry.pod3.prod.avatar.ext.hp.com^
 ||telemetry.pod4.prod.avatar.ext.hp.com^
@@ -4324,7 +4318,6 @@
 ||tracking.miui.com^
 ||tracking.nesox.com^
 ||tracking.rus.miui.com^
-||tracking.shopee.cn^
 ||tracking.t.mercedes-benz.com.cn^
 ||tracking.tdk.cn^
 ||tracking.ti.com^
@@ -4361,7 +4354,6 @@
 ||tsearch.snssdk.com^
 ||tttppp.oss-cn-guangzhou.aliyuncs.com^
 ||tuhzjrr.cn^
-||tui.gtimg.com^
 ||tui.weibo.com^
 ||tuia.cn^
 ||tuiguang.meitu.com^
@@ -4726,6 +4718,7 @@
 ||www.56.com^
 ||www.805m.com^
 ||www.cdcem.com^
+||www.cippe.com.cn^
 ||www.claiks.com^
 ||www.destinationurl.com^
 ||www.iiyout.cn^
@@ -4882,7 +4875,6 @@
 ||ymmobi.com^
 ||yncjsc.cn^
 ||yoda.kwd.inkuai.com^
-||yodobashi-numer.tostog.cn^
 ||yodobashi-oculato.xteotw.cn^
 ||yong.chazidian.com^
 ||yongtai.cn^

@@ -17127,7 +17127,6 @@
 ||licdn.cn^
 ||licdn.cn.cdn20.com^
 ||licdn.com^
-||licensebuttons.net^
 ||licenseparser.com^
 ||lichfield.ac.uk^
 ||lidaobing.info^
