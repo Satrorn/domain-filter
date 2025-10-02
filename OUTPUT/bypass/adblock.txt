@@ -3722,7 +3722,6 @@
 ||polisitogel.show^
 ||polisitogel.webcam^
 ||pooblet.co.za^
-||pope.cnblw.me^
 ||port0.org^
 ||port25.biz^
 ||portfwd.com^
