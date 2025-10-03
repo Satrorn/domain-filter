@@ -59,7 +59,6 @@ payload:
   - +.1sapp.com
   - +.1uo9djbnsr.com
   - +.1wkg.cn
-  - +.2-apple.com
   - +.2.haoxue360.com
   - +.20091222.com
   - +.2021.dxsbb.com
@@ -452,7 +451,6 @@ payload:
   - +.adm.funshion.com
   - +.adm.xmfish.com
   - +.adm.zookingsoft.com
-  - +.adm2.autoimg.cn
   - +.adm3.autoimg.cn
   - +.admaster.com.cn
   - +.admin5.com
@@ -494,7 +492,6 @@ payload:
   - +.ads.huantest.com
   - +.ads.icloseli.cn
   - +.ads.inmobi.com
-  - +.ads.intergreat.com
   - +.ads.jianchiapp.com
   - +.ads.linkedin.cn
   - +.ads.linkedin.com
@@ -657,7 +654,6 @@ payload:
   - +.afterdg.cn
   - +.agn.aty.sohu.com
   - +.agoodm.m.taobao.com
-  - +.ah-scanning.oss-cn-hongkong.aliyuncs.com
   - +.ahm.jiankang123.net
   - +.ahov1.top
   - +.ai.bioon.com
@@ -829,7 +825,6 @@ payload:
   - +.api.installer.xiaomi.com
   - +.api.itaoxiaoshuo.com
   - +.api.jietuhb.com
-  - +.api.jr.mi.com
   - +.api.kingdata.ksyun.com
   - +.api.kwaizt.com
   - +.api.launcher.intl.miui.com
@@ -1106,7 +1101,6 @@ payload:
   - +.bieuc.icu
   - +.big-apple.online
   - +.bigdata-lbs-pri-c3.alb.xiaomi.com
-  - +.bigtopescorts.cn
   - +.bigwww.com
   - +.bihaipack.com
   - +.bill.agent.56.com
@@ -1266,7 +1260,6 @@ payload:
   - +.chuzushijian.cn
   - +.ciajifmfsp.com
   - +.cientch.360doc.cn
-  - +.cippe.com.cn
   - +.cj.qidian.com
   - +.ck.ads.heytapmobi.com
   - +.ck.ads.oppomobile.com
@@ -1416,7 +1409,6 @@ payload:
   - +.crashlyticsreports-pa.googleapis.com
   - +.cre.dp.sina.cn
   - +.cre.mix.sina.com.cn
-  - +.crm.ws.ctrip.com
   - +.crosspromotion.weplayer.cc
   - +.crs.baidu.com
   - +.cs02-pps-drcn.dbankcdn.com
@@ -1544,7 +1536,6 @@ payload:
   - +.delivery.wasu.cn
   - +.detaillog-global-dual.coolccloud.com
   - +.detaillog-global-dual.coolzcloud.com
-  - +.detaillog-global.coolbcloud.com
   - +.detaillog-global.coolzcloud.com
   - +.devlog-upload-os.hoyoverse.com
   - +.dexinyi.cn
@@ -2294,7 +2285,6 @@ payload:
   - +.impression-asia.liftoff.io
   - +.impression.appsflyer.com
   - +.improving.wuzhuiso.com
-  - +.impservice.dictapp.youdao.com
   - +.impservice.youdao.com
   - +.imtoken.org.cn
   - +.in-ad-mkt-vivofs.vivoglobal.com
@@ -2643,7 +2633,6 @@ payload:
   - +.log-api-mn.huxiu.com
   - +.log-api.huxiu.com
   - +.log-api.pangolin-sdk-toutiao-b.com.bytedns1.com
-  - +.log-api.pangolin-sdk-toutiao-b.com.gtm.byte008.com
   - +.log-api.pangolin-sdk-toutiao.com
   - +.log-api.pangolin-sdk-toutiao.com.bytedns1.com
   - +.log-api.pangolin-sdk-toutiao.com.queniuyk.com
@@ -2695,7 +2684,6 @@ payload:
   - +.log.hunantv.com
   - +.log.iflytek.com
   - +.log.jd.com
-  - +.log.kaayun.com
   - +.log.kuwo.cn
   - +.log.m.sm.cn
   - +.log.mix.sina.com.cn
@@ -2799,16 +2787,6 @@ payload:
   - +.lstat.youku.com
   - +.luaqxb.rainso.com
   - +.luimg.baidu.com
-  - +.lulucls.icu
-  - +.luluebh.icu
-  - +.lulugda.icu
-  - +.lulukvm.icu
-  - +.lululpz.icu
-  - +.luluofn.icu
-  - +.lulupkn.icu
-  - +.luluqyf.icu
-  - +.luluucj.icu
-  - +.luluxj.icu
   - +.lustsexloveclub.vip
   - +.luyouxia.net
   - +.lvip.youku.com
@@ -3470,7 +3448,6 @@ payload:
   - +.puds.ucweb.com
   - +.pufhzpt.cn
   - +.puma-api.iqiyi.com
-  - +.puma-api.ptqy.gitv.tv
   - +.pups.baidu.com
   - +.pups.bdimg.com
   - +.puqer.cn
@@ -3769,7 +3746,6 @@ payload:
   - +.scs.openspeech.cn
   - +.sd6hon.cn
   - +.sdd.hi1718.com
-  - +.sdfp.snssdk.com
   - +.sdk-ab-config.qquanquan.com
   - +.sdk-log-inter.youdao.com
   - +.sdk-log-upload-os.hoyoverse.com
@@ -4031,7 +4007,6 @@ payload:
   - +.stat.moji.com
   - +.stat.pandora.xiaomi.com
   - +.stat.sd.360.cn
-  - +.stat.umu.cn
   - +.stat.uuu9.com
   - +.stat.v.baidu.com
   - +.stat.ws.126.net
@@ -4201,8 +4176,6 @@ payload:
   - +.telegramcn.co
   - +.telemetry.api.joox.com
   - +.telemetry.canva.cn
-  - +.telemetry.cell-0.cn-north-1.prod.tangerinebox.console.aws.a2z.org.cn
-  - +.telemetry.cell-0.cn-northwest-1.prod.tangerinebox.console.aws.a2z.org.cn
   - +.telemetry.pod1.prod.avatar.ext.hp.com
   - +.telemetry.pod3.prod.avatar.ext.hp.com
   - +.telemetry.pod4.prod.avatar.ext.hp.com
@@ -4323,7 +4296,6 @@ payload:
   - +.tr-p.vivoglobal.com
   - +.tr-romsp-unifyconfig.vivoglobal.com
   - +.tr-st-sl.vivoglobal.com
-  - +.tr-stsdk.vivoglobal.com
   - +.tr-timesync.vivoglobal.com
   - +.tr-vcode-api.vivoglobal.com
   - +.tr-vcode-od.vivoglobal.com
@@ -4746,7 +4718,6 @@ payload:
   - +.wm.baidu.com
   - +.wm.mipcdn.com
   - +.wmbd.gamersky.com
-  - +.wmedia-track.uc.cn
   - +.wmeng.feihuadns.com
   - +.wmmax.com
   - +.wmmmxx.cn
@@ -4754,7 +4725,6 @@ payload:
   - +.wnp.com
   - +.wokupda.cn
   - +.woniu.com
-  - +.woocall.sina.com.cn
   - +.woodpecker.uc.cn
   - +.worldwide.sogou.com
   - +.wpsweb-dc.wps.cn
