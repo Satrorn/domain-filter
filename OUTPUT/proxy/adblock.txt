@@ -3091,7 +3091,6 @@
 ||azure-dns.net^
 ||azure-dns.org^
 ||azure-mobile.net^
-||azure-sphere.com^
 ||azure-test.net^
 ||azure.com^
 ||azure.net^
