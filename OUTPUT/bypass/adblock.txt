@@ -124,7 +124,6 @@
 ||ad.timefine.org^
 ||ad.tzockt.beer^
 ||ad.visbran.fr^
-||ada.ns.cloudflare.com^
 ||adagio.tw^
 ||adampowell.pro^
 ||adb-dns.sapient.cyou^
@@ -2262,6 +2261,7 @@
 ||dohsg.blahdns.com^
 ||dohsg.goitoi.co^
 ||dohtrial.att.net^
+||domain.name^
 ||domburg.beruys.com^
 ||domeq.waw.pl^
 ||donhoo.com^
@@ -2867,6 +2867,7 @@
 ||homelinux.net^
 ||homelinux.org^
 ||homelinuxserver.org^
+||homenet.telecomitalia.it^
 ||homenode.ca^
 ||homepc.it^
 ||homeplex.org^
