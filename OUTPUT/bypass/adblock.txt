@@ -1453,7 +1453,6 @@
 ||dns.labar.re^
 ||dns.labnekotest.site^
 ||dns.lars-lehmann.net^
-||dns.lashes-brow.ru^
 ||dns.lauraeguido.com^
 ||dns.lavir.com^
 ||dns.lepilleur.com^
@@ -1576,7 +1575,6 @@
 ||dns.novali.date^
 ||dns.novg.net^
 ||dns.npe.bz^
-||dns.ntcrz.ru^
 ||dns.ntr.lol^
 ||dns.nubecita.biz^
 ||dns.nullgate.net^
@@ -1687,7 +1685,6 @@
 ||dns.sark.dev^
 ||dns.sb^
 ||dns.sbstructure.ir^
-||dns.scapetical.com^
 ||dns.scarx.net^
 ||dns.scayn.com^
 ||dns.schlagheck.berlin^
@@ -2155,8 +2152,6 @@
 ||doh.iqiyi.com^
 ||doh.iucc.ac.il^
 ||doh.jeroenhd.nl^
-||doh.kekew.info^
-||doh.kekew.racing^
 ||doh.kel.pe^
 ||doh.kidzonet.io^
 ||doh.killtw.im^
@@ -2193,7 +2188,6 @@
 ||doh.phdns5.lonet.org^
 ||doh.plaawan.uk^
 ||doh.plop.cc^
-||doh.port53.dk^
 ||doh.powerdns.com^
 ||doh.powerdns.org^
 ||doh.ptqy.gitv.tv^
@@ -2247,7 +2241,6 @@
 ||doh2.blahdns.com^
 ||doh2.gslb2.xfinity.com^
 ||doh3.almir1904.eu^
-||doh3.kekew.info^
 ||dohdot.coxlab.net^
 ||dohsg.blahdns.com^
 ||dohsg.goitoi.co^
@@ -2827,7 +2820,6 @@
 ||hockaday.synology.me^
 ||hokum-smack.com^
 ||hole.elbschloss.xyz^
-||home-server.store^
 ||home-webserver.de^
 ||home.azagra.dev^
 ||home.basthorst.eu^
@@ -2932,7 +2924,6 @@
 ||httpsdns.baidu.com^
 ||hulichicken.com^
 ||humorvisite.eu^
-||hungary.privacy-dns.pw^
 ||hunnur.com^
 ||huntllcx.cn^
 ||huv01.dnscry.pt^
@@ -2970,7 +2961,6 @@
 ||incaseineeditoneday.com^
 ||ind01.dnscry.pt^
 ||independentonline.ro^
-||india.privacy-dns.pw^
 ||ines.zfn.uni-bremen.de^
 ||inflict.us^
 ||info.gf^
@@ -3235,7 +3225,6 @@
 ||laptopdns.dr3ff1c13nt.com^
 ||larkin.wang^
 ||larzzons.com^
-||las-vegas.privacy-dns.pw^
 ||las01.dnscry.pt^
 ||lastentarvike.fi^
 ||lax.core.access.zznet.fun^
@@ -3311,7 +3300,6 @@
 ||lukscasino-542-tr.xyz^
 ||lux.sn0w.nl^
 ||lux01.dnscry.pt^
-||luxembourg.privacy-dns.pw^
 ||lvpn.2rdp.ru^
 ||mabuktogel.builders^
 ||mabuktogel.business^
@@ -3800,7 +3788,6 @@
 ||planetdns.net^
 ||play.ai^
 ||plex.skin57.de^
-||plushub.pro^
 ||pluton.plan9-dns.com^
 ||plwgroup.com^
 ||pm1239-bd.xyz^
@@ -3975,7 +3962,6 @@
 ||rockingwranchinc.com^
 ||rockstars.netphoenix.ru^
 ||rockwell.website^
-||romania.privacy-dns.pw^
 ||ron.si^
 ||root.sx^
 ||root64.de^
@@ -4260,9 +4246,7 @@
 ||surt.ovh^
 ||svg33.eu^
 ||swe.try-dns.com^
-||sweden.privacy-dns.pw^
 ||sweethome.in.eu.org^
-||switzerland.privacy-dns.pw^
 ||swtest.ru^
 ||syd.adfilter.net^
 ||syd.core.access.zznet.fun^
@@ -4415,7 +4399,6 @@
 ||unicast.uncensoreddns.dk^
 ||unicast2.servers.censurfridns.dk^
 ||unifi.carioka.com^
-||united-arab-emirates.privacy-dns.pw^
 ||unitedhardwood.com^
 ||unp.im^
 ||unusualperson.com^
