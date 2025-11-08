@@ -3093,6 +3093,7 @@ payload:
   - +.azure-dns.net
   - +.azure-dns.org
   - +.azure-mobile.net
+  - +.azure-sphere.com
   - +.azure-test.net
   - +.azure.com
   - +.azure.net
@@ -14919,6 +14920,7 @@ payload:
   - +.imagemodeler.com
   - +.imagepost.com
   - +.images-gaytube.com
+  - +.images.prismic.io
   - +.imageshack.com
   - +.imageshack.us
   - +.imagetwist.com
