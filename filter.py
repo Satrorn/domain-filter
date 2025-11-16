@@ -28,12 +28,10 @@ BLACKLIST_CONFIG = {
         "https://anti-ad.net/adguard.txt",
         "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt",
         "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt",
-        "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/domains/native.oppo-realme.txt"
-    ],
-    "ads_lite": [
-        "https://raw.githubusercontent.com/cjchxgxhc/domain-filter/refs/heads/main/rules/ads.txt",
-        "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt",
-        "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt"
+        "https://big.oisd.nl",
+        "https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt",
+        "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/domains/native.oppo-realme.txt",
+        "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/native.xiaomi.txt"
     ],
     "gfw": [
         "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt"
@@ -61,10 +59,9 @@ WHITELIST_CONFIG = {
         "https://raw.githubusercontent.com/cjchxgxhc/domain-filter/refs/heads/main/rules/ads_white.txt",
         "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/domains/tif.txt",
         "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/share/dead.list-aa",
-        "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/nsfw-onlydomains.txt"
-    ],
-    "ads_lite": [
-        "https://raw.githubusercontent.com/cjchxgxhc/domain-filter/refs/heads/main/rules/ads_white.txt"
+        "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/nsfw-onlydomains.txt",
+        "https://nsfw.oisd.nl",
+        "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/urlshortener-onlydomains.txt"
     ],
     "proxy": [
         "https://raw.githubusercontent.com/cjchxgxhc/domain-filter/refs/heads/main/rules/proxy_white.txt",
