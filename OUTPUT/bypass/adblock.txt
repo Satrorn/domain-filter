@@ -168,7 +168,6 @@
 ||adg.meviusberry.hidns.co^
 ||adg.mnml.co.in^
 ||adg.niub.eu.org^
-||adg.pidns.de^
 ||adg.proprietarypenguin.com^
 ||adg.rokh.biz^
 ||adg.rueiliu.space^
@@ -1358,7 +1357,6 @@
 ||dns.ihaveacloud.com^
 ||dns.ikataruto.com^
 ||dns.iki.my.id^
-||dns.imaicool.com^
 ||dns.imchristian.de^
 ||dns.immanuelschaffer.de^
 ||dns.inclusioproject.com^
@@ -1408,7 +1406,6 @@
 ||dns.jungle-im.ir^
 ||dns.jupitrdns.com^
 ||dns.justinnetworkingsolutions.com^
-||dns.k1vzx.com^
 ||dns.k3nny.fr^
 ||dns.kamilszczepanski.com^
 ||dns.kapite.in^
@@ -1585,7 +1582,6 @@
 ||dns.ocedric.net^
 ||dns.octoworld.fr^
 ||dns.odinpl.com^
-||dns.odirf.de^
 ||dns.ofdoom.net^
 ||dns.oliverweinhold.de^
 ||dns.oliviertv.co.za^
@@ -1661,7 +1657,6 @@
 ||dns.renardyre.com^
 ||dns.reolinks.ru^
 ||dns.repinger.com^
-||dns.repinger.my.id^
 ||dns.repressoh.it^
 ||dns.resoft.org^
 ||dns.retakecs.com^
@@ -3121,7 +3116,6 @@
 ||jnb02.dnscry.pt^
 ||jnprd.com^
 ||joe.dj^
-||johneldenring.lol^
 ||jonward.com^
 ||joouddo.ru^
 ||josephfamily.org^
@@ -3156,7 +3150,6 @@
 ||k.vu^
 ||k22.su^
 ||k3n.pw^
-||k3rnel-pan1c.online^
 ||kaandikec.com^
 ||kaiser.int.eu.org^
 ||kaiwu.xyz^
@@ -3332,7 +3325,6 @@
 ||man01.dnscry.pt^
 ||management.alexpollard.net^
 ||mao.fi^
-||maqgie.xyz^
 ||marieblazek.com^
 ||mask-canary.icloud.com^
 ||mask-h2.icloud.com^
@@ -3719,7 +3711,6 @@
 ||oury.privado.ovh^
 ||outie.8ws.net^
 ||outiejr.8ws.net^
-||ovhcloud.mehmetarikan.tech^
 ||owa.pvmedia.ru^
 ||ownip.net^
 ||packeting.eu^
