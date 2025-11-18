@@ -125,7 +125,6 @@
 ||ad.visbran.fr^
 ||adagio.tw^
 ||adampowell.pro^
-||adb-dns.sapient.cyou^
 ||adb-home.xaoimoon.fr^
 ||adb-wan.xaoimoon.fr^
 ||adb.aadityakushwaha.com^
@@ -440,7 +439,6 @@
 ||ag.hostme.co.il^
 ||ag.iyn.one^
 ||ag.marschi.de^
-||ag.sageton.pl^
 ||ag.snrka.ru^
 ||ag.ssrahul96.xyz^
 ||ag.stepnew.ru^
@@ -1623,7 +1621,6 @@
 ||dns.polatarasan.com.tr^
 ||dns.porteii.com^
 ||dns.powerbs.net^
-||dns.pragmasec.nl^
 ||dns.privado.ovh^
 ||dns.privateservices.pro^
 ||dns.propheci.xyz^
@@ -1877,7 +1874,6 @@
 ||dns01.almir1904.eu^
 ||dns01.enginyring.com^
 ||dns01.flm9.net^
-||dns01.sdu.pp.ua^
 ||dns02.almir1904.eu^
 ||dns02.enginyring.com^
 ||dns03.almir1904.eu^
@@ -2769,7 +2765,6 @@
 ||herkes.online^
 ||herodias.net^
 ||heroinewarrior.com^
-||hetz.sapient.cyou^
 ||hexxitcompany.com^
 ||hfgx.shop^
 ||hg8.asia^
@@ -3314,7 +3309,6 @@
 ||maherhost.uk^
 ||mail.data.haus^
 ||mail.hilton-groups.com^
-||mail.pragmasec.nl^
 ||mailer.amlegion.org^
 ||mailkyb.co^
 ||maincloud.ir^
@@ -3527,7 +3521,6 @@
 ||netmask.ca^
 ||networkguru.com^
 ||networkoutpost.com^
-||new.pragmasec.nl^
 ||newd.rezyro.com^
 ||newlibrarian.myqnapcloud.com^
 ||next.atomix.in^
@@ -3801,7 +3794,6 @@
 ||polisitogel.diy^
 ||polisitogel.green^
 ||polisitogel.hair^
-||polisitogel.limo^
 ||polisitogel.living^
 ||polisitogel.luxe^
 ||polisitogel.show^
@@ -4076,7 +4068,6 @@
 ||servep2p.com^
 ||servepics.com^
 ||servequake.com^
-||server.pragmasec.nl^
 ||server01.karl.one^
 ||server01.vboekel.nl^
 ||servernux.com^
@@ -4310,7 +4301,6 @@
 ||tia01.dnscry.pt^
 ||tienpham.id.vn^
 ||tiger.dns.qwer.pw^
-||tigrons.ru^
 ||timedns.net^
 ||timmes.nl^
 ||tinyrealm.com^
@@ -4540,7 +4530,6 @@
 ||wandana.franklinfamily.au^
 ||wanip.ch^
 ||wantaquddin.com^
-||waters888.com^
 ||waw01.dnscry.pt^
 ||waw02.dnscry.pt^
 ||waydnes.ru^
@@ -4551,7 +4540,6 @@
 ||webhop.me^
 ||webhop.net^
 ||webhop.org^
-||webmeel.pragmasec.nl^
 ||webok.net^
 ||webredirect.org^
 ||webs.vc^
