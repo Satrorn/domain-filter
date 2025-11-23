@@ -830,6 +830,7 @@ payload:
   - +.addyoutube.com
   - +.adelaidebbs.com
   - +.adelaidenow.com.au
+  - +.adfox.ru
   - +.adgoogle.net
   - +.adguard-dns.com
   - +.adguard-dns.io
@@ -864,6 +865,7 @@ payload:
   - +.adidas.ru
   - +.adidas.se
   - +.adinst.com
+  - +.admetrica.ru
   - +.admin.recaptcha.net
   - +.adobe-aemassets-value.com
   - +.adobe-audience-finder.com
@@ -11424,6 +11426,7 @@ payload:
   - +.heyzo.com
   - +.hf-iphone.com
   - +.hf.co
+  - +.hf.space
   - +.hg.cool
   - +.hgamer.pro
   - +.hgsacx.com
@@ -14135,6 +14138,7 @@ payload:
   - +.kinmen.org.tw
   - +.kinmen.travel
   - +.kinokuniya.com
+  - +.kinopoisk-ru.clstorage.net
   - +.kinopoisk.ru
   - +.kir.jp
   - +.kir2kos.net
@@ -16848,6 +16852,7 @@ payload:
   - +.namgyal.org
   - +.namgyalmonastery.org
   - +.namsisi.com
+  - +.namu.wiki
   - +.nan-net.com
   - +.nanonamad.com
   - +.nanopool.org
@@ -18779,6 +18784,7 @@ payload:
   - +.picpost.com
   - +.pics.ee
   - +.pics.vc
+  - +.picsart.com
   - +.picsee.co
   - +.picsee.pro
   - +.pictoa.com
@@ -26572,6 +26578,7 @@ payload:
   - +.yande.re
   - +.yandex-bank.net
   - +.yandex-images.clstorage.net
+  - +.yandex-team.ru
   - +.yandex.aero
   - +.yandex.az
   - +.yandex.by
@@ -26620,6 +26627,7 @@ payload:
   - +.yarnpkg.com
   - +.yasarang.net
   - +.yasni.co.uk
+  - +.yastat.net
   - +.yastatic.net
   - +.yasukuni.or.jp
   - +.yatong.info
