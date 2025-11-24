@@ -954,7 +954,6 @@
 ||digitale-gesellschaft.ch^
 ||digitalgroupe.com^
 ||digitallink.be^
-||dip.jp^
 ||disbish.com^
 ||diskstation.alexpollard.net^
 ||ditchyourip.com^
@@ -1550,7 +1549,6 @@
 ||dns.netrve.net^
 ||dns.netvpn.net^
 ||dns.neubsi.at^
-||dns.neutopia.org^
 ||dns.nextdns.io^
 ||dns.nguyendangduong.codes^
 ||dns.nguyendn.com^
@@ -2338,7 +2336,6 @@
 ||dynalias.org^
 ||dynamai.com^
 ||dynamic-dns.net^
-||dynamic-dns.us^
 ||dynamic-m.com^
 ||dynamic-site.net^
 ||dynamic.domains^
@@ -2929,7 +2926,6 @@
 ||ibuki.cgnat.net^
 ||ics.tw^
 ||ideasciviles.com^
-||idigo.org^
 ||idleplay.net^
 ||ieserver.net^
 ||iev01.dnscry.pt^
@@ -3631,7 +3627,6 @@
 ||ns2.wuyouss.com^
 ||ns3.bit-trail.nl^
 ||ns3.com^
-||ns3.link^
 ||ns3.name^
 ||ns3.opennameserver.org^
 ||ns3.wuyouss.com^
@@ -3924,7 +3919,6 @@
 ||resolver1.opendns.com^
 ||resolver2-fs.opendns.com^
 ||resolver2.absolight.net^
-||resolver2.dyndnsinternetguide.com^
 ||resolver2.hosting-cloud.net^
 ||resolver2.ipv6-sandbox.opendns.com^
 ||resolver2.opendns.com^
@@ -3994,7 +3988,6 @@
 ||sandmeiers.ch^
 ||sannon-stamm.com^
 ||sanns.aniuo.com^
-||sarah-lai.com^
 ||sascha-rabold.de^
 ||saves-the-whales.com^
 ||saya.rnrkurir.com^

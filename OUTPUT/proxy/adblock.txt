@@ -1054,6 +1054,7 @@
 ||ahvideosexe.com^
 ||ahxxx.club^
 ||ai-kan.net^
+||ai-sdk.dev^
 ||ai-wen.net^
 ||ai.com^
 ||ai.dev^
@@ -13169,6 +13170,7 @@
 ||iphoto.wang^
 ||ipicture.ru^
 ||ipify.org^
+||ipinfo.io^
 ||ipjetable.net^
 ||ipleadership.org^
 ||ipn.li^
@@ -18158,6 +18160,7 @@
 ||origin.tv^
 ||originalhulu.com^
 ||originalindianporn.com^
+||originlab.com^
 ||orithegame.com^
 ||orkut.com^
 ||orl.ly^
