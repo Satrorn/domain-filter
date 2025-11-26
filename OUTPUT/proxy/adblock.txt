@@ -8520,7 +8520,6 @@
 ||facebook30.net^
 ||facebook30.org^
 ||facebook4business.com^
-||facebookads.com^
 ||facebookadvertisingsecrets.com^
 ||facebookappcenter.info^
 ||facebookappcenter.net^
