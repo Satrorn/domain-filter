@@ -950,7 +950,6 @@
 ||demoteam.ch^
 ||den01.dnscry.pt^
 ||derevnya.px.i81.ru^
-||desec.io^
 ||dev.gonnadive.com^
 ||dflexy.house.nom.br^
 ||dfw02.dnscry.pt^
