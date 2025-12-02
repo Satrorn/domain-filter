@@ -513,6 +513,8 @@
 ||7mmtv.sx^
 ||7mmtv.tv^
 ||7tb.cc^
+||7tv.app^
+||7tv.io^
 ||8-d.com^
 ||8008206616.com^
 ||8111y.top^
@@ -4988,6 +4990,7 @@
 ||canonproprinters.com^
 ||cantonese.asia^
 ||canva.com^
+||canvastatus.com^
 ||canyu.org^
 ||cao.im^
 ||caobian.info^
@@ -11026,6 +11029,8 @@
 ||h528.com^
 ||h5dm.com^
 ||h5galgame.me^
+||habr.com^
+||habrastorage.org^
 ||hacg.club^
 ||hacg.in^
 ||hacg.li^
@@ -15604,6 +15609,7 @@
 ||metacafe.com^
 ||metacloud.com^
 ||metacpan.org^
+||metacritic.com^
 ||metacubex.one^
 ||metafilter.com^
 ||metalpha.finance^
@@ -20533,6 +20539,7 @@
 ||rstatic.net^
 ||rt.com^
 ||rtalabel.org^
+||rtbcdn.ru^
 ||rthk.hk^
 ||rthk.org.hk^
 ||rti.org.tw^
@@ -20586,6 +20593,7 @@
 ||rutracker.org^
 ||rutrecker.net^
 ||rutube.ru^
+||rutubelist.ru^
 ||ruvideos.net^
 ||ruyiseek.com^
 ||rxhj.net^
@@ -22834,6 +22842,7 @@
 ||tellme.pw^
 ||tellmewhygame.com^
 ||temetube.xyz^
+||temp-mail.org^
 ||temu.com^
 ||tenacy.com^
 ||tenbyfotolia.com^
@@ -24415,6 +24424,8 @@
 ||vaultify.net^
 ||vaultproject.io^
 ||vbap.com.au^
+||vbcdn.com^
+||vbcdn.net^
 ||vbejeyv.shop^
 ||vbstatic.co^
 ||vcanedge.com^
@@ -24622,8 +24633,10 @@
 ||viacom.com^
 ||viacomcbs.com^
 ||viacomcbspressexpress.com^
+||viber.co^
 ||viber.co.jp^
 ||viber.com^
+||viber.me^
 ||vica.info^
 ||victimsofcommunism.org^
 ||vidble.com^
