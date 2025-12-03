@@ -718,7 +718,6 @@
 ||c1.msocportal.my.id^
 ||ca.doh.cloudveil.org^
 ||cable-modem.org^
-||callies-online.site^
 ||camdvr.org^
 ||canadascastillo.com^
 ||canadianshield.cira.ca^
@@ -865,7 +864,6 @@
 ||d-n-s.org.uk^
 ||d.apemlegit.my.id^
 ||d.bod.lol^
-||d.carilagi.id^
 ||d.gametechnet.com^
 ||d.hansj.cc^
 ||d.hxhd.cc^
@@ -1097,7 +1095,6 @@
 ||dns.aykanbacaksoy.de^
 ||dns.azcom.dev^
 ||dns.azfar.my^
-||dns.azsopro.net^
 ||dns.b33.network^
 ||dns.b33.space^
 ||dns.b612.me^
@@ -1250,7 +1247,6 @@
 ||dns.enderblocks.net^
 ||dns.engineer-lib.ru^
 ||dns.engineer.web.id^
-||dns.enzonix.com^
 ||dns.epcot.fr^
 ||dns.epic.st^
 ||dns.erkin.top^
@@ -2465,7 +2461,6 @@
 ||es-ma.foxyfy.net^
 ||esel.stusta.mhn.de^
 ||esmtp.biz^
-||essentiallyjay.com^
 ||essentialventure.com^
 ||essexregional.org^
 ||est-a-la-maison.com^
@@ -4008,7 +4003,6 @@
 ||sabine.bruno2000.link^
 ||sabzipolobamahi.nl^
 ||sacarino.es^
-||safe-guard.badbotdev.xyz^
 ||safe.dot.dns.yandex.net^
 ||safe.eaccelera.com^
 ||safeservedns.com^
