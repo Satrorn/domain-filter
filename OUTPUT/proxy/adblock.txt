@@ -20457,7 +20457,6 @@
 ||roadshow.hk^
 ||robertmao.com^
 ||roblocks.com^
-||roblox-api.arkoselabs.co^
 ||roblox-api.arkoselabs.com^
 ||roblox.ca^
 ||roblox.cc^
@@ -23339,6 +23338,7 @@
 ||tig-ol-bitties.live^
 ||tigervpn.com^
 ||tik-tokapi.com^
+||tiktok-row.net^
 ||tiktok.com^
 ||tiktokcdn-eu.com^
 ||tiktokcdn-us.com^
@@ -23346,6 +23346,8 @@
 ||tiktokd.net^
 ||tiktokd.org^
 ||tiktokeu-cdn.com^
+||tiktokglobalshopv.com^
+||tiktokminis.us^
 ||tiktokv.com^
 ||tiktokv.eu^
 ||tiktokv.us^
