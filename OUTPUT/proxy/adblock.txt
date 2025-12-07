@@ -2268,6 +2268,7 @@
 ||arcolinux.com^
 ||arcolinux.info^
 ||arcolinuxforum.com^
+||arcraiders.com^
 ||arctosia.com^
 ||area120.com^
 ||areca-backup.org^
@@ -3467,6 +3468,7 @@
 ||bestrecipes.com.au^
 ||bestsexcam.com^
 ||bestshoesale2014.net^
+||bestsrv.de^
 ||besttitstube.com^
 ||besttube4you.com^
 ||bestvpn.com^
@@ -8011,6 +8013,8 @@
 ||emaga.com^
 ||emagic.de^
 ||emanna.com^
+||embark-studios.com^
+||embark.games^
 ||embase.com^
 ||embed-cdn.com^
 ||embed.ly^
@@ -8680,6 +8684,8 @@
 ||faceid99.com^
 ||faceid99.net^
 ||faceidglobal.com^
+||faceit-cdn.net^
+||faceit.com^
 ||faceless.me^
 ||faceobk.com^
 ||faceobok.com^
@@ -20176,6 +20182,7 @@
 ||rea.tech^
 ||reabble.com^
 ||reachporn.com^
+||reachthefinals.com^
 ||reachtheworldonfacebook.com^
 ||react.com^
 ||reactjs.com^
