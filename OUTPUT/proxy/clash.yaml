@@ -1008,6 +1008,7 @@ payload:
   - +.aex.com
   - +.af-east-201.myhuaweicloud.com
   - +.af-north-1.myhuaweicloud.com
+  - +.af-south-1.myhuaweicloud.com
   - +.af-west-202.myhuaweicloud.com
   - +.af.mil
   - +.afantibbs.com
@@ -1819,9 +1820,12 @@ payload:
   - +.ap-singapore.tencentcos.cn
   - +.ap-singapore.tencentcos.com
   - +.ap-singapore.tencentcos.com.cn
+  - +.ap-southeast-1.myhuaweicloud.com
+  - +.ap-southeast-2.myhuaweicloud.com
   - +.ap-southeast-201.myhuaweicloud.com
   - +.ap-southeast-202.myhuaweicloud.com
   - +.ap-southeast-203.myhuaweicloud.com
+  - +.ap-southeast-3.myhuaweicloud.com
   - +.ap-southeast-4.myhuaweicloud.com
   - +.ap-southeast-5.myhuaweicloud.com
   - +.ap-tokyo.myqcloud.com
@@ -1845,7 +1849,6 @@ payload:
   - +.api.ai
   - +.api.nebula-emby.com
   - +.api.news
-  - +.api.palworldgame.com
   - +.api.recaptcha.net
   - +.api.waqi.info
   - +.apiary.io
@@ -4800,6 +4803,7 @@ payload:
   - +.c-msedge.net
   - +.c-span.org
   - +.c-spanvideo.org
+  - +.c.gle
   - +.c.mi.com
   - +.c0930.com
   - +.c100tibet.org
@@ -6700,7 +6704,6 @@ payload:
   - +.depositphotos.com
   - +.deps.dev
   - +.deps.info
-  - +.deribit.cdn.prismic.io
   - +.deribit.com
   - +.derpibooru.org
   - +.desc.se
@@ -8344,6 +8347,7 @@ payload:
   - +.eu-moscow.tencentcos.com
   - +.eu-moscow.tencentcos.com.cn
   - +.eu-north-201.myhuaweicloud.com
+  - +.eu-west-0.myhuaweicloud.com
   - +.eu-west-1.myhuaweicloud.com
   - +.eu-west-101.myhuaweicloud.com
   - +.eu-west-201.myhuaweicloud.com
@@ -10287,7 +10291,6 @@ payload:
   - +.ggpds.com
   - +.ggpht.com
   - +.ggsel.com
-  - +.ggsel.net
   - +.ggsrv.com
   - +.ggssl.com
   - +.gh.io
@@ -12631,13 +12634,13 @@ payload:
   - +.imagebam.com
   - +.imagecurl.com
   - +.imagecurl.org
+  - +.imagedelivery.net
   - +.imagefap.com
   - +.imageflea.com
   - +.imageglass.org
   - +.imagemodeler.com
   - +.imagepost.com
   - +.images-gaytube.com
-  - +.images.prismic.io
   - +.imageshack.com
   - +.imageshack.us
   - +.imagetwist.com
@@ -14347,7 +14350,9 @@ payload:
   - +.l-msedge.net
   - +.la-forum.org
   - +.la-mama.ru
+  - +.la-north-2.myhuaweicloud.com
   - +.la-north-205.myhuaweicloud.com
+  - +.la-south-2.myhuaweicloud.com
   - +.labiennale.org
   - +.labo.wovs.tk
   - +.labyrinth2.com
@@ -14914,7 +14919,6 @@ payload:
   - +.lspimg.com
   - +.lss55.com
   - +.lsxszzg.com
-  - +.lt.sntp.uk
   - +.lthgav.buzz
   - +.ltn.com.tw
   - +.ltsports.com.tw
@@ -16885,6 +16889,7 @@ payload:
   - +.na-ashburn.tencentcos.com.cn
   - +.na-att-idns.net
   - +.na-east-0.myhuaweicloud.com
+  - +.na-mexico-1.myhuaweicloud.com
   - +.na-siliconvalley.myqcloud.com
   - +.na-siliconvalley.tencentcos.cn
   - +.na-siliconvalley.tencentcos.com
@@ -18410,6 +18415,7 @@ payload:
   - +.paljorpublications.com
   - +.palmislife.com
   - +.paltalk.com
+  - +.palworldgame.com
   - +.panasonic.com
   - +.panasonic.jp
   - +.pancakeswap.finance
@@ -19661,6 +19667,7 @@ payload:
   - +.printspots.com
   - +.printspots.net
   - +.prism-break.org
+  - +.prismic.io
   - +.prismlauncher.org
   - +.prismlive.com
   - +.prisoneralert.com
@@ -20594,6 +20601,7 @@ payload:
   - +.rtings.com
   - +.rtycminnesota.org
   - +.ru-moscow-1.myhuaweicloud.com
+  - +.ru-northwest-2.myhuaweicloud.com
   - +.ru-northwest-201.myhuaweicloud.com
   - +.ruanyifeng.com
   - +.ruby-lang.org
@@ -20669,6 +20677,7 @@ payload:
   - +.s81c.com
   - +.s8ds5gfm.xyz
   - +.s8forum.com
+  - +.sa-brazil-1.myhuaweicloud.com
   - +.sa-saopaulo.myqcloud.com
   - +.sa-saopaulo.tencentcos.cn
   - +.sa-saopaulo.tencentcos.com
@@ -21739,6 +21748,7 @@ payload:
   - +.snowcorp.com
   - +.snowlionpub.com
   - +.snowmiku.com
+  - +.sntp.uk
   - +.so-net.ne.jp
   - +.so-net.net.tw
   - +.soasta-dswb.com
