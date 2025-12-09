@@ -14654,7 +14654,6 @@
 ||linkideo.com^
 ||linkjunkies.com^
 ||links2linux.de^
-||linksalpha.com^
 ||linkshit.com^
 ||linktr.ee^
 ||linkuswell.com^
@@ -20043,6 +20042,7 @@
 ||r18av.com^
 ||r18lu-avi.shop^
 ||r18lu.com^
+||r2.dev^
 ||r34porn.net^
 ||ra.gg^
 ||rabbitscams.com^
@@ -23546,6 +23546,7 @@
 ||torrentkitty.tv^
 ||torrentleen.com^
 ||torrentmac.net^
+||torrentprivacy.com^
 ||torrentproject.se^
 ||torrenty.org^
 ||torrentz.eu^
@@ -26619,7 +26620,6 @@
 ||yahoo.com.br^
 ||yahoo.com.bz^
 ||yahoo.com.co^
-||yahoo.com.do^
 ||yahoo.com.ec^
 ||yahoo.com.eg^
 ||yahoo.com.es^
@@ -27018,7 +27018,6 @@
 ||youtube.com.br^
 ||youtube.com.by^
 ||youtube.com.co^
-||youtube.com.do^
 ||youtube.com.ec^
 ||youtube.com.ee^
 ||youtube.com.eg^
