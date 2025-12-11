@@ -1580,7 +1580,6 @@ payload:
   - +.dns.nodoa.me
   - +.dns.nominal.network
   - +.dns.nonomi.cc
-  - +.dns.notjakob.com
   - +.dns.novali.date
   - +.dns.novg.net
   - +.dns.npe.bz
@@ -2754,6 +2753,7 @@ payload:
   - +.h4ck.me
   - +.h4g3z1-doh.web.app
   - +.h4g3z1-dyndns.web.app
+  - +.ha.o51r15.com
   - +.hackquest.com
   - +.hackx.com
   - +.haf01.dnscry.pt
