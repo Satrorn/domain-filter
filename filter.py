@@ -25,12 +25,10 @@ USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/114.0.0.0 Safari/
 BLACKLIST_CONFIG = {
     "ads": [
         "https://raw.githubusercontent.com/cjchxgxhc/domain-filter/refs/heads/main/rules/ads.txt",
-        "https://anti-ad.net/adguard.txt",
+        "https://raw.githubusercontent.com/Aethersailor/adblockfilters-modified/refs/heads/main/rules/adblockdnslite.txt",
         "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt",
         "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt",
-        "https://big.oisd.nl",
-        "https://raw.githubusercontent.com/lingeringsound/10007_auto/master/all",
-        "https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt",
+        "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/pro.mini.txt",
         "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/domains/native.oppo-realme.txt",
         "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/native.xiaomi.txt"
     ],
@@ -62,7 +60,8 @@ WHITELIST_CONFIG = {
         "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/share/dead.list-aa",
         "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/nsfw-onlydomains.txt",
         "https://nsfw.oisd.nl",
-        "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/urlshortener-onlydomains.txt"
+        "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/urlshortener-onlydomains.txt",
+        "https://raw.githubusercontent.com/217heidai/adblockfilters/refs/heads/main/rules/white.txt"
     ],
     "proxy": [
         "https://raw.githubusercontent.com/cjchxgxhc/domain-filter/refs/heads/main/rules/proxy_white.txt",
