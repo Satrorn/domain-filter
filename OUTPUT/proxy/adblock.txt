@@ -8709,6 +8709,7 @@
 ||facecbook.org^
 ||facecook.com^
 ||facecook.org^
+||facedbook.com^
 ||faceebok.com^
 ||faceebook.com^
 ||faceebot.com^
