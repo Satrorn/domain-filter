@@ -324,7 +324,6 @@
 ||adguard.rowdyengeesje.nl^
 ||adguard.ruby.ci^
 ||adguard.sealyserver.com^
-||adguard.searom.ovh^
 ||adguard.senthil.us^
 ||adguard.servernation.xyz^
 ||adguard.serverrune.be^
@@ -1950,7 +1949,6 @@
 ||dns2.sillav.dev^
 ||dns2.slowb.ro^
 ||dns2.srv-home.fr^
-||dns2.svip.one^
 ||dns2.thylacine.co.nz^
 ||dns2.us^
 ||dns2.vinc.me^
@@ -4100,7 +4098,6 @@
 ||shalenkov.cc^
 ||shalenkov.dev^
 ||shanghainese.uk^
-||shaqnet.nu^
 ||sharkltd.com^
 ||sheatfish.org^
 ||sheepindonesia.org^
@@ -4210,7 +4207,6 @@
 ||stuff-4-sale.us^
 ||stufftoread.com^
 ||stughead.com^
-||stuns.org^
 ||sudo.rm-rf.cloud^
 ||sukidayo.eu.org^
 ||sumibi.org^
@@ -4442,7 +4438,6 @@
 ||ve3.info^
 ||venez.fr^
 ||venez.net^
-||venum.space^
 ||verymad.net^
 ||vicinanza.org^
 ||vie01.dnscry.pt^
