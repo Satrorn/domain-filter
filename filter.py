@@ -39,6 +39,17 @@ BLACKLIST_CONFIG = {
         "https://raw.githubusercontent.com/cjchxgxhc/domain-filter/refs/heads/main/rules/direct.txt",
         "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Notion/Notion.list"
     ],
+    "line": [
+        "https://258085.xyz:60/clash/domain-filter/Line.txt"
+    ],
+    "country": [
+        "https://258085.xyz:60/clash/domain-filter/Country.txt",
+        "https://258085.xyz:60/clash/domain-filter/Countryip.txt"
+    ],
+    "cn": [
+        "https://258085.xyz:60/clash/domain-filter/Cn.txt",
+        "https://258085.xyz:60/clash/domain-filter/Cnip.txt"
+    ],
     "proxy": [
         "https://raw.githubusercontent.com/cjchxgxhc/domain-filter/refs/heads/main/rules/proxy.txt",
         "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt",
