@@ -2274,6 +2274,7 @@
 ||archlinux.org^
 ||archlinux.org.ru^
 ||archlinuxarm.org^
+||archlinuxcn.org^
 ||archtr.org^
 ||arcolinux.com^
 ||arcolinux.info^
@@ -10539,6 +10540,7 @@
 ||gobuyonlinestore.net^
 ||gockhuatviet.com^
 ||godaddy.com^
+||godbolt.org^
 ||godfootsteps.org^
 ||godns.work^
 ||godoc.org^
