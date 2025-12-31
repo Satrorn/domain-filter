@@ -11500,6 +11500,7 @@
 ||herokussl.com^
 ||herominers.com^
 ||herringnetwork.com^
+||hetzner-cloud.de^
 ||hetzner.cloud^
 ||hetzner.com^
 ||hetzner.company^
@@ -18609,7 +18610,6 @@
 ||paygonline.com^
 ||payhulu.com^
 ||paylike.com^
-||paypa1.org^
 ||paypaal.com^
 ||paypal-activate.com^
 ||paypal-activate.info^
