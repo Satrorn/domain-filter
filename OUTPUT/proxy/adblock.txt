@@ -2299,6 +2299,7 @@
 ||aptoide.com^
 ||apyle.com^
 ||aqi.aqicn.org^
+||ar.hao123.com^
 ||arabgirls.us^
 ||arabianchicks.com^
 ||arabidopsis.org^
@@ -5954,6 +5955,7 @@
 ||coinex.com^
 ||coingecko.com^
 ||coingi.com^
+||coinglass.com^
 ||coinmap.org^
 ||coinmarketcap.com^
 ||coinone.co.kr^

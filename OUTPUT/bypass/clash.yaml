@@ -255,7 +255,6 @@ payload:
   - +.adguard.gambini.org
   - +.adguard.gattow.com
   - +.adguard.gbrossi.com.br
-  - +.adguard.georgev22.com
   - +.adguard.ghkyzz.us
   - +.adguard.glbd.fr
   - +.adguard.gonzcid.com
@@ -1239,7 +1238,6 @@ payload:
   - +.dns.dns-over-https.com
   - +.dns.dnsoverhttps.net
   - +.dns.dnswarden.com
-  - +.dns.dodhymikrotik.my.id
   - +.dns.doserver.top
   - +.dns.dotnet.win
   - +.dns.dr3ff1c13nt.com
@@ -1368,7 +1366,6 @@ payload:
   - +.dns.huas.me
   - +.dns.hub.com.de
   - +.dns.huizegunsing.nl
-  - +.dns.huizhechi.com
   - +.dns.hujiayucc.cn
   - +.dns.huseynov.work
   - +.dns.huth.nu
@@ -1387,7 +1384,6 @@ payload:
   - +.dns.inclusioproject.com
   - +.dns.indybanipal.com
   - +.dns.inforlogia.com
-  - +.dns.interhub.cc
   - +.dns.internal.espresso-tasse.de
   - +.dns.internal.hosmatic.com
   - +.dns.invent.hr
@@ -1493,7 +1489,6 @@ payload:
   - +.dns.litong.dev
   - +.dns.lmir.info
   - +.dns.lobbygod.com
-  - +.dns.lsho.top
   - +.dns.luismm2311.com
   - +.dns.lululu.dev
   - +.dns.luma-medien.com
@@ -1648,7 +1643,6 @@ payload:
   - +.dns.privateservices.pro
   - +.dns.propheci.xyz
   - +.dns.proprietarypenguin.com
-  - +.dns.psyk.fr
   - +.dns.pub
   - +.dns.pumpkinvrar.com
   - +.dns.qiyipic.iqiyi.com
@@ -1688,7 +1682,6 @@ payload:
   - +.dns.rogpurs.com
   - +.dns.romain.tech
   - +.dns.ronc.ru
-  - +.dns.root.me
   - +.dns.rotunneling.net
   - +.dns.safko.eu
   - +.dns.sainternet.xyz
@@ -2034,6 +2027,7 @@ payload:
   - +.dnsomatic.com
   - +.dnsotls.lab.nic.cl
   - +.dnspod.cn
+  - +.dnspod.com
   - +.dnspub.restena.lu
   - +.dnsrd.com
   - +.dnssec.dns.enginyring.com
@@ -2433,6 +2427,7 @@ payload:
   - +.eatuo.com
   - +.ebpmc.diskstation.me
   - +.ebpmc.tplinkdns.com
+  - +.ec.i-puppy.ru
   - +.echoparklake.com
   - +.ecs-doh.dnswarden.com
   - +.edgar.tobkar.net
@@ -2768,7 +2763,6 @@ payload:
   - +.ham.gd
   - +.hamshack.info
   - +.han01.dnscry.pt
-  - +.happy365.me
   - +.happyforever.com
   - +.happyminecraft.com
   - +.hatenboer.org
@@ -2935,7 +2929,6 @@ payload:
   - +.huntllcx.cn
   - +.huv01.dnscry.pt
   - +.hydra.plan9-ns1.com
-  - +.i-puppy.ru
   - +.i.dns-over-https.tk
   - +.i.passcloud.xyz
   - +.iah01.dnscry.pt
@@ -3175,7 +3168,6 @@ payload:
   - +.kanda.ru
   - +.kaohsiung.tv
   - +.katherine-dns.newcore.cl
-  - +.kavkaz.monster
   - +.kawpad.southeastasia.cloudapp.azure.com
   - +.kck-saratov.ru
   - +.kcolspacrm.ir
@@ -3260,7 +3252,6 @@ payload:
   - +.lflinkup.com
   - +.lflinkup.net
   - +.lflinkup.org
-  - +.lifeisa.live
   - +.likes-pie.com
   - +.likescandy.com
   - +.lilibox.freeboxos.fr
@@ -3314,19 +3305,6 @@ payload:
   - +.lux.sn0w.nl
   - +.lux01.dnscry.pt
   - +.lvpn.2rdp.ru
-  - +.mabuktogel.builders
-  - +.mabuktogel.business
-  - +.mabuktogel.cards
-  - +.mabuktogel.creditcard
-  - +.mabuktogel.degree
-  - +.mabuktogel.directory
-  - +.mabuktogel.enterprises
-  - +.mabuktogel.immobilien
-  - +.mabuktogel.limited
-  - +.mabuktogel.ltd
-  - +.mabuktogel.marketing
-  - +.mabuktogel.properties
-  - +.mabuktogel.solutions
   - +.macrofox.org
   - +.mad01.dnscry.pt
   - +.madhacker.biz
@@ -3407,7 +3385,6 @@ payload:
   - +.mmafan.biz
   - +.mnl01.dnscry.pt
   - +.mnode.net
-  - +.mo0on15.com
   - +.moe01.dnscry.pt
   - +.moise-et-maurice-gardent-la-maison.schneiderus.org
   - +.moneyhome.biz
@@ -3849,7 +3826,6 @@ payload:
   - +.project-evoex.de
   - +.project.li
   - +.project.zone
-  - +.prostoclub.ru
   - +.prostore.ru
   - +.protective.joindns4.eu
   - +.prout.be
@@ -3985,6 +3961,7 @@ payload:
   - +.roycom.win
   - +.rpz-public-resolver1.rrdns.pch.net
   - +.rtam.net
+  - +.ru.i-puppy.ru
   - +.rubyfish.cn
   - +.rum.si
   - +.rumpelsepp.org
@@ -4195,8 +4172,6 @@ payload:
   - +.spelar.se
   - +.spottt.com
   - +.spr.io
-  - +.spyro-the-bat.fleuryk.ovh
-  - +.spyrothebat.fleuryk.ovh
   - +.sq.trin.icu
   - +.sql01.com
   - +.sqlconcepts.com
@@ -4524,7 +4499,6 @@ payload:
   - +.vps.559299366.xyz
   - +.vps.atomix.in
   - +.vps.avc.cx
-  - +.vps.fleuryk.ovh
   - +.vps.grussenmeyer.com
   - +.vps.jmarkin.ru
   - +.vps.poly-tank.jp
