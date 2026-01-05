@@ -339,7 +339,6 @@ payload:
   - +.adguard.shuting.idv.tw
   - +.adguard.sixxi.de
   - +.adguard.soloanvill.ru
-  - +.adguard.som-it.net
   - +.adguard.spaceindex.net
   - +.adguard.sparshbajaj.me
   - +.adguard.sre.ovh
@@ -1012,6 +1011,7 @@ payload:
   - +.dns-nyc.aaflalo.me
   - +.dns-ovh.panszelescik.pl
   - +.dns-privacy.puregeni.us
+  - +.dns-public.ibakerserver.pt
   - +.dns-report.com
   - +.dns-revers.1-au.net
   - +.dns-sehat.apigw.online
@@ -1787,7 +1787,6 @@ payload:
   - +.dns.tls-data.de
   - +.dns.tomitomix.net
   - +.dns.tooizi.eu
-  - +.dns.tracker.ink
   - +.dns.trifanov-online.ru
   - +.dns.truong.fi
   - +.dns.trust404.win
@@ -4506,7 +4505,6 @@ payload:
   - +.vps01.bbhc.xyz
   - +.vpsus3.pzhg.me
   - +.vr.lt
-  - +.vrehm.fr
   - +.vserv.wkind.de
   - +.vski.172896.xyz
   - +.vsrv15195.customer.xenway.de
@@ -4619,7 +4617,6 @@ payload:
   - +.yourtrap.com
   - +.yovbak.com
   - +.ys4.de
-  - +.yujunwanwu.cn
   - +.yukito.duanzx.top
   - +.yul01.dnscry.pt
   - +.yundun.icu
