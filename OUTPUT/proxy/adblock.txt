@@ -1131,6 +1131,7 @@
 ||ai-wen.net^
 ||ai.com^
 ||ai.dev^
+||ai.studio^
 ||ai7995.site^
 ||ai91porn.cc^
 ||aiasahi.jp^
@@ -18389,6 +18390,7 @@
 ||onxxxvideo.com^
 ||ood.opsource.net^
 ||oojj.de^
+||ooni.io^
 ||ooni.org^
 ||oopsforum.com^
 ||ootbstudio.co.kr^
@@ -20907,6 +20909,7 @@
 ||rustup.rs^
 ||rusvpn.com^
 ||ruten.com.tw^
+||rutor.info^
 ||rutracker.cc^
 ||rutracker.cr^
 ||rutracker.me^
@@ -26362,6 +26365,7 @@
 ||xcafe.com^
 ||xcafe.in^
 ||xcams.com^
+||xcancel.com^
 ||xcg123.com^
 ||xchina.co^
 ||xchina.fun^
