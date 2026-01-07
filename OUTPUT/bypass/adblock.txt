@@ -15,6 +15,7 @@
 ||120v.ac^
 ||123000123.xyz^
 ||1337.cx^
+||14921004.xyz^
 ||16-b.it^
 ||1735r.ru^
 ||1a.ns.ozer.im^
@@ -91,6 +92,7 @@
 ||88uan.com^
 ||88zkt.com^
 ||959818.xyz^
+||9827015.xyz^
 ||9966.org^
 ||99tac.com^
 ||a-bld.sys-adm.in^
@@ -205,6 +207,7 @@
 ||adguard.aminetwork.biz^
 ||adguard.amscenter.net^
 ||adguard.app.sabino.pro^
+||adguard.avavd.ru^
 ||adguard.avdkishore.dev^
 ||adguard.ayrespace.cc^
 ||adguard.baltes.info^
@@ -299,6 +302,7 @@
 ||adguard.mokocup.dev^
 ||adguard.myddns.org^
 ||adguard.nasaud.info^
+||adguard.neelyha.tk^
 ||adguard.neotix.net^
 ||adguard.netmasc.services^
 ||adguard.nielsenhost.dk^
@@ -587,6 +591,7 @@
 ||au-syd-w-p-1.nashkan.net^
 ||au.rslvr.eu^
 ||au.teradns.org^
+||auberge78.site^
 ||auraria.org^
 ||authorizeddns.net^
 ||authorizeddns.org^
@@ -1200,6 +1205,7 @@
 ||dns.cwlys.com^
 ||dns.cybertonic.tech^
 ||dns.cynthialabs.net^
+||dns.cysynex.cloud^
 ||dns.d365.in^
 ||dns.d4d.moe^
 ||dns.d8e.ru^
@@ -1269,6 +1275,7 @@
 ||dns.esnube.es^
 ||dns.eu-frankfurt-1.oraclecloud.com^
 ||dns.everdns.tech^
+||dns.exhome.pl^
 ||dns.exitstat.us^
 ||dns.exonip.de^
 ||dns.expert^
@@ -1311,6 +1318,7 @@
 ||dns.gayanalysing.co.uk^
 ||dns.geekbyte.de^
 ||dns.geohide.ru^
+||dns.getnoclip.link^
 ||dns.ghost.pm^
 ||dns.gi.co.id^
 ||dns.ginovs.nl^
@@ -1414,6 +1422,7 @@
 ||dns.jimwelanobong.com^
 ||dns.jinwoo.dev^
 ||dns.jiyi.eu^
+||dns.jmore.dev^
 ||dns.joey01245.nl^
 ||dns.johndave.me^
 ||dns.joindns4.in^
@@ -1449,6 +1458,7 @@
 ||dns.kloiber.co.at^
 ||dns.knyfie.com^
 ||dns.kobo.dev^
+||dns.koretech.com.br^
 ||dns.korzhyk.pp.ua^
 ||dns.kosan.moe^
 ||dns.koshin.me^
@@ -1798,6 +1808,7 @@
 ||dns.umbrella.com^
 ||dns.unerror.network^
 ||dns.unitech.company^
+||dns.unknown-universe.co.uk^
 ||dns.unx.io^
 ||dns.uplenk.com^
 ||dns.us-ashburn-1.oraclecloud.com^
@@ -1829,6 +1840,7 @@
 ||dns.vps.pw^
 ||dns.w3ctag.org^
 ||dns.wael.name^
+||dns.walker.id^
 ||dns.walshnet.co.uk^
 ||dns.wang.art^
 ||dns.wantfreedom.eu.org^
@@ -2679,6 +2691,7 @@
 ||gigatapbot.top^
 ||giize.com^
 ||ginnungagap.rabenhain.net^
+||gitea.sukon.idv.tw^
 ||glacius.top^
 ||gleeze.com^
 ||global-instr.us^
@@ -3163,6 +3176,7 @@
 ||kaiwu.xyz^
 ||kalbas.com.vn^
 ||kallemarc.de^
+||kams.kii.qzz.io^
 ||kanda.ru^
 ||kaohsiung.tv^
 ||katherine-dns.newcore.cl^
@@ -4636,6 +4650,7 @@
 ||zal01.dnscry.pt^
 ||zanity.net^
 ||zanty123456.myasustor.com^
+||zapranet.my.id^
 ||zapto.org^
 ||zburger.top^
 ||zdn.ro^
@@ -4645,6 +4660,7 @@
 ||zeusvps.cloudns.nz^
 ||zhang.wenru.xyz^
 ||zhengkaiyun.top^
+||zhk.13142233.xyz^
 ||zneth.com^
 ||zoneedit.com^
 ||zougloub.eu^
