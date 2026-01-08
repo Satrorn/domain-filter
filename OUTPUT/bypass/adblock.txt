@@ -79,6 +79,7 @@
 ||6301s.dangkiem.com^
 ||64-b.it^
 ||6600.org^
+||688.org^
 ||7766.org^
 ||77qac.com^
 ||77uam.com^
@@ -863,6 +864,7 @@
 ||crypt.mostsecureme.com^
 ||cryptd.space^
 ||crypto.sx^
+||cryptostorm.is^
 ||cryptroute.com^
 ||csproject.org^
 ||cube.neubsi.at^
@@ -1129,6 +1131,7 @@
 ||dns.bibica.net^
 ||dns.bibitos.cc^
 ||dns.bitdefender.net^
+||dns.bitgeek.in^
 ||dns.bitservices.io^
 ||dns.bitup.de^
 ||dns.blaumer.dev^
@@ -1151,6 +1154,7 @@
 ||dns.cahlen.com^
 ||dns.caliph.dev^
 ||dns.carson-family.com^
+||dns.carter.me^
 ||dns.casadecampo.casa^
 ||dns.caspervk.net^
 ||dns.cctld.kg^
@@ -3996,6 +4000,7 @@
 ||sabine.bruno2000.link^
 ||sabzipolobamahi.nl^
 ||sacarino.es^
+||safe-guard.badbotdev.xyz^
 ||safe.dot.dns.yandex.net^
 ||safe.eaccelera.com^
 ||safeservedns.com^
