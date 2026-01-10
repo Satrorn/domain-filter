@@ -8624,7 +8624,6 @@
 ||facebboook.com^
 ||facebcook.com^
 ||facebdok.com^
-||facebgook.com^
 ||facebhook.com^
 ||facebkkk.com^
 ||facebo-ok.com^
@@ -20456,7 +20455,6 @@
 ||rbxcdn.com^
 ||rbxinfra.net^
 ||rbxlabs.com^
-||rbxtrk.com^
 ||rcinet.ca^
 ||rcl07.xyz^
 ||rclon.com^

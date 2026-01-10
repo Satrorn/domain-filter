@@ -187,6 +187,7 @@
 ||adg.webyfa.ir^
 ||adg.yybyy.wiki^
 ||adg5yvi.ngatngay.net^
+||adgaurd.lingmont.net^
 ||adgh.imtsui.com^
 ||adgh.xrossj.top^
 ||adghome.charleschan.net^
@@ -1002,6 +1003,7 @@
 ||diskstation.alexpollard.net^
 ||ditchyourip.com^
 ||divx.se^
+||diy.itsa.top^
 ||dlinkddns.com^
 ||dmit.wangjiaqi.store^
 ||dmjp.joeyl.de^
@@ -1580,6 +1582,7 @@
 ||dns.mni.li^
 ||dns.molinero.dev^
 ||dns.momou.ch^
+||dns.moog.sh^
 ||dns.mooncheng.top^
 ||dns.moondip.net^
 ||dns.moonssif.com^
@@ -1743,6 +1746,7 @@
 ||dns.sark.dev^
 ||dns.sb^
 ||dns.sbstructure.ir^
+||dns.scapetical.com^
 ||dns.scarx.net^
 ||dns.scayn.com^
 ||dns.schlagheck.berlin^
@@ -3199,6 +3203,7 @@
 ||jnb02.dnscry.pt^
 ||jnprd.com^
 ||joe.dj^
+||johneldenring.lol^
 ||jomblo.asia^
 ||jonward.com^
 ||joouddo.ru^
@@ -3304,6 +3309,7 @@
 ||laptopdns.dr3ff1c13nt.com^
 ||larkin.wang^
 ||larzzons.com^
+||las-vegas.privacy-dns.pw^
 ||las01.dnscry.pt^
 ||lastentarvike.fi^
 ||lax.core.access.zznet.fun^
@@ -3380,6 +3386,7 @@
 ||lukscasino-929-tr.xyz^
 ||lux.sn0w.nl^
 ||lux01.dnscry.pt^
+||luxembourg.privacy-dns.pw^
 ||lvpn.2rdp.ru^
 ||macrofox.org^
 ||mad01.dnscry.pt^
@@ -3397,6 +3404,7 @@
 ||man01.dnscry.pt^
 ||management.alexpollard.net^
 ||mao.fi^
+||maqgie.xyz^
 ||marieblazek.com^
 ||mask-canary.icloud.com^
 ||mask-h2.icloud.com^
@@ -4035,6 +4043,7 @@
 ||rockingwranchinc.com^
 ||rockstars.netphoenix.ru^
 ||rockwell.website^
+||romania.privacy-dns.pw^
 ||ron.si^
 ||root.sx^
 ||root64.de^
@@ -4299,6 +4308,7 @@
 ||strangled.net^
 ||strassmair.org^
 ||stratus.bugz.fr^
+||stroyexpert.org^
 ||structoriumwings.ru^
 ||stuff-4-sale.org^
 ||stuff-4-sale.us^
@@ -4318,6 +4328,7 @@
 ||svg33.eu^
 ||swe.try-dns.com^
 ||sweethome.in.eu.org^
+||switzerland.privacy-dns.pw^
 ||swtest.ru^
 ||syd.adfilter.net^
 ||syd.core.access.zznet.fun^
@@ -4466,6 +4477,7 @@
 ||unicast.uncensoreddns.dk^
 ||unicast2.servers.censurfridns.dk^
 ||unifi.carioka.com^
+||united-arab-emirates.privacy-dns.pw^
 ||unitedhardwood.com^
 ||unp.im^
 ||unusualperson.com^
