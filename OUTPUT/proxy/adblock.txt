@@ -11633,7 +11633,6 @@
 ||heritage.org^
 ||hernudepics.com^
 ||herodex.org^
-||heroero.com^
 ||heroesofdragonage.com^
 ||heroesofthestorm.com^
 ||heroku-app.com^
@@ -17754,9 +17753,12 @@
 ||nikezoom.com^
 ||nikkan-gendai.com^
 ||nikkansports.com^
+||nikke-de.com^
 ||nikke-en.com^
+||nikke-fr.com^
 ||nikke-jp.com^
 ||nikke-kr.com^
+||nikke-sea.com^
 ||nikkei-cnbc.co.jp^
 ||nikkei.co.jp^
 ||nikkei.com^
@@ -26723,6 +26725,7 @@
 ||xuite.net^
 ||xujan.com^
 ||xuzhiyong.net^
+||xv-ru.com^
 ||xv1.monster^
 ||xvbelink.com^
 ||xvds.tv^
@@ -26736,8 +26739,10 @@
 ||xvideo1.org^
 ||xvideo2.org^
 ||xvideoporno.tv^
+||xvideos-ar.com^
 ||xvideos-cdn.com^
 ||xvideos-dl.top^
+||xvideos-india.com^
 ||xvideos-porn-video.com^
 ||xvideos-xxxx.com^
 ||xvideos.blog^
