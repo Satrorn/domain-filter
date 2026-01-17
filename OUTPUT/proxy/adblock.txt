@@ -17945,14 +17945,18 @@
 ||ntdimg.com^
 ||ntdtv-dc.com^
 ||ntdtv.ca^
+||ntdtv.co.il^
 ||ntdtv.co.kr^
 ||ntdtv.com^
 ||ntdtv.com.tw^
 ||ntdtv.cz^
+||ntdtv.fr^
 ||ntdtv.jp^
 ||ntdtv.kr^
 ||ntdtv.org^
+||ntdtv.se^
 ||ntdtvla.com^
+||ntdvideo.tw^
 ||ntdvn.com^
 ||ntlk.org^
 ||ntnews.com.au^
@@ -23019,7 +23023,6 @@
 ||taiav.com^
 ||tail-f.com^
 ||tailf.com^
-||tailscale.com^
 ||tailscale.io^
 ||tailwindtraders.com^
 ||taiolongdh.sbs^

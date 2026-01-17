@@ -309,7 +309,6 @@
 ||adguard.myddns.org^
 ||adguard.nasaud.info^
 ||adguard.neelyha.tk^
-||adguard.neotix.net^
 ||adguard.netmasc.services^
 ||adguard.nielsenhost.dk^
 ||adguard.niko-sem.com^
@@ -1445,7 +1444,6 @@
 ||dns.itsec.crolla.net^
 ||dns.itwht.com^
 ||dns.itya.xyz^
-||dns.izyserv.site^
 ||dns.jamessliu.com^
 ||dns.japan.joshcheng.host^
 ||dns.jcdn.site^
@@ -2839,7 +2837,6 @@
 ||happyforever.com^
 ||happyminecraft.com^
 ||hatenboer.org^
-||hbmc.net^
 ||hdns.ksyun.com^
 ||hdnsadguardhome.me^
 ||health-carereform.com^
@@ -2860,7 +2857,6 @@
 ||himedns.com^
 ||himeko297.asuscomm.com^
 ||hin.tw^
-||hiprinter.com^
 ||hitian.me^
 ||hitremixes.com^
 ||hk-adg.bluenight.me^
@@ -3789,7 +3785,6 @@
 ||ornext.luxury-web.kz^
 ||orpi.privado.ovh^
 ||orskkino.ru^
-||ortudns.com^
 ||oscnl.site^
 ||ott01.dnscry.pt^
 ||otzo.com^
@@ -3926,7 +3921,6 @@
 ||publicdnsserver.com^
 ||publicvm.com^
 ||pudim.info^
-||pure.lunetra.online^
 ||puredns.org^
 ||purpose.shamanlanding.org^
 ||pygos.space^
