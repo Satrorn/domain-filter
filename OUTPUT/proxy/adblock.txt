@@ -5187,6 +5187,7 @@
 ||castingcouch-x.com^
 ||castro.fm^
 ||casualhomemadesex.com^
+||cataboom.com^
 ||catalina.hk^
 ||catalinacruz.com^
 ||catbox.moe^
@@ -6076,6 +6077,7 @@
 ||conquerwithcharacter.com^
 ||conscrypt.com^
 ||conscrypt.org^
+||consentpro.com^
 ||constitutionalism.solutions^
 ||constructware.com^
 ||consul.io^
@@ -18562,6 +18564,7 @@
 ||orzistic.org^
 ||orzqwq.com^
 ||osakamotion.net^
+||osano.com^
 ||osdn.net^
 ||osfoora.com^
 ||osha.gov^
@@ -20092,6 +20095,7 @@
 ||ptzwx.com^
 ||pub.dev^
 ||pubg.com^
+||pubg1.battleye.com^
 ||public-sex-porn.com^
 ||public-trust.com^
 ||public-us-pingsx.api.clonoth.com^
@@ -24671,6 +24675,7 @@
 ||usenix.org^
 ||useplannr.com^
 ||userapi.com^
+||usercentrics.eu^
 ||usercontent.dev^
 ||usercontent.goog^
 ||userpxt.io^
@@ -27121,7 +27126,6 @@
 ||yandex.cloud^
 ||yandex.co.il^
 ||yandex.com^
-||yandex.com.am^
 ||yandex.com.ge^
 ||yandex.com.tr^
 ||yandex.com.ua^
