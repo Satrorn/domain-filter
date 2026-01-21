@@ -1075,7 +1075,6 @@ payload:
   - +.aex.com
   - +.af-east-201.myhuaweicloud.com
   - +.af-north-1.myhuaweicloud.com
-  - +.af-south-1.myhuaweicloud.com
   - +.af-west-202.myhuaweicloud.com
   - +.af.mil
   - +.afantibbs.com
@@ -1380,8 +1379,6 @@ payload:
   - +.alienware.se
   - +.alienware.us
   - +.alionet.org
-  - +.alipay.hk
-  - +.alipaymo.com
   - +.alive.bar
   - +.aliveipc.com
   - +.aliveitsm.com
@@ -1868,42 +1865,25 @@ payload:
   - +.aoxx69.net
   - +.aozorabank.co.jp
   - +.ap-bangkok.myqcloud.com
-  - +.ap-bangkok.tencentcos.cn
   - +.ap-bangkok.tencentcos.com
-  - +.ap-bangkok.tencentcos.com.cn
   - +.ap-hongkong.myqcloud.com
-  - +.ap-hongkong.tencentcos.cn
   - +.ap-hongkong.tencentcos.com
-  - +.ap-hongkong.tencentcos.com.cn
   - +.ap-jakarta.myqcloud.com
-  - +.ap-jakarta.tencentcos.cn
   - +.ap-jakarta.tencentcos.com
-  - +.ap-jakarta.tencentcos.com.cn
   - +.ap-mumbai.myqcloud.com
-  - +.ap-mumbai.tencentcos.cn
   - +.ap-mumbai.tencentcos.com
-  - +.ap-mumbai.tencentcos.com.cn
   - +.ap-northeast-201.myhuaweicloud.com
   - +.ap-seoul.myqcloud.com
-  - +.ap-seoul.tencentcos.cn
   - +.ap-seoul.tencentcos.com
-  - +.ap-seoul.tencentcos.com.cn
   - +.ap-singapore.myqcloud.com
-  - +.ap-singapore.tencentcos.cn
   - +.ap-singapore.tencentcos.com
-  - +.ap-singapore.tencentcos.com.cn
-  - +.ap-southeast-1.myhuaweicloud.com
-  - +.ap-southeast-2.myhuaweicloud.com
   - +.ap-southeast-201.myhuaweicloud.com
   - +.ap-southeast-202.myhuaweicloud.com
   - +.ap-southeast-203.myhuaweicloud.com
-  - +.ap-southeast-3.myhuaweicloud.com
   - +.ap-southeast-4.myhuaweicloud.com
   - +.ap-southeast-5.myhuaweicloud.com
   - +.ap-tokyo.myqcloud.com
-  - +.ap-tokyo.tencentcos.cn
   - +.ap-tokyo.tencentcos.com
-  - +.ap-tokyo.tencentcos.com.cn
   - +.ap.org
   - +.ap0le.com
   - +.apa.org
@@ -3678,7 +3658,6 @@ payload:
   - +.bili2.cc
   - +.bili888.com
   - +.bili999.com
-  - +.bilibili.tv
   - +.bilibili230.com
   - +.bilibili301.xyz
   - +.bilibili306.xyz
@@ -8490,15 +8469,10 @@ payload:
   - +.eu-central-202.myhuaweicloud.com
   - +.eu-consumer-empowerment.com
   - +.eu-frankfurt.myqcloud.com
-  - +.eu-frankfurt.tencentcos.cn
   - +.eu-frankfurt.tencentcos.com
-  - +.eu-frankfurt.tencentcos.com.cn
   - +.eu-moscow.myqcloud.com
-  - +.eu-moscow.tencentcos.cn
   - +.eu-moscow.tencentcos.com
-  - +.eu-moscow.tencentcos.com.cn
   - +.eu-north-201.myhuaweicloud.com
-  - +.eu-west-0.myhuaweicloud.com
   - +.eu-west-1.myhuaweicloud.com
   - +.eu-west-101.myhuaweicloud.com
   - +.eu-west-201.myhuaweicloud.com
@@ -14604,9 +14578,7 @@ payload:
   - +.l-msedge.net
   - +.la-forum.org
   - +.la-mama.ru
-  - +.la-north-2.myhuaweicloud.com
   - +.la-north-205.myhuaweicloud.com
-  - +.la-south-2.myhuaweicloud.com
   - +.labiennale.org
   - +.labo.wovs.tk
   - +.labyrinth2.com
@@ -17157,20 +17129,13 @@ payload:
   - +.n3ro.net
   - +.n3ro.wtf
   - +.na-ashburn.myqcloud.com
-  - +.na-ashburn.tencentcos.cn
   - +.na-ashburn.tencentcos.com
-  - +.na-ashburn.tencentcos.com.cn
   - +.na-att-idns.net
   - +.na-east-0.myhuaweicloud.com
-  - +.na-mexico-1.myhuaweicloud.com
   - +.na-siliconvalley.myqcloud.com
-  - +.na-siliconvalley.tencentcos.cn
   - +.na-siliconvalley.tencentcos.com
-  - +.na-siliconvalley.tencentcos.com.cn
   - +.na-toronto.myqcloud.com
-  - +.na-toronto.tencentcos.cn
   - +.na-toronto.tencentcos.com
-  - +.na-toronto.tencentcos.com.cn
   - +.naacoalition.org
   - +.naaktevrouwenporno.com
   - +.nab.com.au
@@ -20931,7 +20896,6 @@ payload:
   - +.rtings.com
   - +.rtycminnesota.org
   - +.ru-moscow-1.myhuaweicloud.com
-  - +.ru-northwest-2.myhuaweicloud.com
   - +.ru-northwest-201.myhuaweicloud.com
   - +.ruanyifeng.com
   - +.ruby-lang.org
@@ -21009,11 +20973,8 @@ payload:
   - +.s81c.com
   - +.s8ds5gfm.xyz
   - +.s8forum.com
-  - +.sa-brazil-1.myhuaweicloud.com
   - +.sa-saopaulo.myqcloud.com
-  - +.sa-saopaulo.tencentcos.cn
   - +.sa-saopaulo.tencentcos.com
-  - +.sa-saopaulo.tencentcos.com.cn
   - +.sa.com
   - +.sa.hao123.com
   - +.saasexch.cc
@@ -21169,6 +21130,7 @@ payload:
   - +.sbux.com.my
   - +.sbuxcard.com
   - +.sc-cdn.net
+  - +.sc.com
   - +.sca-tolo.info
   - +.scala-lang.org
   - +.scala-sbt.org
@@ -22510,6 +22472,7 @@ payload:
   - +.staffhub.ms
   - +.stage64.hk
   - +.standard.co.uk
+  - +.standardchartered.com
   - +.standardsuniversity.org
   - +.standupfortibet.org
   - +.standwithhk.org
@@ -25934,6 +25897,7 @@ payload:
   - +.wefightcensorship.org
   - +.wefong.com
   - +.weiboleak.com
+  - +.weights.com
   - +.weihuo.org
   - +.weijingsheng.org
   - +.weimi180.com
@@ -27277,6 +27241,9 @@ payload:
   - +.youjizz.sex
   - +.youlucky.com
   - +.youmaker.com
+  - +.youmind.ai
+  - +.youmind.com
+  - +.youmind.site
   - +.young-amateur-movies.com
   - +.young-webcam.net
   - +.young-xxx.net
