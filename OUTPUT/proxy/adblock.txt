@@ -1055,7 +1055,6 @@
 ||advertising.com^
 ||adwordsexpress.com^
 ||ae-ad-1.myhuaweicloud.com^
-||ae-rus.net^
 ||ae.hao123.com^
 ||ae.org^
 ||aeasyshop.com^
@@ -1069,12 +1068,9 @@
 ||aerogardcn.com^
 ||aerospace-cadcam.com^
 ||aerospace-design.com^
-||aestatic.net^
 ||aesworkshops.com^
 ||aex.com^
-||af-east-201.myhuaweicloud.com^
 ||af-north-1.myhuaweicloud.com^
-||af-west-202.myhuaweicloud.com^
 ||af.mil^
 ||afantibbs.com^
 ||afappyending.com^
@@ -1225,9 +1221,6 @@
 ||ajsands.com^
 ||ajsjx.com^
 ||ajtalk.com^
-||ak-p.tripcdn.com^
-||ak-s-cw.tripcdn.com^
-||ak-s.tripcdn.com^
 ||ak1.net^
 ||aka-ai.com^
 ||aka-ai.net^
@@ -1293,7 +1286,6 @@
 ||akasha.world^
 ||akastream.com^
 ||akastream.net^
-||akatest.tripcdn.com^
 ||akatns.net^
 ||akatsukiworks.com^
 ||akiba-online.com^
@@ -1871,16 +1863,11 @@
 ||ap-jakarta.tencentcos.com^
 ||ap-mumbai.myqcloud.com^
 ||ap-mumbai.tencentcos.com^
-||ap-northeast-201.myhuaweicloud.com^
 ||ap-seoul.myqcloud.com^
 ||ap-seoul.tencentcos.com^
 ||ap-singapore.myqcloud.com^
 ||ap-singapore.tencentcos.com^
-||ap-southeast-201.myhuaweicloud.com^
-||ap-southeast-202.myhuaweicloud.com^
-||ap-southeast-203.myhuaweicloud.com^
 ||ap-southeast-4.myhuaweicloud.com^
-||ap-southeast-5.myhuaweicloud.com^
 ||ap-tokyo.myqcloud.com^
 ||ap-tokyo.tencentcos.com^
 ||ap.org^
@@ -2031,6 +2018,7 @@
 ||apple.eu^
 ||apple.fi^
 ||apple.fr^
+||apple.hamburg^
 ||apple.hn^
 ||apple.hr^
 ||apple.hu^
@@ -2335,7 +2323,6 @@
 ||arewereadyyet.com^
 ||areyoucreditwise.com^
 ||argo-bdp.com^
-||argotunnel.com^
 ||aria.ms^
 ||arirangmeari.com^
 ||ark.to^
@@ -2371,10 +2358,6 @@
 ||arxiv.org^
 ||arzon.jp^
 ||as-hp.ca^
-||as-south-0.myhuaweicloud.com^
-||as-south-201.myhuaweicloud.com^
-||as-south-205.myhuaweicloud.com^
-||as-south-207.myhuaweicloud.com^
 ||asacp.org^
 ||asagaku.com^
 ||asahi.com^
@@ -2818,9 +2801,6 @@
 ||avxlive.icu^
 ||avxxc.com^
 ||avyahoo.com^
-||aw-d.tripcdn.com^
-||aw-p.tripcdn.com^
-||aw-s.tripcdn.com^
 ||awabank.co.jp^
 ||awayoutgame.com^
 ||aweencore.com^
@@ -4878,9 +4858,7 @@
 ||byrut.org^
 ||byspotify.com^
 ||bytedapm.com^
-||byteglb.com^
 ||byteoversea.com^
-||byteoversea.net^
 ||bytick.com^
 ||bzazi.com^
 ||c-est-simple.com^
@@ -4897,7 +4875,6 @@
 ||c4assets.com^
 ||c4rex.co^
 ||c4slive.com^
-||ca-east-201.myhuaweicloud.com^
 ||ca.file.myqcloud.com^
 ||cabdirect.org^
 ||cableav.tv^
@@ -6291,7 +6268,6 @@
 ||cuckwimp.com^
 ||cuebic.biz^
 ||cuffiesaldi.com^
-||cuguplus.com^
 ||cuhk.edu.hk^
 ||cuhkacs.org^
 ||cuihua.org^
@@ -6312,7 +6288,6 @@
 ||cumteenporn.com^
 ||cunhua.pics^
 ||cuniq.com^
-||cuniq.sg^
 ||cup.com.hk^
 ||cups.org^
 ||curbed.com^
@@ -8464,17 +8439,12 @@
 ||etviet.com^
 ||etvonline.hk^
 ||etwealth.com^
-||eu-central-201.myhuaweicloud.com^
-||eu-central-202.myhuaweicloud.com^
 ||eu-consumer-empowerment.com^
 ||eu-frankfurt.myqcloud.com^
 ||eu-frankfurt.tencentcos.com^
 ||eu-moscow.myqcloud.com^
 ||eu-moscow.tencentcos.com^
-||eu-north-201.myhuaweicloud.com^
-||eu-west-1.myhuaweicloud.com^
 ||eu-west-101.myhuaweicloud.com^
-||eu-west-201.myhuaweicloud.com^
 ||eu.org^
 ||eubluecardvisa.com^
 ||eucasino.com^
@@ -9746,6 +9716,7 @@
 ||freeadultgames.tv^
 ||freealim.com^
 ||freeanimalporn.net^
+||freeapi.ipip.net^
 ||freearabsexx.com^
 ||freeav.tv^
 ||freeb.com^
@@ -10314,7 +10285,10 @@
 ||geocities.com^
 ||geocities.jp^
 ||geodesummit.com^
+||geogebra.org^
 ||geohot.us^
+||geoip.seektor.com^
+||geojs.io^
 ||geolytics.com^
 ||geoport.com^
 ||geoscienceworld.org^
@@ -10355,6 +10329,7 @@
 ||getfreedur.com^
 ||getgom.com^
 ||geti2p.net^
+||getipintel.net^
 ||getjetso.com^
 ||getlantern.org^
 ||getmalus.com^
@@ -12482,6 +12457,7 @@
 ||ibytedtos.com^
 ||ibyteimg.com^
 ||icams.com^
+||icanhazip.com^
 ||icashpassport.com.mx^
 ||icedrive.net^
 ||icegay.tv^
@@ -12552,6 +12528,7 @@
 ||ideapocket.com^
 ||idelreal.org^
 ||idemocracy.asia^
+||ident.me^
 ||identi.ca^
 ||identrust.co.uk^
 ||identrust.com^
@@ -12629,6 +12606,7 @@
 ||ifastgp.com.hk^
 ||ifastnetwork.com^
 ||ifasttv.com^
+||ifconfig.me^
 ||ifcss.org^
 ||ifixit.com^
 ||ifjc.org^
@@ -13325,6 +13303,7 @@
 ||iownyour.biz^
 ||iownyour.org^
 ||ip-api.com^
+||ip.cn^
 ||ip.gs^
 ||ip.sb^
 ||ip73.com^
@@ -13363,6 +13342,7 @@
 ||ipfs.lain.la^
 ||ipfs.runfission.com^
 ||ipfs.tech^
+||ipgeolocation.io^
 ||iphine.com^
 ||iphone-cd.com^
 ||iphone-cn.com^
@@ -13471,6 +13451,7 @@
 ||ippog.org^
 ||ippotv.com^
 ||ippstatic.com^
+||ipqualityscore.com^
 ||ipredator.se^
 ||iproperty.com^
 ||iproperty.com.my^
@@ -14450,6 +14431,7 @@
 ||kktix.com^
 ||kktv.com.tw^
 ||kktv.me^
+||klayer.com^
 ||klik.me^
 ||klip.me^
 ||kmc-av.com^
@@ -14577,7 +14559,6 @@
 ||l-msedge.net^
 ||la-forum.org^
 ||la-mama.ru^
-||la-north-205.myhuaweicloud.com^
 ||labiennale.org^
 ||labo.wovs.tk^
 ||labyrinth2.com^
@@ -15738,9 +15719,6 @@
 ||mdtt-tv.sbs^
 ||mdyy.de^
 ||me-east-1.myhuaweicloud.com^
-||me-east-205.myhuaweicloud.com^
-||me-east-208.myhuaweicloud.com^
-||me-east-209.myhuaweicloud.com^
 ||me-gay.com^
 ||me.me^
 ||meadjohnson.com^
@@ -17130,7 +17108,6 @@
 ||na-ashburn.myqcloud.com^
 ||na-ashburn.tencentcos.com^
 ||na-att-idns.net^
-||na-east-0.myhuaweicloud.com^
 ||na-siliconvalley.myqcloud.com^
 ||na-siliconvalley.tencentcos.com^
 ||na-toronto.myqcloud.com^
@@ -20222,6 +20199,7 @@
 ||qq33qq.com^
 ||qqbs.asia^
 ||qqbs.work^
+||qqwry.mirror.noc.one^
 ||qr.ae^
 ||qstatus.com^
 ||qt-project.org^
@@ -20895,7 +20873,6 @@
 ||rtings.com^
 ||rtycminnesota.org^
 ||ru-moscow-1.myhuaweicloud.com^
-||ru-northwest-201.myhuaweicloud.com^
 ||ruanyifeng.com^
 ||ruby-lang.org^
 ||rubygems.org^
@@ -23422,7 +23399,6 @@
 ||thepiratebay.org^
 ||thepiratebay.se^
 ||theplatform.com^
-||thepoizon.ru^
 ||theporn.cc^
 ||thepornarea.com^
 ||thepornbest.com^
@@ -23847,7 +23823,6 @@
 ||topvids.net^
 ||topxxxpornvids.com^
 ||topyoungporn.com^
-||tor.updatestar.com^
 ||tora.to^
 ||torcidadeouro.com^
 ||torcn.com^
@@ -24581,6 +24556,7 @@
 ||up01.cc^
 ||upbit.com^
 ||update.crashlytics.com^
+||updatestar.com^
 ||updatetube.com^
 ||upfrontcfd.com^
 ||upfrontfea.com^
@@ -24619,7 +24595,6 @@
 ||urlgalleries.net^
 ||urlparser.com^
 ||urukawa.com^
-||us-east-1.myhuaweicloud.com^
 ||us.to^
 ||us.weibo.com^
 ||usa-beatsbydreheadphonesonsale.net^
@@ -25988,6 +25963,7 @@
 ||who.int^
 ||whodns.xyz^
 ||whoer.net^
+||whois.pconline.com.cn^
 ||wholecitiesfoundation.org^
 ||wholefoods.com^
 ||wholefoodsmarket.co.uk^
@@ -26042,6 +26018,7 @@
 ||wiiugamepad.com^
 ||wiivc.net^
 ||wikawika.xyz^
+||wiki.gg^
 ||wiki.kfd.me^
 ||wikia.com^
 ||wikia.nocookie.net^
