@@ -41,7 +41,6 @@
 ||20010114.xyz^
 ||2024.laijy.top^
 ||220913.xyz^
-||2288.org^
 ||23.106.141.137.16clouds.com^
 ||233py.com^
 ||24-7.ro^
@@ -55,9 +54,7 @@
 ||3.local-dns.noridev.moe^
 ||32-b.it^
 ||3322.net^
-||3322.org^
 ||360digit.com^
-||3d-game.com^
 ||3dcosas.xyz^
 ||3dns.eu^
 ||3dxtras.com^
@@ -67,35 +64,27 @@
 ||404.mn^
 ||4040.idv.tw^
 ||45.32.17.58.vultrusercontent.com^
-||4cloud.click^
 ||4dq.com^
-||4irc.com^
 ||4khdcamera.com^
 ||4mydomain.com^
-||4nmn.com^
 ||4pu.com^
 ||4twenty.us^
 ||51576162.ru^
 ||5g.o0o.re^
 ||6301s.dangkiem.com^
 ||64-b.it^
-||6600.org^
 ||688.org^
-||7766.org^
 ||77qac.com^
 ||77uam.com^
 ||77ynd.com^
 ||79ama.com^
 ||81.brudnowski.eu^
 ||81xyz.brudnowski.eu^
-||8800.org^
-||8866.org^
 ||8888.google^
 ||88uan.com^
 ||88zkt.com^
 ||959818.xyz^
 ||9827015.xyz^
-||9966.org^
 ||99tac.com^
 ||a-bld.sys-adm.in^
 ||a.family.ns.dnslify.com^
@@ -618,7 +607,6 @@
 ||b.jtt.ink^
 ||b.ns.dnslify.com^
 ||b.safe.ns.dnslify.com^
-||b0ne.com^
 ||b0tnet.com^
 ||b33r.us^
 ||b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space^
@@ -636,7 +624,6 @@
 ||baxtri.ru^
 ||bayipazar.com^
 ||bazooki-infra.dev^
-||bbsindex.com^
 ||bcn01.dnscry.pt^
 ||be2aja.my.id^
 ||beacon.dog^
@@ -727,7 +714,6 @@
 ||bucheli.synology.me^
 ||bud01.dnscry.pt^
 ||buh01.dnscry.pt^
-||bumbleshrimp.com^
 ||burlingtondrywall.com^
 ||buyshouses.net^
 ||bwg.559299366.xyz^
@@ -777,7 +763,6 @@
 ||chaos-system.de^
 ||charihoproducts.com^
 ||charter.com^
-||chatnook.com^
 ||chavo.biz^
 ||che.myasustor.com^
 ||checkor.com^
@@ -918,7 +903,6 @@
 ||darkhole.uint64.dev^
 ||darkness.is.my.waifu.cz^
 ||darksair.org^
-||darktech.org^
 ||dart.kpsn.org^
 ||darya.persiannit.net^
 ||daverotaquio.net^
@@ -930,7 +914,6 @@
 ||ddd.999369.xyz^
 ||ddd.loukky.com^
 ||ddns-dvr.com^
-||ddns.cam^
 ||ddns.com.br^
 ||ddns.com.co^
 ||ddns.info^
@@ -968,7 +951,6 @@
 ||de.dns.privex.io^
 ||de.teradns.org^
 ||de51.tcpdoor.net^
-||deaftone.com^
 ||dearabba.org^
 ||dedidl.com^
 ||dedyn.io^
@@ -987,7 +969,6 @@
 ||dhis.org^
 ||dhlifeus-micro1.dns.3456.kr^
 ||dhs.org^
-||didns.ru^
 ||digikabel.hu^
 ||digitale-gesellschaft.ch^
 ||digitalgroupe.com^
@@ -1600,7 +1581,6 @@
 ||dns.narl.app^
 ||dns.nas-server.ru^
 ||dns.native.cat^
-||dns.navy^
 ||dns.ndo.dev^
 ||dns.neeb.it^
 ||dns.neilzone.co.uk^
@@ -2075,7 +2055,6 @@
 ||dnshome.icu^
 ||dnsiskinky.com^
 ||dnsking.ch^
-||dnslive.net^
 ||dnslow.me^
 ||dnsmax.com^
 ||dnsname.org^
@@ -2372,7 +2351,6 @@
 ||dsmtp.com^
 ||dstruis.nl^
 ||dtdns.com^
-||dtdns.org^
 ||dtw01.dnscry.pt^
 ||dub01.dnscry.pt^
 ||dubya.info^
@@ -2396,7 +2374,6 @@
 ||dvr-ddns.com^
 ||dvrcam.info^
 ||dvrdns.org^
-||dvrlists.com^
 ||dyn-access.biz^
 ||dyn-access.com^
 ||dyn-access.de^
@@ -2488,7 +2465,6 @@
 ||easydns.org^
 ||easyhandshake.com^
 ||eating-organic.net^
-||eatuo.com^
 ||ebpmc.diskstation.me^
 ||ebpmc.tplinkdns.com^
 ||ec.i-puppy.ru^
@@ -2539,8 +2515,6 @@
 ||eth.link^
 ||eth64.de^
 ||etitrans.com^
-||etowns.net^
-||etowns.org^
 ||eu1.dns.lavate.ch^
 ||europe-west.avastdns.com^
 ||europe.avastdns.com^
@@ -2560,8 +2534,6 @@
 ||ezxdev.org^
 ||f-parts.net^
 ||f1.dns.s3cure.me^
-||f3322.net^
-||f3322.org^
 ||f4ckdns.dl4mt.dev^
 ||fairuse.org^
 ||falcongreen.com^
@@ -2582,11 +2554,9 @@
 ||farted.net^
 ||fartit.com^
 ||fatdiary.org^
-||fdns.uk^
 ||fdns1.dismail.de^
 ||fdns2.dismail.de^
 ||fearpenguins.com^
-||fedea.com.ar^
 ||fennec.blackyfox.net^
 ||feste-ip.net^
 ||fet02.dnscry.pt^
@@ -2766,7 +2736,6 @@
 ||gotdns.ch^
 ||gotdns.com^
 ||gotdns.org^
-||gotgeeks.com^
 ||govt.hu^
 ||gr.skrsteam.info^
 ||gr8name.biz^
@@ -3023,7 +2992,6 @@
 ||imagetemplate.com^
 ||imagetemplate.net^
 ||imexsac.com^
-||img.com.ar^
 ||immadnez7.ru^
 ||imperio.top^
 ||in-the-band.net^
@@ -3232,7 +3200,6 @@
 ||kaandikec.com^
 ||kaiser.int.eu.org^
 ||kaiwu.xyz^
-||kalbas.com.vn^
 ||kallemarc.de^
 ||kams.kii.qzz.io^
 ||kanda.ru^
@@ -3257,7 +3224,6 @@
 ||kilabit.info^
 ||killads.vpms.xyz^
 ||kintoun.alves.cc^
-||kir22.ru^
 ||kiri.nonexiste.net^
 ||kiv01.dnscry.pt^
 ||kjmserwis.pl^
@@ -3387,7 +3353,6 @@
 ||maincloud.ir^
 ||mainframe.dewed.de^
 ||makatla.tech^
-||malam.or.id^
 ||malanser.ru^
 ||man01.dnscry.pt^
 ||management.alexpollard.net^
@@ -3418,7 +3383,6 @@
 ||mendozasdelivery.com^
 ||meowless.club^
 ||merseine.com^
-||merseine.nu^
 ||merseine.org^
 ||mett.ru^
 ||mexsipel.net^
@@ -3505,7 +3469,6 @@
 ||myagh.claptrap.me^
 ||myatris.sbs^
 ||mydad.info^
-||myddns.biz^
 ||myddns.com^
 ||myddns.me^
 ||myddns.rocks^
@@ -3550,7 +3513,6 @@
 ||mysecuritycamera.org^
 ||myserver.org^
 ||mysolod.xyz^
-||mysynology.net^
 ||myv2ray.cn^
 ||myvnc.com^
 ||mywebworld.info^
@@ -3579,7 +3541,6 @@
 ||nat-ddns.com^
 ||nat64.tuxis.nl^
 ||natrofa.com^
-||nav.co.id^
 ||naw01.dnscry.pt^
 ||ncl01.dnscry.pt^
 ||nd.lgprk.com^
@@ -3621,7 +3582,6 @@
 ||nl.ogne.top^
 ||nl.rslvr.eu^
 ||no-domain.name^
-||no-ip.be^
 ||no-ip.biz^
 ||no-ip.ca^
 ||no-ip.co.uk^
@@ -3810,7 +3770,6 @@
 ||paulo.nom.za^
 ||paydns.wechatpay.cn^
 ||paydns.weixin.qq.com^
-||pcanywhere.net^
 ||pcgo.fun^
 ||pcornet.freeboxos.fr^
 ||pdns.elecura.net^
@@ -4078,7 +4037,6 @@
 ||sbdns.co.in^
 ||scay.net^
 ||schimtar.com^
-||scieron.com^
 ||scottdylewski.com^
 ||scottlewisonline.com^
 ||scottstreit.com^
@@ -4113,7 +4071,6 @@
 ||selfip.info^
 ||selfip.net^
 ||selfip.org^
-||sellclassics.com^
 ||sells-for-less.com^
 ||sells-for-u.com^
 ||sells-it.net^
@@ -4177,7 +4134,6 @@
 ||sgs02.just-a-web.com^
 ||sgs03.just-a-web.com^
 ||shacknet.biz^
-||shacknet.nu^
 ||shacknet.us^
 ||shadir.com^
 ||shadowart.online^
@@ -4226,7 +4182,6 @@
 ||slc01.dnscry.pt^
 ||sline.net^
 ||sly.io^
-||slyip.com^
 ||slyip.net^
 ||sm5q237c0.g666gle.me^
 ||smartcamp.su^
@@ -4250,7 +4205,6 @@
 ||spacedns.org^
 ||spacetechnology.net^
 ||spdns.de^
-||spdns.org^
 ||spdyn.de^
 ||spectrumnet.bg^
 ||spelar.se^
@@ -4306,7 +4260,6 @@
 ||surak.kz^
 ||surfbelow.com^
 ||surfnet.ca^
-||suroot.com^
 ||surt.ovh^
 ||svg33.eu^
 ||swe.try-dns.com^
@@ -4513,9 +4466,6 @@
 ||v2202405224322270920.megasrv.de^
 ||v2rich.eu.org^
 ||v3.passby.eu.org^
-||v6.army^
-||v6.navy^
-||v6.rocks^
 ||v971850.macloud.host^
 ||vadim.online^
 ||vankin.de^
@@ -4620,7 +4570,6 @@
 ||webhop.me^
 ||webhop.net^
 ||webhop.org^
-||webok.net^
 ||webredirect.org^
 ||webs.vc^
 ||webteufel-it.solutions^
@@ -4740,7 +4689,6 @@
 ||zaziss.com^
 ||zburger.top^
 ||zdn.ro^
-||ze.am^
 ||zelslonik.info^
 ||zetland.rm-ni.uk^
 ||zeusvps.cloudns.nz^
