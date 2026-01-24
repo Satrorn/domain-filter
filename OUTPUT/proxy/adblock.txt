@@ -3047,6 +3047,7 @@
 ||bbbaihu.vip^
 ||bbc-anal.com^
 ||bbc-reporting-api.app^
+||bbc.co^
 ||bbc.co.uk^
 ||bbc.com^
 ||bbc.in^
@@ -3680,6 +3681,7 @@
 ||binance.vision^
 ||binanceapi.com^
 ||binancecnt.com^
+||binanceru.net^
 ||binancezh.be^
 ||binancezh.biz^
 ||binancezh.cc^
@@ -8588,7 +8590,6 @@
 ||facebboook.com^
 ||facebcook.com^
 ||facebdok.com^
-||facebgook.com^
 ||facebhook.com^
 ||facebkkk.com^
 ||facebo-ok.com^
@@ -8778,7 +8779,6 @@
 ||facecbook.org^
 ||facecook.com^
 ||facecook.org^
-||facedbook.com^
 ||faceebok.com^
 ||faceebook.com^
 ||faceebot.com^
