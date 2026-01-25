@@ -89,7 +89,6 @@
 ||a-bld.sys-adm.in^
 ||a.family.ns.dnslify.com^
 ||a.ns.dnslify.com^
-||a.passcloud.xyz^
 ||a.safe.ns.dnslify.com^
 ||a5135324.csie.io^
 ||abatek.com^
@@ -1862,7 +1861,6 @@
 ||dns.vps.pw^
 ||dns.w3ctag.org^
 ||dns.wael.name^
-||dns.wakgood.net^
 ||dns.walker.id^
 ||dns.walshnet.co.uk^
 ||dns.wang.art^
@@ -2455,7 +2453,6 @@
 ||dynup.net^
 ||dynv4.net^
 ||dynv6.com^
-||dynv6.net^
 ||dyyndns.net^
 ||e-m-a-i-l.org^
 ||e-romagnoli.com^
@@ -2967,7 +2964,6 @@
 ||huv01.dnscry.pt^
 ||hydra.plan9-ns1.com^
 ||i.dns-over-https.tk^
-||i.passcloud.xyz^
 ||iah01.dnscry.pt^
 ||iamallama.com^
 ||iana.tenta.io^
@@ -3252,7 +3248,6 @@
 ||kx-97795-tr.xyz^
 ||kyrgyzstan.kg^
 ||kz-pav-w-p-1.nashkan.net^
-||l5.ca^
 ||la-doh.stuptech.com^
 ||labradapr.com^
 ||laketahoesue.com^
@@ -3295,7 +3290,6 @@
 ||lim02.dnscry.pt^
 ||lime.samonte.ovh^
 ||lindung.pp.ua^
-||line.pm^
 ||link.altapo.ru^
 ||linkin.tw^
 ||linkpc.net^
@@ -3959,7 +3953,6 @@
 ||resolver1.opendns.com^
 ||resolver2-fs.opendns.com^
 ||resolver2.absolight.net^
-||resolver2.dyndnsinternetguide.com^
 ||resolver2.hosting-cloud.net^
 ||resolver2.ipv6-sandbox.opendns.com^
 ||resolver2.opendns.com^
@@ -4347,7 +4340,6 @@
 ||tobuy.us^
 ||toh.info^
 ||tokyo.559299366.xyz^
-||tokyo.92-m.com^
 ||topdns.com^
 ||topsddns.net^
 ||tor.vasi.li^
@@ -4399,7 +4391,6 @@
 ||ufcfan.org^
 ||ufodns.com^
 ||ugo.si^
-||uk.ms^
 ||uk.to^
 ||unasw.eu^
 ||uncensored-dot.dnswarden.com^
