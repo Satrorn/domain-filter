@@ -36,6 +36,7 @@
 ||2.dnscrypt-cert.dns.seby.io^
 ||2.dnscrypt-cert.ffmuc.net^
 ||2.dnscrypt-cert.opendns.com^
+||2.dnscrypt-cert.pumplex.com^
 ||2.dnscrypt-cert.quad9.net^
 ||2.dnscrypt-cert.shield-2.dnsbycomodo.com^
 ||20010114.xyz^
@@ -58,6 +59,7 @@
 ||3dcosas.xyz^
 ||3dns.eu^
 ||3dxtras.com^
+||3jjxxl.tech^
 ||3n.cc^
 ||3trust.com^
 ||3utilities.com^
@@ -726,6 +728,7 @@
 ||cable-modem.org^
 ||caddy.rkn.icu^
 ||callbackping.net^
+||callies-online.site^
 ||camdvr.org^
 ||canadascastillo.com^
 ||canadianshield.cira.ca^
@@ -798,6 +801,7 @@
 ||cloud.securifi.com.my^
 ||cloud.tezoi.com^
 ||cloud2.holzmannclouddns.de^
+||cloudbenders.fun^
 ||cloudbob.fr^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
@@ -840,6 +844,7 @@
 ||con-ip.com^
 ||conditsis.com^
 ||connect-with.click^
+||console.carestyle.org^
 ||contepsa.com^
 ||corbina.ru^
 ||coreytech.com^
@@ -1320,6 +1325,7 @@
 ||dns.fsociety.club^
 ||dns.fsociety.red^
 ||dns.fulgore.fr^
+||dns.furrydns.de^
 ||dns.futuredns.me^
 ||dns.fxdc.ru^
 ||dns.gamban.com^
@@ -1668,6 +1674,7 @@
 ||dns.proprietarypenguin.com^
 ||dns.pub^
 ||dns.pumpkinvrar.com^
+||dns.pumplex.com^
 ||dns.qiyipic.iqiyi.com^
 ||dns.qkc.fr^
 ||dns.qpt.one^
@@ -1916,6 +1923,7 @@
 ||dns.zoogle.cn^
 ||dns.zui.lol^
 ||dns.zzuhacker.cn^
+||dns0.eu^
 ||dns0.permafrostmiami.com^
 ||dns0.tardishost.ru^
 ||dns01.almir1904.eu^
@@ -2453,6 +2461,7 @@
 ||dynup.net^
 ||dynv4.net^
 ||dynv6.com^
+||dynv6.net^
 ||dyyndns.net^
 ||e-m-a-i-l.org^
 ||e-romagnoli.com^
@@ -2464,7 +2473,6 @@
 ||eating-organic.net^
 ||ebpmc.diskstation.me^
 ||ebpmc.tplinkdns.com^
-||ec.i-puppy.ru^
 ||echoparklake.com^
 ||ecs-doh.dnswarden.com^
 ||edgar.tobkar.net^
@@ -2594,6 +2602,7 @@
 ||fra1.eyecay.xyz^
 ||fragmentary.info^
 ||fredic.us^
+||free.shecan.ir^
 ||freeddns.com^
 ||freeddns.org^
 ||freeddns.uk^
@@ -2963,6 +2972,7 @@
 ||huntllcx.cn^
 ||huv01.dnscry.pt^
 ||hydra.plan9-ns1.com^
+||i-puppy.ru^
 ||i.dns-over-https.tk^
 ||iah01.dnscry.pt^
 ||iamallama.com^
@@ -3201,6 +3211,7 @@
 ||kanda.ru^
 ||kaohsiung.tv^
 ||katherine-dns.newcore.cl^
+||kavkaz.monster^
 ||kawpad.southeastasia.cloudapp.azure.com^
 ||kck-saratov.ru^
 ||kcolspacrm.ir^
@@ -3279,6 +3290,7 @@
 ||lessmiths.com^
 ||lesuo.top^
 ||level3.net^
+||lewsha.lol^
 ||lfbn-gre-1-319-7.w90-112.abo.wanadoo.fr^
 ||lflink.com^
 ||lflinkup.com^
@@ -3523,6 +3535,8 @@
 ||n50.martkotur.ru^
 ||n8nmegapixar.online^
 ||naganohara-yoimiya.momokko.moe^
+||najiakeji.top^
+||nanopi.cybergroove.net^
 ||nard.ca^
 ||nas-fusion.loisy.it^
 ||nas-scheiben34.myasustor.com^
@@ -3829,6 +3843,8 @@
 ||podzone.org^
 ||point2this.com^
 ||pointto.us^
+||polisitogel.beauty^
+||polisitogel.hair^
 ||polisitogel.show^
 ||polisitogel.webcam^
 ||pooblet.co.za^
@@ -3880,6 +3896,7 @@
 ||qlbv.vn^
 ||qlf-doh.inria.fr^
 ||qpoe.com^
+||qqmcfw.tech^
 ||qro01.dnscry.pt^
 ||qthome.org^
 ||quackerscomic.com^
@@ -3993,7 +4010,6 @@
 ||roycom.win^
 ||rpz-public-resolver1.rrdns.pch.net^
 ||rtam.net^
-||ru.i-puppy.ru^
 ||rubyfish.cn^
 ||rum.si^
 ||rumpelsepp.org^
@@ -4607,6 +4623,7 @@
 ||x210-131-219-118.static.xvps.ne.jp^
 ||x24hr.com^
 ||x443.pw^
+||xbcpb668.com^
 ||xddns.de^
 ||xenergy.cc^
 ||xfer.au^
