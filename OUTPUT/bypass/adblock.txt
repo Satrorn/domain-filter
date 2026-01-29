@@ -4268,6 +4268,7 @@
 ||stuff-4-sale.us^
 ||stufftoread.com^
 ||stughead.com^
+||stuns.org^
 ||sudo.rm-rf.cloud^
 ||sukidayo.eu.org^
 ||sumibi.org^
@@ -4347,6 +4348,7 @@
 ||tia01.dnscry.pt^
 ||tienpham.id.vn^
 ||tiger.dns.qwer.pw^
+||tigrons.ru^
 ||timedns.net^
 ||timmes.nl^
 ||tinyrealm.com^
