@@ -987,7 +987,6 @@
 ||diskstation.alexpollard.net^
 ||ditchyourip.com^
 ||divx.se^
-||diy.itsa.top^
 ||dlinkddns.com^
 ||dmit.wangjiaqi.store^
 ||dmjp.joeyl.de^
@@ -4275,7 +4274,6 @@
 ||strangled.net^
 ||strassmair.org^
 ||stratus.bugz.fr^
-||stroyexpert.org^
 ||structoriumwings.ru^
 ||stuff-4-sale.org^
 ||stuff-4-sale.us^
