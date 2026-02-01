@@ -3058,6 +3058,7 @@
 ||bbc.in^
 ||bbc.mp-pxcdn.com^
 ||bbc.net.uk^
+||bbc.pdn.tritondigital.com^
 ||bbcchinese.com^
 ||bbchat.tv^
 ||bbci.co.uk^
@@ -3701,6 +3702,7 @@
 ||binancezh.pro^
 ||binancezh.sh^
 ||binancezh.top^
+||bing.com^
 ||bing.net^
 ||bing123.com^
 ||bingagencyawards.com^
@@ -6080,7 +6082,6 @@
 ||coova.com^
 ||coova.net^
 ||coova.org^
-||copilot.microsoft.com^
 ||copro.pw^
 ||copy-manga.com^
 ||copy20.com^
@@ -9731,7 +9732,6 @@
 ||freeadultgames.tv^
 ||freealim.com^
 ||freeanimalporn.net^
-||freeapi.ipip.net^
 ||freearabsexx.com^
 ||freeav.tv^
 ||freeb.com^
@@ -10303,8 +10303,6 @@
 ||geodesummit.com^
 ||geogebra.org^
 ||geohot.us^
-||geoip.seektor.com^
-||geojs.io^
 ||geolytics.com^
 ||geoport.com^
 ||geoscienceworld.org^
@@ -10345,7 +10343,6 @@
 ||getfreedur.com^
 ||getgom.com^
 ||geti2p.net^
-||getipintel.net^
 ||getjetso.com^
 ||getlantern.org^
 ||getmalus.com^
@@ -10535,7 +10532,6 @@
 ||glass8.eu^
 ||gleline.com^
 ||global-sci.org^
-||global.bing.com^
 ||global.market.xiaomi.com^
 ||globaledu.org^
 ||globaljihad.net^
@@ -12473,7 +12469,6 @@
 ||ibytedtos.com^
 ||ibyteimg.com^
 ||icams.com^
-||icanhazip.com^
 ||icashpassport.com.mx^
 ||icedrive.net^
 ||icegay.tv^
@@ -12544,7 +12539,6 @@
 ||ideapocket.com^
 ||idelreal.org^
 ||idemocracy.asia^
-||ident.me^
 ||identi.ca^
 ||identrust.co.uk^
 ||identrust.com^
@@ -12622,7 +12616,6 @@
 ||ifastgp.com.hk^
 ||ifastnetwork.com^
 ||ifasttv.com^
-||ifconfig.me^
 ||ifcss.org^
 ||ifixit.com^
 ||ifjc.org^
@@ -13319,7 +13312,6 @@
 ||iownyour.biz^
 ||iownyour.org^
 ||ip-api.com^
-||ip.cn^
 ||ip.gs^
 ||ip.sb^
 ||ip73.com^
@@ -13358,7 +13350,6 @@
 ||ipfs.lain.la^
 ||ipfs.runfission.com^
 ||ipfs.tech^
-||ipgeolocation.io^
 ||iphine.com^
 ||iphone-cd.com^
 ||iphone-cn.com^
@@ -13467,7 +13458,6 @@
 ||ippog.org^
 ||ippotv.com^
 ||ippstatic.com^
-||ipqualityscore.com^
 ||ipredator.se^
 ||iproperty.com^
 ||iproperty.com.my^
@@ -14448,7 +14438,6 @@
 ||kktix.com^
 ||kktv.com.tw^
 ||kktv.me^
-||klayer.com^
 ||klik.me^
 ||klip.me^
 ||kmc-av.com^
@@ -14942,8 +14931,10 @@
 ||liuxiaotong.com^
 ||live-patreon-marketing.pantheonsite.io^
 ||live-video.net^
+||live.com^
 ||live.com.au^
 ||live.eu^
+||live.net^
 ||live4ever.us^
 ||liveauction.com^
 ||livecamclips.com^
@@ -15092,6 +15083,7 @@
 ||lotuslight.org.hk^
 ||lotuslight.org.tw^
 ||louisgray.com^
+||louisvuitton.com^
 ||lovart.ai^
 ||love-sextoys.co.uk^
 ||love4porn.com^
@@ -15927,6 +15919,7 @@
 ||microsoft.cat^
 ||microsoft.ch^
 ||microsoft.cl^
+||microsoft.com^
 ||microsoft.cz^
 ||microsoft.de^
 ||microsoft.dk^
@@ -18320,7 +18313,6 @@
 ||onedrive.co.uk^
 ||onedrive.com^
 ||onedrive.eu^
-||onedrive.live.com^
 ||onedrive.net^
 ||onedrive.org^
 ||onedumb.com^
@@ -18580,6 +18572,7 @@
 ||outingsapp.com^
 ||outletbeatsshop.com^
 ||outletnike.com^
+||outlook.com^
 ||over-blog.com^
 ||over18arcade.com^
 ||overapple.com^
@@ -20064,7 +20057,6 @@
 ||publicpornvideo.com^
 ||publicsexhub.com^
 ||publishproxy.com^
-||pubmatic.co.jp^
 ||pubu.com.tw^
 ||pubu.tw^
 ||puffin.com^
@@ -20217,7 +20209,6 @@
 ||qq33qq.com^
 ||qqbs.asia^
 ||qqbs.work^
-||qqwry.mirror.noc.one^
 ||qr.ae^
 ||qstatus.com^
 ||qt-project.org^
@@ -22930,7 +22921,6 @@
 ||sxyprn.com^
 ||sybj91.one^
 ||sybjav.online^
-||sydney.bing.com^
 ||sydneytoday.com^
 ||syfor.click^
 ||syhacked.com^
@@ -25984,7 +25974,6 @@
 ||who.int^
 ||whodns.xyz^
 ||whoer.net^
-||whois.pconline.com.cn^
 ||wholecitiesfoundation.org^
 ||wholefoods.com^
 ||wholefoodsmarket.co.uk^
@@ -26299,7 +26288,6 @@
 ||www-paypal.info^
 ||www-paypal.us^
 ||www-sms-apple.com^
-||www.bing.com^
 ||www.sb^
 ||www1.biz^
 ||www8-hp.com^

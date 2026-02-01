@@ -372,6 +372,7 @@
 ||adguard.x88x.xyz^
 ||adguard.xandersalarie.com^
 ||adguard.yare.hk^
+||adguard.ygd.lol^
 ||adguard.youler.com^
 ||adguard.yuki2th.xyz^
 ||adguard.zachitect.com^
@@ -669,6 +670,7 @@
 ||blitz-setup.ahadns.com^
 ||blitz.ahadns.com^
 ||blizzie.net^
+||block-solution.wolfplaces.com^
 ||block.abstergo.it^
 ||block.coconut.id^
 ||blocker.thethorsens.org^
@@ -1447,6 +1449,7 @@
 ||dns.joey01245.nl^
 ||dns.johndave.me^
 ||dns.joindns4.in^
+||dns.jp.anitelecom.org^
 ||dns.jsd.web.id^
 ||dns.jstockley.com^
 ||dns.juancamos.com^
@@ -1645,6 +1648,7 @@
 ||dns.ostfriese.org^
 ||dns.otezz.net^
 ||dns.ourvau.lt^
+||dns.ozamagenova.ru^
 ||dns.p3k.sk^
 ||dns.p55k.com^
 ||dns.pacificmonster.com^
@@ -3244,6 +3248,7 @@
 ||kicks-ass.org^
 ||kids.5ososea.com^
 ||kids.vietdns.vn^
+||kihn.org^
 ||kilabit.info^
 ||killads.vpms.xyz^
 ||kintoun.alves.cc^
@@ -4031,6 +4036,7 @@
 ||rpz-public-resolver1.rrdns.pch.net^
 ||rtam.net^
 ||rubyfish.cn^
+||rudolphdesigns.com^
 ||rum.si^
 ||rumpelsepp.org^
 ||run.place^
@@ -4387,6 +4393,7 @@
 ||tpe01.dnscry.pt^
 ||tr-ist-w-p-2.nashkan.net^
 ||tr.league1.xyz^
+||tr.skrsteam.pro^
 ||traeumtgerade.de^
 ||trailsendlodge.org^
 ||tran.net.vn^
