@@ -4688,6 +4688,7 @@
 ||tafm.org^
 ||tagwalk.com^
 ||tahr.org.tw^
+||tails.net^
 ||taipeisociety.org^
 ||taipeitimes.com^
 ||taisounds.com^

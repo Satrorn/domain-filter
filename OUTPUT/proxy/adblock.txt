@@ -4463,7 +4463,6 @@
 ||boombeach.com^
 ||boomerang.com^
 ||boomssr.com^
-||boomtrain.com^
 ||booru.org^
 ||boosty.to^
 ||booth.pm^
@@ -4666,6 +4665,7 @@
 ||brutaltgp.com^
 ||bs-adreview.com^
 ||bs-awh.ne.jp^
+||bsappapi.com^
 ||bsdforen.de^
 ||bsdguru.org^
 ||bsdnexus.com^
@@ -8790,6 +8790,7 @@
 ||facecbook.org^
 ||facecook.com^
 ||facecook.org^
+||facedbook.com^
 ||faceebok.com^
 ||faceebook.com^
 ||faceebot.com^
@@ -19151,8 +19152,6 @@
 ||pigav.com^
 ||pikabu.monster^
 ||pikpak.io^
-||pikpak.me^
-||pikpakdrive.com^
 ||pillbeatsblackfridaysale.com^
 ||pimg.tw^
 ||pin-cong.com^
@@ -19271,6 +19270,7 @@
 ||pjbyj.top^
 ||pjful-app.lol^
 ||pjgirls.com^
+||pjsekai.sega.jp^
 ||pk.com^
 ||pki-post.ch^
 ||pki-posta.ch^
@@ -22984,6 +22984,7 @@
 ||taiav.com^
 ||tail-f.com^
 ||tailf.com^
+||tails.net^
 ||tailscale.io^
 ||tailwindtraders.com^
 ||taiolongdh.sbs^
@@ -24359,6 +24360,7 @@
 ||tytng189.com^
 ||tytporno.online^
 ||u.nu^
+||u15.info^
 ||u3c3.com^
 ||u9a9.cc^
 ||u9a9.com^
