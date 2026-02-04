@@ -112,7 +112,6 @@
 ||ad.anym0re.ru^
 ||ad.exxo.work^
 ||ad.fai001.top^
-||ad.faraan.xyz^
 ||ad.huyct.net^
 ||ad.imblien.com^
 ||ad.innet.id^
@@ -881,7 +880,6 @@
 ||cvt-ic-us-adns-001.clearviewtechnology.net^
 ||cvt01.dnscry.pt^
 ||cw03.ru^
-||cybertv.tv^
 ||cyliu.idv.tw^
 ||cynntex.fun^
 ||d-n-s.name^
@@ -1346,7 +1344,6 @@
 ||dns.glsoft.ai^
 ||dns.gnb09.id^
 ||dns.goertz.digital^
-||dns.gokgoz.net^
 ||dns.goldplate.org^
 ||dns.google^
 ||dns.google.com^
@@ -1408,7 +1405,6 @@
 ||dns.ikun6.dpdns.org^
 ||dns.imchristian.de^
 ||dns.immanuelschaffer.de^
-||dns.inclusioproject.com^
 ||dns.indybanipal.com^
 ||dns.inforlogia.com^
 ||dns.internal.espresso-tasse.de^
@@ -1481,7 +1477,6 @@
 ||dns.koretech.com.br^
 ||dns.korzhyk.pp.ua^
 ||dns.kosan.moe^
-||dns.koshin.me^
 ||dns.kostydenis.me^
 ||dns.kpsn.dev^
 ||dns.kriswerry.nl^
@@ -1552,7 +1547,6 @@
 ||dns.mfud.net^
 ||dns.mh4ckt3mh4ckt1c4s.xyz^
 ||dns.michelo.cl^
-||dns.midping.ir^
 ||dns.mihalcea.eu^
 ||dns.mihanentalpo.me^
 ||dns.mikeliu.org^
@@ -2035,7 +2029,6 @@
 ||dns6.web.id^
 ||dns64.de^
 ||dns8.org^
-||dns88.site^
 ||dns9.quad9.net^
 ||dnsabr.com^
 ||dnsalias.com^
@@ -2358,7 +2351,6 @@
 ||drahonn.pro^
 ||drayddns.com^
 ||dropfiles.net^
-||droyd.top^
 ||drs.rustsword.com^
 ||drunkensailor.org^
 ||ds.appl.pk^
@@ -2929,7 +2921,6 @@
 ||host94.rheingold.com.ua^
 ||hostdare.qtxd.net^
 ||hosthampster.com^
-||hpc.tw^
 ||hr.i81.ru^
 ||hs.vc^
 ||hshh.org^
@@ -3239,7 +3230,6 @@
 ||kellserve.com^
 ||kennethhuang.com^
 ||khome.site^
-||khsan.com^
 ||kicks-ass.net^
 ||kicks-ass.org^
 ||kids.5ososea.com^
@@ -3294,7 +3284,6 @@
 ||lax01.dnscry.pt^
 ||lax02.dnscry.pt^
 ||layer1.jnraptor.net^
-||lboxtv.top^
 ||ldtp.com^
 ||le-mesle.fr^
 ||lebtimnetz.de^
@@ -3375,7 +3364,6 @@
 ||mailkyb.co^
 ||maincloud.ir^
 ||mainframe.dewed.de^
-||makatla.tech^
 ||malanser.ru^
 ||man01.dnscry.pt^
 ||management.alexpollard.net^
@@ -4047,7 +4035,6 @@
 ||s1.s2.shahramv1.site^
 ||s1.srch.top^
 ||s2.d3mik.ru^
-||s2.littlebr.link^
 ||s3.d3mik.ru^
 ||sabine.bruno2000.link^
 ||sabzipolobamahi.nl^
@@ -4327,7 +4314,6 @@
 ||teslacoils.org.uk^
 ||test.adg.siudzinski.net^
 ||test.businessconnect.com.tr^
-||test.marss.pro^
 ||test.privatenode.ru^
 ||test2.adg.siudzinski.net^
 ||test3.adg.siudzinski.net^
@@ -4652,6 +4638,7 @@
 ||x24hr.com^
 ||x443.pw^
 ||xbcpb668.com^
+||xbox-dns.ru^
 ||xddns.de^
 ||xenergy.cc^
 ||xfer.au^

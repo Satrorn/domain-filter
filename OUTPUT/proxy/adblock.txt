@@ -4463,6 +4463,7 @@
 ||boombeach.com^
 ||boomerang.com^
 ||boomssr.com^
+||boomtrain.com^
 ||booru.org^
 ||boosty.to^
 ||booth.pm^
@@ -20994,6 +20995,7 @@
 ||salebeatslasteststyle4you.com^
 ||saleblackfridaydrebeats.com^
 ||salecheaphandbags.com^
+||salesforce-setup.com^
 ||salesforce.com^
 ||salesforce.org^
 ||salesforceiq.com^
