@@ -8602,6 +8602,7 @@
 ||facebboook.com^
 ||facebcook.com^
 ||facebdok.com^
+||facebgook.com^
 ||facebhook.com^
 ||facebkkk.com^
 ||facebo-ok.com^
@@ -11080,6 +11081,7 @@
 ||gridaware.app^
 ||grindr.com^
 ||grok.com^
+||grokipedia.com^
 ||grooby.com^
 ||groq.com^
 ||grotty-monday.com^
@@ -19895,7 +19897,6 @@
 ||pretty-ass.xyz^
 ||prettynubiles.com^
 ||prettyvirgin.com^
-||prfct.co^
 ||priceless.com^
 ||priceless.org^
 ||pricelessafrica.com^
@@ -20327,6 +20328,7 @@
 ||radgametools.com^
 ||radian6.com^
 ||radicalparty.org^
+||radiko-cf.com^
 ||radiko.jp^
 ||radio-canada.ca^
 ||radio-en-ligne.fr^
@@ -21991,6 +21993,7 @@
 ||smartonerobotics.com^
 ||smartonesolutions.com.hk^
 ||smartonesolutions.hk^
+||smartstream.ne.jp^
 ||smashed.xxx^
 ||smbc.co.jp^
 ||smbctb.co.jp^
