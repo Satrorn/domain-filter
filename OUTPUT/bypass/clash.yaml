@@ -67,6 +67,7 @@ payload:
   - +.404.mn
   - +.4040.idv.tw
   - +.45.32.17.58.vultrusercontent.com
+  - +.4cloud.click
   - +.4dq.com
   - +.4khdcamera.com
   - +.4mydomain.com
@@ -513,7 +514,6 @@ payload:
   - +.alon93rus.ru
   - +.alpha.cixy.xyz
   - +.americanunfinished.com
-  - +.amgr.asuscomm.com
   - +.amigo.px.i81.ru
   - +.amopython.shop
   - +.ams.core.access.zznet.fun
@@ -569,6 +569,7 @@ payload:
   - +.arquivirtual.com
   - +.arrakis.korolyzer.com.br
   - +.artemis.orionnexus.top
+  - +.as14627.net
   - +.as19557.net
   - +.as29997.net
   - +.as6604t-04.myasustor.com
@@ -578,6 +579,7 @@ payload:
   - +.asianfreshproduce.com
   - +.ask2ask.com
   - +.astrabus.ru
+  - +.asuscomm.com
   - +.at-band-camp.net
   - +.at-wie-w-p-1.nashkan.net
   - +.at.pzhg.me
@@ -658,7 +660,6 @@ payload:
   - +.biz.tm
   - +.bkk01.dnscry.pt
   - +.bl.eq.md
-  - +.blackdragon6699.diskstation.me
   - +.blackhole.gugainfo.com.br
   - +.blackhole.myon.lu
   - +.blacknapkins.org
@@ -720,6 +721,7 @@ payload:
   - +.bucheli.synology.me
   - +.bud01.dnscry.pt
   - +.buh01.dnscry.pt
+  - +.bumbleshrimp.com
   - +.burlingtondrywall.com
   - +.buyshouses.net
   - +.bwg.559299366.xyz
@@ -793,6 +795,7 @@ payload:
   - +.cleansite.info
   - +.cleansite.us
   - +.clic.eu.org
+  - +.clickip.de
   - +.clientdns3.softcom.net
   - +.clienturl.net
   - +.closetruth.date
@@ -821,7 +824,9 @@ payload:
   - +.cloudns.cx
   - +.cloudns.in
   - +.cloudns.info
+  - +.cloudns.nz
   - +.cloudns.org
+  - +.cloudns.ph
   - +.cloudns.pro
   - +.cloudsrv.charitosnet.de
   - +.cloudwatch.net
@@ -905,7 +910,6 @@ payload:
   - +.dac01.dnscry.pt
   - +.dagz.ru
   - +.damnserver.com
-  - +.dandelionsprout.asuscomm.com
   - +.dark-byte.net
   - +.darkness.is.my.waifu.cz
   - +.darksair.org
@@ -920,6 +924,8 @@ payload:
   - +.ddd.999369.xyz
   - +.ddd.loukky.com
   - +.ddns-dvr.com
+  - +.ddns-ip.net
+  - +.ddns.cam
   - +.ddns.com.br
   - +.ddns.com.co
   - +.ddns.info
@@ -982,6 +988,7 @@ payload:
   - +.dingdangnao.com
   - +.disbish.com
   - +.diskstation.alexpollard.net
+  - +.diskstation.me
   - +.ditchyourip.com
   - +.divx.se
   - +.dlinkddns.com
@@ -1585,6 +1592,7 @@ payload:
   - +.dns.narl.app
   - +.dns.nas-server.ru
   - +.dns.native.cat
+  - +.dns.navy
   - +.dns.ndo.dev
   - +.dns.neeb.it
   - +.dns.neilzone.co.uk
@@ -2059,6 +2067,7 @@ payload:
   - +.dnshome.icu
   - +.dnsiskinky.com
   - +.dnsking.ch
+  - +.dnslive.net
   - +.dnslow.me
   - +.dnsmax.com
   - +.dnsname.org
@@ -2351,9 +2360,15 @@ payload:
   - +.drs.rustsword.com
   - +.drunkensailor.org
   - +.ds.appl.pk
+  - +.dscloud.me
+  - +.dscloud.mobi
   - +.dsmtp.com
+  - +.dsmynas.com
+  - +.dsmynas.net
+  - +.dsmynas.org
   - +.dstruis.nl
   - +.dtdns.com
+  - +.dtdns.org
   - +.dtw01.dnscry.pt
   - +.dub01.dnscry.pt
   - +.dubya.info
@@ -2389,6 +2404,7 @@ payload:
   - +.dyn.ch
   - +.dyn.columbia.edu
   - +.dyn.com
+  - +.dyn.dns.he.net
   - +.dyn.mk
   - +.dynalias.com
   - +.dynalias.net
@@ -2406,6 +2422,7 @@ payload:
   - +.dynamicdns.me.uk
   - +.dynamicdns.org.uk
   - +.dynamisches-dns.de
+  - +.dynamix.run
   - +.dynathome.net
   - +.dyndns-at-home.com
   - +.dyndns-at-work.com
@@ -2468,7 +2485,7 @@ payload:
   - +.easydns.org
   - +.easyhandshake.com
   - +.eating-organic.net
-  - +.ebpmc.diskstation.me
+  - +.eatuo.com
   - +.ebpmc.tplinkdns.com
   - +.echoparklake.com
   - +.ecs-doh.dnswarden.com
@@ -2532,11 +2549,13 @@ payload:
   - +.extratv.org
   - +.eyg01.dnscry.pt
   - +.eymg5h77lfs6zhwzmv47gkh0a4r1f1ydfprzxidk.ir
+  - +.ez-dns.com
   - +.ez-ip.net
   - +.ezua.com
   - +.ezxdev.org
   - +.f-parts.net
   - +.f1.dns.s3cure.me
+  - +.f3322.net
   - +.f4ckdns.dl4mt.dev
   - +.fairuse.org
   - +.falcongreen.com
@@ -2547,6 +2566,9 @@ payload:
   - +.family.dot.dns.yandex.net
   - +.family.mydns.network
   - +.family.rabbitdns.org
+  - +.familyds.com
+  - +.familyds.net
+  - +.familyds.org
   - +.familyshield.opendns.com
   - +.fanscloud.net
   - +.fantasyleague.cc
@@ -2557,6 +2579,7 @@ payload:
   - +.farted.net
   - +.fartit.com
   - +.fatdiary.org
+  - +.fdns.uk
   - +.fdns1.dismail.de
   - +.fdns2.dismail.de
   - +.fearpenguins.com
@@ -2586,9 +2609,8 @@ payload:
   - +.for-our.info
   - +.for-some.biz
   - +.for-the.biz
-  - +.forgot.her.name
-  - +.forgot.his.name
   - +.forss.to
+  - +.fortiddns.com
   - +.forumz.info
   - +.fr-gra-w-p-1.nashkan.net
   - +.fr.dalockd.net
@@ -2609,6 +2631,7 @@ payload:
   - +.freedom.mydns.network
   - +.freedynamicdns.net
   - +.freedynamicdns.org
+  - +.freehost000.xyz
   - +.freemyip.com
   - +.freesa.org
   - +.freetcp.com
@@ -2683,6 +2706,7 @@ payload:
   - +.furrytech.io
   - +.futurearts.cc
   - +.fvpn.jarvishome.ru
+  - +.fxnxs.com
   - +.gaia.plonknet.com
   - +.galileo.math.unipd.it
   - +.gally.jp
@@ -2724,6 +2748,7 @@ payload:
   - +.gitea.sukon.idv.tw
   - +.gl33tch.pro
   - +.glacius.top
+  - +.glddns.com
   - +.gleeze.com
   - +.global-instr.us
   - +.globalcloud.ir
@@ -2762,7 +2787,6 @@ payload:
   - +.grupoimpulsora.com
   - +.grupompr.com
   - +.gruppo.pp.ua
-  - +.gsat.familyds.com
   - +.gslb.me
   - +.gteksecurity.com
   - +.gtk.cl
@@ -2784,6 +2808,7 @@ payload:
   - +.guild-site.com
   - +.gurcanozturk.com
   - +.gurdit.com
+  - +.guthriecontainers.com
   - +.gva01.dnscry.pt
   - +.gw.lt
   - +.gw1.dns.haynetwork.id
@@ -2817,6 +2842,7 @@ payload:
   - +.heavenorhell.ru
   - +.hel01.dnscry.pt
   - +.helios.plan9-dns.com
+  - +.her.name
   - +.here-for-more.info
   - +.herkes.online
   - +.herodias.net
@@ -2829,8 +2855,8 @@ payload:
   - +.hiddencorner.org
   - +.hijaxdesigns.com
   - +.himedns.com
-  - +.himeko297.asuscomm.com
   - +.hin.tw
+  - +.his.name
   - +.hitian.me
   - +.hitremixes.com
   - +.hk-adg.bluenight.me
@@ -2975,6 +3001,7 @@ payload:
   - +.hydra.plan9-ns1.com
   - +.i-puppy.ru
   - +.i.dns-over-https.tk
+  - +.i234.me
   - +.iah01.dnscry.pt
   - +.iamallama.com
   - +.iana.tenta.io
@@ -3030,6 +3057,7 @@ payload:
   - +.iozoi.cn
   - +.ip-ddns.com
   - +.ip-dynamic.com
+  - +.ip-dynamic.org
   - +.ipnodns.ru
   - +.ipq.co
   - +.iprowave.com
@@ -3286,6 +3314,7 @@ payload:
   - +.lebtimnetz.de
   - +.lee.mx
   - +.leecurrylawfirm.com
+  - +.legitdns.com
   - +.leitud.ee
   - +.leitungsen.de
   - +.leivo.org
@@ -3304,6 +3333,7 @@ payload:
   - +.lilibox.freeboxos.fr
   - +.lim02.dnscry.pt
   - +.lime.samonte.ovh
+  - +.limit.org.uk
   - +.lindung.pp.ua
   - +.link.altapo.ru
   - +.linkin.tw
@@ -3386,6 +3416,7 @@ payload:
   - +.mefound.com
   - +.meganerd.nl
   - +.megumin.is.my.waifu.cz
+  - +.meicosoft.com
   - +.mel01.dnscry.pt
   - +.melakaboy.com
   - +.mendozasdelivery.com
@@ -3477,6 +3508,7 @@ payload:
   - +.myagh.claptrap.me
   - +.myatris.sbs
   - +.mydad.info
+  - +.myddns.biz
   - +.myddns.com
   - +.myddns.me
   - +.myddns.rocks
@@ -3485,6 +3517,7 @@ payload:
   - +.mydns.bz
   - +.mydns.jp
   - +.mydns.phatna.net
+  - +.myds.me
   - +.myeffect.net
   - +.myftp.biz
   - +.myftp.info
@@ -3521,6 +3554,7 @@ payload:
   - +.mysecuritycamera.org
   - +.myserver.org
   - +.mysolod.xyz
+  - +.mysynology.net
   - +.myv2ray.cn
   - +.myvnc.com
   - +.mywebworld.info
@@ -3599,6 +3633,7 @@ payload:
   - +.no-ip.com
   - +.no-ip.fr
   - +.no-ip.info
+  - +.no-ip.me
   - +.no-ip.net
   - +.no-ip.org
   - +.noad.800216.xyz
@@ -3860,6 +3895,8 @@ payload:
   - +.prettyweak.com
   - +.prg01.dnscry.pt
   - +.priamaakcia.sk
+  - +.pride.moe
+  - +.pride.ngo
   - +.princez.uk
   - +.privacy.plumedns.com
   - +.privacydns.go6lab.si
@@ -3879,6 +3916,7 @@ payload:
   - +.proxjdf.jamesferrand.fr
   - +.proxy.srs.su
   - +.proxydns.com
+  - +.prvcy.page
   - +.ps1.modr.club
   - +.psociety.de
   - +.psybnc.org
@@ -4474,6 +4512,9 @@ payload:
   - +.v2202405224322270920.megasrv.de
   - +.v2rich.eu.org
   - +.v3.passby.eu.org
+  - +.v6.army
+  - +.v6.navy
+  - +.v6.rocks
   - +.v971850.macloud.host
   - +.vadim.online
   - +.vankin.de
@@ -4494,10 +4535,12 @@ payload:
   - +.verymad.net
   - +.viamisoftware.com
   - +.vie01.dnscry.pt
+  - +.vietnamddns.com
   - +.viewdns.net
   - +.viiic.net
   - +.vik.ro
   - +.villalazza.stream
+  - +.vinaddns.com
   - +.vincomlimited.com
   - +.virga.pp.ua
   - +.vitalwerks.com
@@ -4583,6 +4626,7 @@ payload:
   - +.webhop.me
   - +.webhop.net
   - +.webhop.org
+  - +.webok.net
   - +.webredirect.org
   - +.webs.vc
   - +.webteufel-it.solutions
@@ -4640,7 +4684,6 @@ payload:
   - +.xie.ke
   - +.xins.live
   - +.xjpdns.354688.xyz
-  - +.xkariak.asuscomm.com
   - +.xm.ln7371.top
   - +.xmr.land
   - +.xn--durhre-yxa.de
@@ -4706,7 +4749,6 @@ payload:
   - +.zdn.ro
   - +.zelslonik.info
   - +.zetland.rm-ni.uk
-  - +.zeusvps.cloudns.nz
   - +.zhang.wenru.xyz
   - +.zhengkaiyun.top
   - +.zhk.13142233.xyz
