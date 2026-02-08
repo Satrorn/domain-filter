@@ -602,6 +602,7 @@
 ||authorizeddns.us^
 ||autoipset.com^
 ||avandns.com^
+||awiki.org^
 ||ax.lt^
 ||axaxa.fun^
 ||axistechsupport.com^
@@ -1899,6 +1900,7 @@
 ||dns.x8net.ru^
 ||dns.xcapenet.ru^
 ||dns.xinwujiang.cn^
+||dns.xiumu.org^
 ||dns.xivilay.dev^
 ||dns.xlion.tw^
 ||dns.xuann.my^

@@ -5920,6 +5920,8 @@ payload:
   - +.codei.sh
   - +.codeish.co
   - +.codeish.io
+  - +.codeium.com
+  - +.codeiumdata.com
   - +.codeplex.com
   - +.coderabbit.ai
   - +.codeshare.io
@@ -26073,6 +26075,7 @@ payload:
   - +.wikipedia.org
   - +.wikiporn.tv
   - +.wikiquote.org
+  - +.wikis.tw
   - +.wikisexguide.com
   - +.wikisource.org
   - +.wikiunblocked.org
@@ -26108,6 +26111,8 @@ payload:
   - +.windowsuem.com
   - +.windowsupdate.com
   - +.windscribe.com
+  - +.windsurf.build
+  - +.windsurf.com
   - +.windy.com
   - +.wingamestore.com
   - +.wingy.site
