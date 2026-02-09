@@ -185,6 +185,7 @@
 ||1lib.sk^
 ||1lib.to^
 ||1lib.tw^
+||1mobile.com^
 ||1mobile.tw^
 ||1monsterbeatsbydreus.com^
 ||1npq4.tk^
@@ -270,7 +271,10 @@
 ||2gayboys.com^
 ||2k.com^
 ||2kcoretech.online^
+||2kct.onl^
 ||2kgames.com^
+||2ksports.com^
+||2kweb.online^
 ||2lib.org^
 ||2lipstube.com^
 ||2o7.net^
@@ -781,6 +785,7 @@
 ||acer.com^
 ||acer.com.cn^
 ||aceros-de-hispania.com^
+||acesofthunder.net^
 ||acevpn.com^
 ||acg.rip^
 ||acg18.me^
@@ -816,6 +821,7 @@
 ||actimes.com.au^
 ||activelearnprimary.co.uk^
 ||activelearnprimary.com.au^
+||activematter.game^
 ||activeteachonline.com^
 ||activpn.com^
 ||aculo.us^
@@ -2354,6 +2360,7 @@
 ||artstation.com^
 ||artstationmedia.com^
 ||artstor.org^
+||artstorm.com^
 ||artsy.net^
 ||arukas.io^
 ||arunachalforests.gov.in^
@@ -6213,6 +6220,7 @@
 ||crossfire.co.kr^
 ||crossfitfirestone.com^
 ||crossmediapanel.com^
+||crossout.net^
 ||crossref.org^
 ||crossthewall.net^
 ||crossvpn.net^
@@ -6223,6 +6231,7 @@
 ||croxyproxy.com^
 ||crr.com^
 ||crrev.com^
+||crsed.net^
 ||crtsgfb1.top^
 ||crucial.com^
 ||cruel-furies.com^
@@ -6267,6 +6276,7 @@
 ||ctv.com.tw^
 ||ctwant.com^
 ||cubicmotion.com^
+||cubicodyssey.game^
 ||cuckfilmswifefuck.com^
 ||cuckold69.com^
 ||cuckoldfuck.com^
@@ -8232,6 +8242,7 @@
 ||enjoyasianporn.com^
 ||enjoyfuck.com^
 ||enlighten.org.tw^
+||enlisted.net^
 ||enpass.io^
 ||enpirion.com^
 ||enspireformula.com^
@@ -10077,6 +10088,8 @@
 ||gaeproxy.com^
 ||gaforum.org^
 ||gagaoolala.com^
+||gaijin.net^
+||gaijinent.com^
 ||gaito.xyz^
 ||galaxyappstore.com^
 ||galaxymacau.com^
@@ -16490,6 +16503,7 @@
 ||modeltv.com^
 ||modernchinastudies.org^
 ||modernizr.com^
+||modernwarships.com^
 ||modk.it^
 ||modmyi.com^
 ||modoo.at^
@@ -20807,6 +20821,7 @@
 ||rocksdb.org^
 ||rocksextube.com^
 ||rockstargames.com^
+||rockstarnorth.com^
 ||rockylinux.org^
 ||rocmp.org^
 ||roco.qq.com^
@@ -22480,6 +22495,7 @@
 ||standwithhk.org^
 ||stanford.edu^
 ||star-brasil.com^
+||star-conflict.com^
 ||star-latam.com^
 ||starbucks-stars.com^
 ||starbucks.ad^
@@ -25765,6 +25781,7 @@
 ||warnerbrosgames.com^
 ||warp.plus^
 ||warroom.org^
+||warthunder.com^
 ||waselpro.com^
 ||washa.tv^
 ||washeng.net^
@@ -26279,6 +26296,7 @@
 ||wsjwine.com^
 ||wtbn.org^
 ||wtfpeople.com^
+||wtmobile.com^
 ||wto.org^
 ||wuerkaixi.com^
 ||wufafangwen.com^
@@ -27805,6 +27823,9 @@
 ||zwtvusa.com^
 ||zynaima.com^
 ||zynamics.com^
+||zynga.com^
+||zyngaplayersupport.com^
+||zyngapoker.com^
 ||zyxel.com^
 ||zyzc9.com^
 ||zzcartoon.com^

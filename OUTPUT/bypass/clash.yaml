@@ -989,7 +989,9 @@ payload:
   - +.dingdangnao.com
   - +.disbish.com
   - +.diskstation.alexpollard.net
+  - +.diskstation.eu
   - +.diskstation.me
+  - +.diskstation.org
   - +.ditchyourip.com
   - +.divx.se
   - +.dlinkddns.com
@@ -1678,6 +1680,7 @@ payload:
   - +.dns.pondokngunut.ponpes.id
   - +.dns.porteii.com
   - +.dns.powerbs.net
+  - +.dns.practicallyunhackable.com
   - +.dns.privado.ovh
   - +.dns.privateservices.pro
   - +.dns.propheci.xyz
@@ -2357,6 +2360,7 @@ payload:
   - +.dpcube.com
   - +.draco.plan9-ns2.com
   - +.drahonn.pro
+  - +.dray-dns.de
   - +.drayddns.com
   - +.dropfiles.net
   - +.drs.rustsword.com
@@ -2402,6 +2406,7 @@ payload:
   - +.dyn-access.org
   - +.dyn-ip24.de
   - +.dyn-o-saur.com
+  - +.dyn-vpn.de
   - +.dyn.addr.tools
   - +.dyn.ch
   - +.dyn.columbia.edu
@@ -2478,6 +2483,7 @@ payload:
   - +.dynv4.net
   - +.dynv6.com
   - +.dynv6.net
+  - +.dynvpn.de
   - +.dyyndns.net
   - +.e-m-a-i-l.org
   - +.e-romagnoli.com
@@ -2858,6 +2864,7 @@ payload:
   - +.hijaxdesigns.com
   - +.himedns.com
   - +.hin.tw
+  - +.hiprinter.com
   - +.his.name
   - +.hitian.me
   - +.hitremixes.com
@@ -4687,7 +4694,6 @@ payload:
   - +.xins.live
   - +.xjpdns.354688.xyz
   - +.xm.ln7371.top
-  - +.xmr.land
   - +.xn--durhre-yxa.de
   - +.xname.org
   - +.xomadns.com
