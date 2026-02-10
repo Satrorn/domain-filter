@@ -10405,6 +10405,7 @@
 ||gettyimages.no^
 ||gettyimages.pt^
 ||gettyimages.se^
+||gettyimages.us^
 ||getuploader.com^
 ||getws1.com^
 ||getwsone.com^
@@ -12369,6 +12370,7 @@
 ||hunk.ws^
 ||huobi.co^
 ||huobi.com^
+||huobi.li^
 ||huobi.me^
 ||huobi.pro^
 ||huobi.sc^
@@ -27107,6 +27109,7 @@
 ||yande.re^
 ||yandex-bank.net^
 ||yandex-images.clstorage.net^
+||yandex-pogoda.static-storage.net^
 ||yandex-team.ru^
 ||yandex.aero^
 ||yandex.az^

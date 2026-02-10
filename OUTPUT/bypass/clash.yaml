@@ -122,6 +122,7 @@ payload:
   - +.ad.r60.pl
   - +.ad.timefine.org
   - +.ad.tzockt.beer
+  - +.ad.viet.date
   - +.ad.visbran.fr
   - +.adagio.tw
   - +.adampowell.pro
@@ -176,6 +177,7 @@ payload:
   - +.adg.yybyy.wiki
   - +.adg5yvi.ngatngay.net
   - +.adgaurd.lingmont.net
+  - +.adgd.fragmentance.ru
   - +.adgh.imtsui.com
   - +.adgh.xrossj.top
   - +.adghome.charleschan.net
@@ -804,6 +806,7 @@ payload:
   - +.cloud.beerloga.su
   - +.cloud.boboba.ru
   - +.cloud.efreakbnc.net
+  - +.cloud.gqwyq.top
   - +.cloud.graphicpoint.pl
   - +.cloud.samutz.com
   - +.cloud.securifi.com.my
@@ -1029,6 +1032,7 @@ payload:
   - +.dns-mum.daryllswer.net
   - +.dns-nosec.quad9.net
   - +.dns-nyc.aaflalo.me
+  - +.dns-one.lins.co.tt
   - +.dns-ovh.panszelescik.pl
   - +.dns-privacy.puregeni.us
   - +.dns-public.ibakerserver.pt
@@ -1121,6 +1125,7 @@ payload:
   - +.dns.ares-taiwan.com
   - +.dns.arkbotech.com
   - +.dns.army
+  - +.dns.arnabhome.fun
   - +.dns.articrevised.cc
   - +.dns.artikel10.org
   - +.dns.ashleyjackson.net
@@ -1246,6 +1251,7 @@ payload:
   - +.dns.deekshith.in
   - +.dns.dekedin.me
   - +.dns.deldown.de
+  - +.dns.deltain.ru
   - +.dns.demon-inc.tw
   - +.dns.dev-umbrellagov.com
   - +.dns.devopscloud.icu
@@ -1303,6 +1309,7 @@ payload:
   - +.dns.expert
   - +.dns.extrawdw.net
   - +.dns.f4a.fun
+  - +.dns.fabidouille.com
   - +.dns.fadhilyori.my.id
   - +.dns.fahr.in
   - +.dns.faked.org
@@ -1311,6 +1318,7 @@ payload:
   - +.dns.fancyorg.at
   - +.dns.farakaft.ir
   - +.dns.farshidhakimy.de
+  - +.dns.farshmc.ru
   - +.dns.fc.idv.tw
   - +.dns.fdue.de
   - +.dns.fehlsprache.de
@@ -1340,6 +1348,7 @@ payload:
   - +.dns.fxdc.ru
   - +.dns.gamban.com
   - +.dns.gayanalysing.co.uk
+  - +.dns.gearworks.app
   - +.dns.geekbyte.de
   - +.dns.geohide.ru
   - +.dns.getnoclip.link
@@ -1389,6 +1398,7 @@ payload:
   - +.dns.home.daniil.it
   - +.dns.homenet.saschagaspar.net
   - +.dns.hoody.com
+  - +.dns.hopkinton.online
   - +.dns.hopsken.com
   - +.dns.horcrux.vip
   - +.dns.hostingim.com
@@ -1557,6 +1567,7 @@ payload:
   - +.dns.mfud.net
   - +.dns.mh4ckt3mh4ckt1c4s.xyz
   - +.dns.michelo.cl
+  - +.dns.midping.ir
   - +.dns.mihalcea.eu
   - +.dns.mihanentalpo.me
   - +.dns.mikeliu.org
@@ -1623,6 +1634,7 @@ payload:
   - +.dns.novali.date
   - +.dns.novg.net
   - +.dns.npe.bz
+  - +.dns.ntccloud.vn
   - +.dns.ntr.lol
   - +.dns.nubecita.biz
   - +.dns.nullgate.net
@@ -1822,6 +1834,7 @@ payload:
   - +.dns.telekom.de
   - +.dns.tesem.dog
   - +.dns.thebuckners.org
+  - +.dns.thedayg0ne.ru
   - +.dns.thegoodsource.net
   - +.dns.therifleman.name
   - +.dns.thezudrive.xyz
@@ -2231,6 +2244,7 @@ payload:
   - +.doh.meetz.pw
   - +.doh.mmmalia.com
   - +.doh.mochou.site
+  - +.doh.moorecloud.id
   - +.doh.mullvad.net
   - +.doh.nexen.cloud
   - +.doh.nic.lv
@@ -2640,6 +2654,7 @@ payload:
   - +.freedynamicdns.net
   - +.freedynamicdns.org
   - +.freehost000.xyz
+  - +.freemnt.hpitto.com
   - +.freemyip.com
   - +.freesa.org
   - +.freetcp.com
@@ -3373,6 +3388,7 @@ payload:
   - +.look.xshentx.org
   - +.lookup.zucx.net
   - +.lorc17-dns.komeho.info
+  - +.lordsalty.com
   - +.los01.dnscry.pt
   - +.los02.dnscry.pt
   - +.loseyourip.com
@@ -3426,6 +3442,7 @@ payload:
   - +.meganerd.nl
   - +.megumin.is.my.waifu.cz
   - +.meicosoft.com
+  - +.mein-vigor.de
   - +.mel01.dnscry.pt
   - +.melakaboy.com
   - +.mendozasdelivery.com
@@ -3506,6 +3523,8 @@ payload:
   - +.muxyuji.ru
   - +.mwop.net
   - +.mx1.laoxiao789.com
+  - +.my-vigor.de
+  - +.my-wan.de
   - +.my.8484848.cn
   - +.my.to
   - +.my03.com
@@ -3659,6 +3678,7 @@ payload:
   - +.noip.net
   - +.noip.pl
   - +.noip.us
+  - +.noip4.de
   - +.noipdns.com
   - +.noipdns.net
   - +.noipfreedns.com
@@ -4326,6 +4346,9 @@ payload:
   - +.syd.adfilter.net
   - +.syd.core.access.zznet.fun
   - +.syd02.dnscry.pt
+  - +.syno-ds.de
+  - +.synology-diskstation.de
+  - +.synology-ds.de
   - +.synoserver.com
   - +.syre.pp.ua
   - +.sysadminetworks.com
@@ -4408,6 +4431,7 @@ payload:
   - +.topsddns.net
   - +.tor.vasi.li
   - +.toshibanetcam.com
+  - +.totoland.eu
   - +.toythieves.com
   - +.tpa01.dnscry.pt
   - +.tpddns.cn
@@ -4455,6 +4479,7 @@ payload:
   - +.ufcfan.org
   - +.ufodns.com
   - +.ugo.si
+  - +.uk.ms
   - +.uk.to
   - +.unasw.eu
   - +.uncensored-dot.dnswarden.com
@@ -4721,6 +4746,7 @@ payload:
   - +.yhz01.dnscry.pt
   - +.yiannamarie.com
   - +.yiff.fi
+  - +.yin.flyzhouyc.win
   - +.ymq01.dnscry.pt
   - +.yngling.com
   - +.youdontcare.com
@@ -4763,6 +4789,7 @@ payload:
   - +.zneth.com
   - +.zoneedit.com
   - +.zougloub.eu
+  - +.zouter.zhang3118.qzz.io
   - +.zrh1-ns01.monzoon.net
   - +.zsh.jp
   - +.ztv.su
