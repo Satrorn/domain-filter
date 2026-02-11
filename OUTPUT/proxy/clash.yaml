@@ -10728,8 +10728,11 @@ payload:
   - +.google-access.net
   - +.google-melange.com
   - +.google-syndication.com
+  - +.google.ac
   - +.google.ad
   - +.google.ae
+  - +.google.af
+  - +.google.ai
   - +.google.al
   - +.google.am
   - +.google.as
@@ -10849,6 +10852,7 @@ payload:
   - +.google.dz
   - +.google.ee
   - +.google.es
+  - +.google.eu
   - +.google.fi
   - +.google.fm
   - +.google.fr
@@ -10860,6 +10864,7 @@ payload:
   - +.google.gp
   - +.google.gr
   - +.google.gy
+  - +.google.hk
   - +.google.hn
   - +.google.hr
   - +.google.ht
@@ -10869,6 +10874,7 @@ payload:
   - +.google.iq
   - +.google.is
   - +.google.it
+  - +.google.it.ao
   - +.google.je
   - +.google.jo
   - +.google.kg
@@ -10890,6 +10896,7 @@ payload:
   - +.google.mu
   - +.google.mv
   - +.google.mw
+  - +.google.mx
   - +.google.ne
   - +.google.net
   - +.google.nl
@@ -10923,8 +10930,10 @@ payload:
   - +.google.tn
   - +.google.to
   - +.google.tt
+  - +.google.us
   - +.google.ventures
   - +.google.vg
+  - +.google.vn
   - +.google.vu
   - +.google.ws
   - +.googleacquisitionmigration.com
@@ -20005,6 +20014,7 @@ payload:
   - +.projectvasari.com
   - +.projectvoyeur.com
   - +.promonsterbeatsbydre.com
+  - +.prompthero.com
   - +.pron.guru
   - +.pronstore.com
   - +.property.com.au
@@ -20093,6 +20103,7 @@ payload:
   - +.pugpig-dev.com
   - +.pugpig-stage.com
   - +.pugpig.com
+  - +.pullfolio.co
   - +.pullfolio.com
   - +.pullstring.net
   - +.pulsebrowser.app
