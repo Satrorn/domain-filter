@@ -3084,7 +3084,6 @@
 ||bbqm1.xyz^
 ||bbs-tw.com^
 ||bbs.boingboing.net^
-||bbs.sina.com^
 ||bbs.tuitui.info^
 ||bbsdigest.com^
 ||bbsfeed.com^
@@ -6427,7 +6426,6 @@
 ||dailymail.dk^
 ||dailymailonline.com^
 ||dailymotion.com^
-||dailynews.sina.com^
 ||dailyporn.club^
 ||dailysabah.com^
 ||dailytelegraph.com.au^
@@ -11881,7 +11879,6 @@
 ||home-sex-tapes.com^
 ||home-song.com^
 ||home.saxo^
-||home.sina.com^
 ||homealonemilfs.com^
 ||homebox.com^
 ||homeboxoffice.com^
@@ -12195,7 +12192,6 @@
 ||hrichina.org^
 ||hrntt.org^
 ||hrsaz.com^
-||hrtsea.com^
 ||hrw.org^
 ||hrweb.org^
 ||hsbc-alternatives.de^
@@ -21893,7 +21889,6 @@
 ||sitepoint.com^
 ||siterips.org^
 ||siteripz.com^
-||siteripz.net^
 ||sites.new^
 ||situero.com^
 ||six-degrees.io^
