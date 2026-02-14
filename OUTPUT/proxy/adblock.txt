@@ -1912,6 +1912,7 @@
 ||apkplz.com^
 ||apkpure.com^
 ||apkpure.net^
+||apkpures.xyz^
 ||aple.com^
 ||aplestore.com^
 ||aplleipods.com^
@@ -2502,6 +2503,7 @@
 ||attcollaborate.com^
 ||attdns.com^
 ||attdns.net^
+||attestation.app^
 ||attexperts.com^
 ||attglobal.net^
 ||attic.io^
@@ -11066,6 +11068,19 @@
 ||grannytube.net^
 ||granulate.io^
 ||graph.org^
+||grapheneos.app^
+||grapheneos.ca^
+||grapheneos.com^
+||grapheneos.dev^
+||grapheneos.foundation^
+||grapheneos.info^
+||grapheneos.net^
+||grapheneos.network^
+||grapheneos.online^
+||grapheneos.org^
+||grapheneos.ovh^
+||grapheneos.page^
+||grapheneos.social^
 ||graphengine.io^
 ||graphis.ne.jp^
 ||graphql.org^
@@ -21241,6 +21256,7 @@
 ||sdnice.one^
 ||sdnitube.buzz^
 ||seagroup.com^
+||seamlessupdate.app^
 ||seamonkey-project.org^
 ||seancody.com^
 ||seaofsolitude.com^
@@ -24769,6 +24785,7 @@
 ||valvesoftware.com^
 ||van001.com^
 ||van698.com^
+||vanadium.app^
 ||vancouverbmwretailers.ca^
 ||vanemu.cn^
 ||vanilla-jp.com^
