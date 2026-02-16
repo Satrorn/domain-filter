@@ -183,7 +183,6 @@
 ||adghome.ru^
 ||adghs.de^
 ||adgremoteau.com^
-||adguard-be-azure.westeurope.cloudapp.azure.com^
 ||adguard-dns.com^
 ||adguard-dns.eu.org^
 ||adguard-home.de^
@@ -941,7 +940,6 @@
 ||ddns.net^
 ||ddns.us^
 ||ddns5.com^
-||ddnsapp.com^
 ||ddnsfree.com^
 ||ddnsgeek.com^
 ||ddnsguru.com^
@@ -1091,7 +1089,6 @@
 ||dns.adguard.com^
 ||dns.adguarddns.com^
 ||dns.adrianlam.com^
-||dns.agfiudsv.icu^
 ||dns.ahmgam.com^
 ||dns.aicreate360.com^
 ||dns.airmaxcloud.uk^
@@ -1232,7 +1229,6 @@
 ||dns.cysynex.cloud^
 ||dns.d365.in^
 ||dns.d4d.moe^
-||dns.d8e.ru^
 ||dns.d94.xyz^
 ||dns.daarrk.tech^
 ||dns.daemon.za.net^
@@ -4204,7 +4200,6 @@
 ||sg.yepdns.com^
 ||sg1.dnswarden.com^
 ||sg2.ooroot.com^
-||sg2.tt502.eu.org^
 ||sgd.559299366.xyz^
 ||sgdns.site^
 ||sgn01.dnscry.pt^
