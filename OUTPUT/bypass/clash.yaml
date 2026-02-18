@@ -1391,7 +1391,6 @@ payload:
   - +.dns.hoian.one
   - +.dns.home.beckett.io
   - +.dns.home.daniil.it
-  - +.dns.homenet.saschagaspar.net
   - +.dns.hoody.com
   - +.dns.hopkinton.online
   - +.dns.hopsken.com
@@ -1704,7 +1703,6 @@ payload:
   - +.dns.quanhd.net
   - +.dns.quickline.ch
   - +.dns.quickso.cn
-  - +.dns.quidam.ovh
   - +.dns.quiet.rocks
   - +.dns.rabbitdns.org
   - +.dns.ramansarda.com
@@ -1881,9 +1879,7 @@ payload:
   - +.dns.vlo.cc
   - +.dns.vmath.my.id
   - +.dns.vmisch.tech
-  - +.dns.vod11.xyz
   - +.dns.volsap.ovh
-  - +.dns.voronin.uk
   - +.dns.vortexstore.cloud
   - +.dns.vps.pw
   - +.dns.w3ctag.org
@@ -2275,7 +2271,6 @@ payload:
   - +.doh.securedns.eu
   - +.doh.sidnlabs.nl
   - +.doh.srv00.com
-  - +.doh.sublime9.xyz
   - +.doh.suche.org
   - +.doh.sunoaki.net
   - +.doh.sww.net.id
@@ -3371,7 +3366,6 @@ payload:
   - +.loadlow.me
   - +.loan.paymdm.xyz
   - +.locumm.com
-  - +.log.qrsoft.ru
   - +.loginto.me
   - +.logisoft-cy.com
   - +.logs.danamas.net
@@ -3529,6 +3523,7 @@ payload:
   - +.myadg.ru
   - +.myagh.claptrap.me
   - +.myatris.sbs
+  - +.mycompany.tv
   - +.mydad.info
   - +.myddns.biz
   - +.myddns.com
@@ -3545,6 +3540,7 @@ payload:
   - +.myftp.info
   - +.myftp.org
   - +.myhome-server.de
+  - +.myhouse.tv
   - +.myip.org
   - +.myiphost.com
   - +.myjino.ru
@@ -4105,7 +4101,6 @@ payload:
   - +.sanns.aniuo.com
   - +.sascha-rabold.de
   - +.saves-the-whales.com
-  - +.saya.rnrkurir.com
   - +.sbdns.co.in
   - +.scay.net
   - +.schimtar.com
@@ -4200,7 +4195,6 @@ payload:
   - +.sg1.dnswarden.com
   - +.sg2.ooroot.com
   - +.sgd.559299366.xyz
-  - +.sgdns.site
   - +.sgn01.dnscry.pt
   - +.sgs02.just-a-web.com
   - +.sgs03.just-a-web.com
@@ -4599,7 +4593,6 @@ payload:
   - +.vpn.odeccit.com
   - +.vpn.sakhwow.ru
   - +.vpn.satadru.dev
-  - +.vpn.self-tech.ru
   - +.vpn.snxi.de
   - +.vpn.stroialliance.com
   - +.vpn.technicule.info
