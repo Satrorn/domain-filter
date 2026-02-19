@@ -1919,10 +1919,8 @@
 ||dns.xxxxxxxx.pp.ua^
 ||dns.xydustc.me^
 ||dns.y2f.xyz^
-||dns.yameenassotally.com^
 ||dns.yandex.ru^
 ||dns.yatima.tv^
-||dns.ygonline.de^
 ||dns.yingroad.top^
 ||dns.youni.win^
 ||dns.yu.dev^
@@ -1991,8 +1989,6 @@
 ||dns11.quad9.net^
 ||dns12.quad9.net^
 ||dns13.quad9.net^
-||dns140.zhhz.cc^
-||dns168.zhhz.cc^
 ||dns19.854000.xyz^
 ||dns2.afastserver.com^
 ||dns2.anuar.me^
@@ -4528,7 +4524,6 @@
 ||v13clan.com^
 ||v1552270.hosted-by-vdsina.ru^
 ||v2-1.huwenqiang.xyz^
-||v2.xx3210766.live^
 ||v2202405224322270920.megasrv.de^
 ||v2rich.eu.org^
 ||v3.passby.eu.org^
