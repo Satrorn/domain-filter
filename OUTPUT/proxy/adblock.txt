@@ -8727,7 +8727,6 @@
 ||facebboook.com^
 ||facebcook.com^
 ||facebdok.com^
-||facebgook.com^
 ||facebhook.com^
 ||facebkkk.com^
 ||facebo-ok.com^
@@ -9890,6 +9889,7 @@
 ||freeddns.org^
 ||freedirecttvspecial.com^
 ||freedl.org^
+||freedom.gov^
 ||freedomchina.info^
 ||freedomcollection.org^
 ||freedomhongkong.org^
@@ -16578,7 +16578,9 @@
 ||miuipolska.pl^
 ||mixasiansex.com^
 ||mixero.com^
+||mixi.co.jp^
 ||mixi.jp^
+||mixi.net^
 ||mixin.one^
 ||mixlr.com^
 ||mixmaturesex.com^
@@ -18802,6 +18804,7 @@
 ||paaypal.com^
 ||pachosting.com^
 ||pacifickitchenandhome.com^
+||packagecloud.io^
 ||packagecontrol.io^
 ||packaging-cadcam.com^
 ||packagingcadcam.com^
