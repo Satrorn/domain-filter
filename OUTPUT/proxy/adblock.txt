@@ -740,7 +740,6 @@
 ||abema-tv.com^
 ||abema.io^
 ||abema.tv^
-||abematv.akamaized.net^
 ||abematv.co.jp^
 ||abgsp1.buzz^
 ||abigass.com^
@@ -1383,6 +1382,7 @@
 ||akamaitechnologies.com^
 ||akamaitechnologies.net^
 ||akamaized-staging.net^
+||akamaized.net^
 ||akamaizercentral.com^
 ||akamak.com^
 ||akamam.com^
@@ -14789,7 +14789,6 @@
 ||lasersawapp.com^
 ||last.fm^
 ||lastcombat.com^
-||lastfm-img2.akamaized.net^
 ||lastfm.cn^
 ||lastfm.de^
 ||lastfm.es^
@@ -15024,7 +15023,6 @@
 ||line-scdn.net^
 ||line.biz^
 ||line.me^
-||linear-abematv.akamaized.net^
 ||linearcollider.org^
 ||linecorp.com^
 ||linefriends.com^
@@ -25615,7 +25613,6 @@
 ||vocativ.com^
 ||vocn.tv^
 ||vocus.cc^
-||vod-abematv.akamaized.net^
 ||vod360.net^
 ||vodafone.co.uk^
 ||vodafone.com^
