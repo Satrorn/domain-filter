@@ -271,7 +271,6 @@
 ||adguard.kalyanmudumby.com^
 ||adguard.kantinyoyok.xyz^
 ||adguard.kasbot.net^
-||adguard.kazantsev97.msk.ru^
 ||adguard.kiboko.it^
 ||adguard.kitakitsune.xyz^
 ||adguard.kngnet.de^
@@ -636,7 +635,6 @@
 ||benjamin.it^
 ||berd.moe^
 ||bestwon203.com^
-||beta.thegodfatheriam.shop^
 ||better-than.tv^
 ||bg.rslvr.eu^
 ||bgdsupport.com^
@@ -726,7 +724,6 @@
 ||c1.msocportal.my.id^
 ||ca.doh.cloudveil.org^
 ||cable-modem.org^
-||caddy.rkn.icu^
 ||callbackping.net^
 ||callies-online.site^
 ||camdvr.org^
@@ -1596,7 +1593,6 @@
 ||dns.netvpn.net^
 ||dns.neubsi.at^
 ||dns.nextdns.io^
-||dns.nguyendangduong.codes^
 ||dns.nguyendn.com^
 ||dns.nhtsky.com^
 ||dns.niccoli.cc^
@@ -1604,7 +1600,6 @@
 ||dns.nicolas.vip^
 ||dns.nieto.app^
 ||dns.niffelen.com^
-||dns.nimzero.fr^
 ||dns.ningkelle.id^
 ||dns.ninhs.org^
 ||dns.njal.la^
@@ -1820,7 +1815,6 @@
 ||dns.thiz.top^
 ||dns.thore.cloud^
 ||dns.timboeh.me^
-||dns.timkevin.us^
 ||dns.tipsy.coffee^
 ||dns.titov.cz^
 ||dns.tkhome.nl^
@@ -2251,7 +2245,6 @@
 ||doh.seby.io^
 ||doh.securedns.eu^
 ||doh.sidnlabs.nl^
-||doh.srv00.com^
 ||doh.suche.org^
 ||doh.sunoaki.net^
 ||doh.sww.net.id^
@@ -3402,7 +3395,6 @@
 ||mcttechs.com^
 ||mcwrite.net^
 ||medbury.com^
-||media.streamfusion.online^
 ||medittech.com^
 ||mefound.com^
 ||meganerd.nl^
@@ -3421,7 +3413,6 @@
 ||mgipr.com^
 ||mh-it.com^
 ||mia01.dnscry.pt^
-||michelo.line.pm^
 ||mickedi.isgood.host^
 ||micro.alloxr.info^
 ||midgard.asguardian.de^

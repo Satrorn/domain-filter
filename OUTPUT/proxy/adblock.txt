@@ -7640,6 +7640,7 @@
 ||drnastran.com^
 ||droidsecurity.com^
 ||dronedj.com^
+||dropbooks.tv^
 ||dropbox-dns.com^
 ||dropbox.com^
 ||dropbox.tech^
@@ -14072,6 +14073,7 @@
 ||jessicaturner.com^
 ||jetbra.in^
 ||jetbrains.ai^
+||jetbrains.cloud^
 ||jetbrains.com^
 ||jetbrains.io^
 ||jetbrains.net^
@@ -14421,6 +14423,7 @@
 ||kaspersky.co.th^
 ||kaspersky.co.uk^
 ||kaspersky.co.za^
+||kaspersky.com^
 ||kaspersky.com.au^
 ||kaspersky.com.br^
 ||kaspersky.com.hk^
@@ -18051,7 +18054,6 @@
 ||novids.com^
 ||novinhabucetuda.com^
 ||novinhagostosa10.com^
-||novinhasdozapzap.com^
 ||novojoy.com^
 ||novostrong.com^
 ||now-ashare.com^
@@ -24474,6 +24476,7 @@
 ||twibes.com^
 ||twibs.com^
 ||twicountry.org^
+||twicsy.com^
 ||twidouga.net^
 ||twidouga.tv^
 ||twiends.com^
