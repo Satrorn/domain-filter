@@ -6680,6 +6680,7 @@
 ||dctbeatsbydre.com^
 ||ddc.com.tw^
 ||ddd-smart.net^
+||ddex.io^
 ||ddff66.com^
 ||ddff77.com^
 ||ddg.co^
@@ -7640,7 +7641,6 @@
 ||drnastran.com^
 ||droidsecurity.com^
 ||dronedj.com^
-||dropbooks.tv^
 ||dropbox-dns.com^
 ||dropbox.com^
 ||dropbox.tech^
@@ -8935,6 +8935,7 @@
 ||facecbook.org^
 ||facecook.com^
 ||facecook.org^
+||facedbook.com^
 ||faceebok.com^
 ||faceebook.com^
 ||faceebot.com^
@@ -10168,6 +10169,7 @@
 ||futpromos.com^
 ||futuhk.com^
 ||futuhkapp.com^
+||futuholdings.com^
 ||futunited.com^
 ||futurechinaforum.org^
 ||futuremessage.org^
@@ -10231,6 +10233,7 @@
 ||gamboporn.com^
 ||gamcore.com^
 ||game-platform.net^
+||game-repack.site^
 ||game735.com^
 ||gameapps.hk^
 ||gamebase.com.tw^
@@ -10278,6 +10281,7 @@
 ||gaozhisheng.org^
 ||gaozs18.buzz^
 ||gardennetworks.com^
+||gardennetworks.org^
 ||garena.co.id^
 ||garena.co.th^
 ||garena.com^
@@ -12988,6 +12992,7 @@
 ||imagebam.com^
 ||imagecurl.com^
 ||imagecurl.org^
+||imagedelivery.net^
 ||imagefap.com^
 ||imageflea.com^
 ||imageglass.org^
@@ -17052,6 +17057,7 @@
 ||muslimvideo.com^
 ||mut.ch^
 ||muthead.com^
+||muvluv-girls-garden.com^
 ||muycerdas.xxx^
 ||muyzorras.com^
 ||muzi.com^
@@ -18313,6 +18319,7 @@
 ||nxta.org^
 ||nxtdig.com.hk^
 ||nxtdig.com.tw^
+||nyaa.eu^
 ||nyaa.net^
 ||nyaa.si^
 ||nyahentai.re^
@@ -18556,6 +18563,7 @@
 ||onlyams.com^
 ||onlycartoonsex.com^
 ||onlydudes.com^
+||onlyfans.com^
 ||onlyfanspw.com^
 ||onlyfreelatinaporn.com^
 ||onlygayvideo.com^
@@ -21492,6 +21500,7 @@
 ||sena.co.kr^
 ||sendsmtp.com^
 ||sendspace.com^
+||sendvid.com^
 ||seneporno.com^
 ||seniortgp.com^
 ||senpaiheat.com^
@@ -22020,6 +22029,7 @@
 ||sing-box.app^
 ||sing4.lat^
 ||sing68.com^
+||singaporepools.com.sg^
 ||singfortibet.com^
 ||singlelogin.app^
 ||singlelogin.me^
@@ -22824,6 +22834,7 @@
 ||steampowered.com^
 ||steamserver.net^
 ||steamstatic.com^
+||steamunlocked.net^
 ||steamusercontent.com^
 ||steamygamer.com^
 ||steel-storm.com^
@@ -24451,6 +24462,7 @@
 ||tweetmarker.net^
 ||tweetmeme.com^
 ||tweetmylast.fm^
+||tweetphoto.com^
 ||tweetrans.com^
 ||tweetree.com^
 ||tweetswell.com^
@@ -24880,6 +24892,7 @@
 ||utcnist.colorado.edu^
 ||utcnist2.colorado.edu^
 ||utcnist3.colorado.edu^
+||utdstc.com^
 ||utopianpal.com^
 ||uu-gg.com^
 ||uug22.com^
@@ -26640,6 +26653,7 @@
 ||xboxstudios.com^
 ||xboyvids.com^
 ||xbrasilporno.com^
+||xbtce.com^
 ||xbx.lv^
 ||xcafe.com^
 ||xcafe.in^
@@ -27484,6 +27498,8 @@
 ||youjism.com^
 ||youjizz.com^
 ||youjizz.sex^
+||youla.io^
+||youla.ru^
 ||youlucky.com^
 ||youmaker.com^
 ||youmind.ai^
@@ -28061,6 +28077,7 @@
 ||zynamics.com^
 ||zynga.com^
 ||zyngaplayersupport.com^
+||zyngapoker.com^
 ||zyxel.com^
 ||zyzc9.com^
 ||zzcartoon.com^
