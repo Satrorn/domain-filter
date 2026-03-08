@@ -1152,6 +1152,7 @@
 ||dns.brono.cloud^
 ||dns.burgas.pro^
 ||dns.busold.ws^
+||dns.butterfly87.sbs^
 ||dns.c0ntroller.de^
 ||dns.cahlen.com^
 ||dns.caliph.dev^
@@ -3500,6 +3501,7 @@
 ||myddns.rocks^
 ||mydevpn.eu^
 ||mydissent.net^
+||mydns.bielperes.me^
 ||mydns.bz^
 ||mydns.jp^
 ||mydns.phatna.net^
