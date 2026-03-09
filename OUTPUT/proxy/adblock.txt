@@ -7641,6 +7641,7 @@
 ||drnastran.com^
 ||droidsecurity.com^
 ||dronedj.com^
+||dropbooks.tv^
 ||dropbox-dns.com^
 ||dropbox.com^
 ||dropbox.tech^
@@ -7859,6 +7860,7 @@
 ||dynamobuilds.com^
 ||dynamopackages.com^
 ||dynamoreach.com^
+||dynatrace.com^
 ||dynawebinc.com^
 ||dyncdn.me^
 ||dyndns-ip.com^
@@ -9038,6 +9040,7 @@
 ||familypies.net^
 ||familyporn.tv^
 ||familypornhd.com^
+||familysearch.org^
 ||familysexsimulator.com^
 ||familysimulator.com^
 ||familysimulator.io^
@@ -21867,6 +21870,7 @@
 ||shitaotv.org^
 ||shithd.com^
 ||shitjav.com^
+||shitjournal.org^
 ||shittytube.com^
 ||shixiao.org^
 ||shizhao.org^

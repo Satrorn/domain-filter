@@ -1268,6 +1268,7 @@
 ||dns.edgeburnmedia.com^
 ||dns.edgeworkssystems.ca^
 ||dns.edgy.network^
+||dns.edison42.dev^
 ||dns.efficientdocuments.com^
 ||dns.electrotm.org^
 ||dns.elemental.software^
@@ -1290,6 +1291,7 @@
 ||dns.expert^
 ||dns.extrawdw.net^
 ||dns.f4a.fun^
+||dns.f97.xyz^
 ||dns.fabidouille.com^
 ||dns.fadhilyori.my.id^
 ||dns.fahr.in^
@@ -1367,6 +1369,7 @@
 ||dns.hanahira.dev^
 ||dns.hanmey.de^
 ||dns.hannielzhang.com^
+||dns.haoxuan.xyz^
 ||dns.hashemlabs.co.uk^
 ||dns.hee.ink^
 ||dns.hellozhao.com^
@@ -2351,6 +2354,7 @@
 ||dsmynas.org^
 ||dstruis.nl^
 ||dtdns.com^
+||dtdns.net^
 ||dtdns.org^
 ||dtw01.dnscry.pt^
 ||dub01.dnscry.pt^
@@ -2929,6 +2933,7 @@
 ||host94.rheingold.com.ua^
 ||hostdare.qtxd.net^
 ||hosthampster.com^
+||hpc.tw^
 ||hr.i81.ru^
 ||hs.vc^
 ||hshh.org^
