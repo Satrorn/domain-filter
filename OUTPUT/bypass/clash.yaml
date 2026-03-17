@@ -1424,7 +1424,6 @@ payload:
   - +.dns.ihaveacloud.com
   - +.dns.ikataruto.com
   - +.dns.iki.my.id
-  - +.dns.ikun6.dpdns.org
   - +.dns.imchristian.de
   - +.dns.immanuelschaffer.de
   - +.dns.indybanipal.com
@@ -1481,12 +1480,10 @@ payload:
   - +.dns.kawa.tf
   - +.dns.kc2wbx.com
   - +.dns.kebree.fr
-  - +.dns.kellys.pw
   - +.dns.kempkens.org
   - +.dns.kerekes.xyz
   - +.dns.kernel-error.de
   - +.dns.kescher.at
-  - +.dns.keskinnetwork.com
   - +.dns.keskonet.com
   - +.dns.keviland.com
   - +.dns.keweon.center
@@ -2349,6 +2346,7 @@ payload:
   - +.dot.seby.io
   - +.dot.tiar.app
   - +.dot.tooli.ca
+  - +.dot.ublockdns.com
   - +.dot.xfinity.com
   - +.dot1.appliedprivacy.net
   - +.doth.huque.com
@@ -2744,7 +2742,6 @@ payload:
   - +.genscorp.es
   - +.geobattery.com
   - +.gerastar.ru
-  - +.gersoctruda.ru
   - +.geshido.vpn.geshido.ru
   - +.getdnsapi.net
   - +.getmyip.com
@@ -3035,7 +3032,6 @@ payload:
   - +.ihctw.synology.me
   - +.iiiii.info
   - +.iij.jp
-  - +.ikarosalpha.xyz
   - +.ikwb.com
   - +.ilinhy.com
   - +.ilmxs.com
@@ -3474,7 +3470,6 @@ payload:
   - +.mirolnet.com
   - +.misconfused.org
   - +.misecure.com
-  - +.miskoss.fun
   - +.mistasinresolver.ru
   - +.mistermousepotato.com
   - +.mithrandir.us
@@ -3523,6 +3518,7 @@ payload:
   - +.my-wan.de
   - +.my.8484848.cn
   - +.my.to
+  - +.my.ublockdns.com
   - +.my03.com
   - +.myactivedirectory.com
   - +.myaddr.dev
@@ -3706,7 +3702,6 @@ payload:
   - +.ns.mtsoln.com
   - +.ns.nerdytechgeeks.co.za
   - +.ns.net.kg
-  - +.ns.nwps.fi
   - +.ns.ral9005.org
   - +.ns.solutics.ec
   - +.ns.solutionsbest.de
@@ -3743,7 +3738,6 @@ payload:
   - +.ns2.name
   - +.ns2.opennameserver.org
   - +.ns2.ravdns.com
-  - +.ns2.recursive.dnsbycomodo.com
   - +.ns2.wuyouss.com
   - +.ns3.bit-trail.nl
   - +.ns3.com
@@ -3761,6 +3755,7 @@ payload:
   - +.nue01.dnscry.pt
   - +.nufszone.com
   - +.nvi-dns.bitdefender.net
+  - +.nwps.fi
   - +.nx.tc
   - +.ny.pramanik.com
   - +.ny.teradns.org
@@ -3817,7 +3812,6 @@ payload:
   - +.ore-dns.bitdefender.net
   - +.organiccrap.com
   - +.orjp4.lz0724.com
-  - +.ornext.luxury-web.kz
   - +.orpi.privado.ovh
   - +.orskkino.ru
   - +.oscnl.site
