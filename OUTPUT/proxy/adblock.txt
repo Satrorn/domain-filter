@@ -1011,7 +1011,6 @@
 ||adpl.org.hk^
 ||adporn.cc^
 ||adpornu.xyz^
-||adsense.com^
 ||adskcloud.com^
 ||adskcloud.net^
 ||adskeng.net^
@@ -11104,7 +11103,6 @@
 ||googlefiber.com^
 ||googlefiber.net^
 ||googlefinland.com^
-||googleflights-cn.net^
 ||googlegroups.com^
 ||googlehosted.com^
 ||googleideas.com^
@@ -14436,7 +14434,6 @@
 ||kaspersky.co.th^
 ||kaspersky.co.uk^
 ||kaspersky.co.za^
-||kaspersky.com^
 ||kaspersky.com.au^
 ||kaspersky.com.br^
 ||kaspersky.com.hk^
@@ -19910,6 +19907,7 @@
 ||pornolab.net^
 ||pornolaba.mobi^
 ||pornolandia.xxx^
+||pornomasse.com^
 ||pornomineiro.com^
 ||pornomovies.mobi^
 ||pornone.com^

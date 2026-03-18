@@ -1658,7 +1658,6 @@
 ||dns.ostfriese.org^
 ||dns.otezz.net^
 ||dns.ourvau.lt^
-||dns.ozamagenova.ru^
 ||dns.p3k.sk^
 ||dns.p55k.com^
 ||dns.pacificmonster.com^
@@ -1793,7 +1792,6 @@
 ||dns.spirio.fr^
 ||dns.srijan.site^
 ||dns.srinivasrao.co.in^
-||dns.sshub.win^
 ||dns.sstomp.nl^
 ||dns.startupstack.tech^
 ||dns.stevenz.net^
@@ -3367,7 +3365,6 @@
 ||lju01.dnscry.pt^
 ||llk01.dnscry.pt^
 ||loadlow.me^
-||loan.paymdm.xyz^
 ||locumm.com^
 ||loginto.me^
 ||logisoft-cy.com^
@@ -3648,7 +3645,6 @@
 ||nl-dro-w-p-1.nashkan.net^
 ||nl.dns.privex.io^
 ||nl.dns.shx.su^
-||nl.ogne.top^
 ||nl.rslvr.eu^
 ||no-domain.name^
 ||no-ip.biz^
@@ -4303,7 +4299,6 @@
 ||ssytnik.de^
 ||st.flyzhouyc.win^
 ||standard.mask.ad^
-||star.is^
 ||steering.nextdns.io^
 ||stella.clae.net^
 ||stemmetje.com^
