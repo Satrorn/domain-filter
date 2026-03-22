@@ -8571,6 +8571,7 @@
 ||esoir.be^
 ||esopworld.com^
 ||esp32.com^
+||esp8266.com^
 ||espadoldettol.com.ar^
 ||esperanzagomez.org^
 ||espn.co.uk^
@@ -8580,6 +8581,7 @@
 ||espnqa.com^
 ||esports.gg^
 ||esposasymaridos.com^
+||espressif.com^
 ||esri.com^
 ||estudio360.com.co^
 ||estudiopenthouse.com^
@@ -18466,6 +18468,7 @@
 ||okkisokuho.com^
 ||okko.sport^
 ||okko.tv^
+||oklink.com^
 ||okpool.me^
 ||okx-dns.com^
 ||okx-dns1.com^
