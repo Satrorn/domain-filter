@@ -316,7 +316,6 @@
 ||3animalsextube.com^
 ||3arabporn.com^
 ||3arabtv.com^
-||3boys2girls.com^
 ||3d-comics.com^
 ||3d-december.com^
 ||3d-game.com^
@@ -18651,6 +18650,7 @@
 ||openlibrary.org^
 ||openmaps.org^
 ||openreality.com^
+||openrec.tv^
 ||openresty.org^
 ||openreview.net^
 ||openrouter.ai^
@@ -21189,6 +21189,7 @@
 ||s-nbcnews.com^
 ||s-rewards.hk^
 ||s-xoom.com^
+||s.rmimg.com^
 ||s.team^
 ||s1heng.com^
 ||s1s1s1.com^

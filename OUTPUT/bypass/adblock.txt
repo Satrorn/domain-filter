@@ -608,7 +608,6 @@
 ||authorizeddns.us^
 ||autoipset.com^
 ||avandns.com^
-||awiki.org^
 ||ax.lt^
 ||axaxa.fun^
 ||axistechsupport.com^
@@ -1089,6 +1088,7 @@
 ||dns.abppro.ru^
 ||dns.adguard.com^
 ||dns.adguarddns.com^
+||dns.adnull.com^
 ||dns.adrianlam.com^
 ||dns.adriason.co.uk^
 ||dns.ahmgam.com^
@@ -1358,7 +1358,6 @@
 ||dns.giriprabhat.com^
 ||dns.glampool.cloud^
 ||dns.glf.wtf^
-||dns.glorydns.com^
 ||dns.glsoft.ai^
 ||dns.gnb09.id^
 ||dns.goertz.digital^
@@ -2862,7 +2861,6 @@
 ||hijaxdesigns.com^
 ||himedns.com^
 ||hin.tw^
-||hiprinter.com^
 ||his.name^
 ||hitian.me^
 ||hitremixes.com^
@@ -3051,7 +3049,6 @@
 ||ingenmannsland.online^
 ||inkcat.net^
 ||innograph.com^
-||inoainoa.fun^
 ||inpssh.online^
 ||instanthq.com^
 ||internetsehat.bebasid.com^
@@ -3329,7 +3326,6 @@
 ||leitud.ee^
 ||leitungsen.de^
 ||leivo.org^
-||lelux.fi^
 ||lena.vpn.i81.ru^
 ||lessmiths.com^
 ||lesuo.top^
@@ -3812,7 +3808,6 @@
 ||oscnl.site^
 ||ott01.dnscry.pt^
 ||otzo.com^
-||oumage.com^
 ||ourhobby.com^
 ||oury.privado.ovh^
 ||outie.8ws.net^
@@ -4343,7 +4338,6 @@
 ||synoserver.com^
 ||syre.pp.ua^
 ||sysadminetworks.com^
-||system-ns.com^
 ||systes.net^
 ||sytes.net^
 ||szyrzyk.pl^
