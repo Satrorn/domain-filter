@@ -1974,7 +1974,6 @@
 ||aorus.com^
 ||aoruszone.cn^
 ||aoxvpn.com^
-||aoxx69.net^
 ||aozorabank.co.jp^
 ||ap-bangkok.myqcloud.com^
 ||ap-bangkok.tencentcos.com^
@@ -20410,6 +20409,7 @@
 ||qbmengmei6.mom^
 ||qceventscenter.com.cn^
 ||qckprn.com^
+||qcomgeo2.com^
 ||qctconnect.com^
 ||qdiehzz7.me^
 ||qdmomentum.com^
@@ -20464,6 +20464,7 @@
 ||qtrac.eu^
 ||qtweeter.com^
 ||qualcomm-email.com^
+||qualcomm-inc.com^
 ||qualcomm.cn^
 ||qualcomm.co.id^
 ||qualcomm.co.in^
@@ -26881,6 +26882,7 @@
 ||xn--hckl3e1e8a8ajin0czf.net^
 ||xn--hhr917d3fecva.xyz^
 ||xn--i2ru8q2qg.com^
+||xn--kcrv3utim32hx9f6qe.com^
 ||xn--m1abbbgjah.lol^
 ||xn--mts47c3w9b1qr.net^
 ||xn--mtswd61ejxq.com^
