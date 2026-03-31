@@ -13455,6 +13455,7 @@
 ||internet.org^
 ||internetdownloadmanager.com^
 ||internetexplorer.co^
+||internetexplorer.com^
 ||internetexxxplorer.com^
 ||internetfreedom.org^
 ||internetofeverything.com^
@@ -14608,7 +14609,6 @@
 ||kinklive.com^
 ||kinkoid.com^
 ||kinkyfamily.com^
-||kinkypeepz.com^
 ||kinmen.org.tw^
 ||kinmen.travel^
 ||kinokuniya.com^

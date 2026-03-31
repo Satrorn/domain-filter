@@ -885,7 +885,6 @@
 ||cubedns.com^
 ||cuesinc.com^
 ||cupddns.net^
-||curser.dev^
 ||custom-gaming.net^
 ||cvt-ic-us-adns-001.clearviewtechnology.net^
 ||cvt01.dnscry.pt^
@@ -1227,6 +1226,7 @@
 ||dns.csa-rz.de^
 ||dns.csaonline.de^
 ||dns.csswg.org^
+||dns.curser.dev^
 ||dns.cwlys.com^
 ||dns.cybertonic.tech^
 ||dns.cynthialabs.net^
@@ -1553,7 +1553,6 @@
 ||dns.marcbond.uk^
 ||dns.marschi.de^
 ||dns.mateo.ovh^
-||dns.mathewakhil.online^
 ||dns.matthias-prost.com^
 ||dns.maybe.icu^
 ||dns.mayr.ws^
@@ -1601,7 +1600,6 @@
 ||dns.musikantit.fi^
 ||dns.muxinghe.cn^
 ||dns.mymachinepanda.online^
-||dns.mytest.cc^
 ||dns.mzjtechnology.com^
 ||dns.mzrme.cn^
 ||dns.n23.io^
@@ -1757,7 +1755,6 @@
 ||dns.schlagheck.berlin^
 ||dns.schmidt-zoarn.de^
 ||dns.scott-smith.us^
-||dns.scott.ovh^
 ||dns.sct-pro.com^
 ||dns.scuola.org^
 ||dns.seaotter.cc^
@@ -4117,7 +4114,6 @@
 ||scrapper-site.net^
 ||scrapping.cc^
 ||sdkconfig.tlivedns.com^
-||sdns22.gkonuralp.com^
 ||sdp-mos.ru^
 ||sdvizhkov.ru^
 ||sea01.dnscry.pt^
