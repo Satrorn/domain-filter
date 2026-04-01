@@ -1660,6 +1660,7 @@
 ||dns.ostfriese.org^
 ||dns.otezz.net^
 ||dns.ourvau.lt^
+||dns.ovpn.bond^
 ||dns.p3k.sk^
 ||dns.p55k.com^
 ||dns.pacificmonster.com^
