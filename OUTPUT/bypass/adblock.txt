@@ -207,7 +207,6 @@
 ||adguard.amscenter.net^
 ||adguard.app.sabino.pro^
 ||adguard.avavd.ru^
-||adguard.avdkishore.dev^
 ||adguard.ayrespace.cc^
 ||adguard.baltes.info^
 ||adguard.bitteeinbyte.de^
@@ -445,7 +444,6 @@
 ||africadns2.liquidtelecom.net^
 ||ag.alexf.cc^
 ||ag.apollohct.com^
-||ag.brianlee.fun^
 ||ag.coco-tama-hoiku.com^
 ||ag.felixf.eu^
 ||ag.ff0x.ca^
@@ -839,7 +837,6 @@
 ||cloudxns.net^
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
-||cmirg.com^
 ||cn-dns.hashtable.io^
 ||cnstefancelmare.ro^
 ||coalnet.ru^
@@ -1021,7 +1018,6 @@
 ||dns-dynamic.net^
 ||dns-family.adguard.com^
 ||dns-family.esegece.com^
-||dns-fr-psv1.cloudsides.com^
 ||dns-free.link^
 ||dns-gcp.aaflalo.me^
 ||dns-idx1.itsec.my.id^
@@ -3394,7 +3390,6 @@
 ||lukscasino-929-tr.xyz^
 ||lux01.dnscry.pt^
 ||luxembourg.privacy-dns.pw^
-||lvpn.2rdp.ru^
 ||macrofox.org^
 ||mad01.dnscry.pt^
 ||madhacker.biz^
