@@ -318,7 +318,6 @@
 ||3animalsextube.com^
 ||3arabporn.com^
 ||3arabtv.com^
-||3boys2girls.com^
 ||3d-comics.com^
 ||3d-december.com^
 ||3d-game.com^
@@ -8593,6 +8592,7 @@
 ||eskimotube.com^
 ||eslite.com^
 ||esm.run^
+||esm.sh^
 ||esmarthealth.com^
 ||esmatube.com^
 ||esmplus.com^
@@ -19625,6 +19625,7 @@
 ||pjgirls.com^
 ||pjsekai.sega.jp^
 ||pk.com^
+||pkgbuild.com^
 ||pki-post.ch^
 ||pki-posta.ch^
 ||pki-poste.ch^
@@ -25007,7 +25008,6 @@
 ||up.gcp.googlers.com^
 ||up01.cc^
 ||upbit.com^
-||update.crashlytics.com^
 ||updatestar.com^
 ||updatetube.com^
 ||upfrontcfd.com^
