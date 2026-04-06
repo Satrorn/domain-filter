@@ -207,7 +207,6 @@
 ||adguard.amscenter.net^
 ||adguard.app.sabino.pro^
 ||adguard.avavd.ru^
-||adguard.avdkishore.dev^
 ||adguard.ayrespace.cc^
 ||adguard.baltes.info^
 ||adguard.bitteeinbyte.de^
@@ -839,7 +838,6 @@
 ||cloudxns.net^
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
-||cmirg.com^
 ||cn-dns.hashtable.io^
 ||cnstefancelmare.ro^
 ||coalnet.ru^
@@ -1021,7 +1019,6 @@
 ||dns-dynamic.net^
 ||dns-family.adguard.com^
 ||dns-family.esegece.com^
-||dns-fr-psv1.cloudsides.com^
 ||dns-free.link^
 ||dns-gcp.aaflalo.me^
 ||dns-idx1.itsec.my.id^
@@ -1223,7 +1220,6 @@
 ||dns.corefusion.xyz^
 ||dns.cryptomize.com^
 ||dns.crystalyx.net^
-||dns.csa-rz.de^
 ||dns.csaonline.de^
 ||dns.csswg.org^
 ||dns.curser.dev^
@@ -4123,7 +4119,6 @@
 ||searxng.rcxpony.name^
 ||seburn.net^
 ||sec.iamninja.ru^
-||secure-dns.dns-ga.de^
 ||secure-dns.gridlax.com^
 ||secure-dns.pleumkungz.com^
 ||secure.anudeep.me^
