@@ -1337,10 +1337,8 @@
 ||dns.freemyemail.com^
 ||dns.freopc.fr^
 ||dns.freyja.pw^
-||dns.friezer.eu^
 ||dns.froth.zone^
 ||dns.fsociety.club^
-||dns.fsociety.red^
 ||dns.fulgore.fr^
 ||dns.furrydns.de^
 ||dns.futuredns.me^
@@ -1391,7 +1389,6 @@
 ||dns.hellozhao.com^
 ||dns.henek.ru^
 ||dns.herkhof.nl^
-||dns.hexservers.com^
 ||dns.hinet.net^
 ||dns.hoian.one^
 ||dns.home.beckett.io^
@@ -3199,7 +3196,6 @@
 ||jhb01.dnscry.pt^
 ||jimmyshjj.top^
 ||jkdns.me^
-||jkmoon.ggff.net^
 ||jkt01.dnscry.pt^
 ||jkub.com^
 ||jnb01.dnscry.pt^
@@ -3527,7 +3523,6 @@
 ||myddns.rocks^
 ||mydevpn.eu^
 ||mydissent.net^
-||mydndworld.isgood.host^
 ||mydns.bielperes.me^
 ||mydns.bz^
 ||mydns.jp^
