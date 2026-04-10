@@ -441,7 +441,6 @@
 ||africa.avastdns.com^
 ||africadns1.liquidtelecom.net^
 ||africadns2.liquidtelecom.net^
-||ag.alexf.cc^
 ||ag.apollohct.com^
 ||ag.brianlee.fun^
 ||ag.coco-tama-hoiku.com^
@@ -609,6 +608,7 @@
 ||authorizeddns.us^
 ||autoipset.com^
 ||avandns.com^
+||awiki.org^
 ||ax.lt^
 ||axaxa.fun^
 ||axistechsupport.com^
@@ -881,6 +881,7 @@
 ||cubedns.com^
 ||cuesinc.com^
 ||cupddns.net^
+||curser.dev^
 ||custom-gaming.net^
 ||cvt-ic-us-adns-001.clearviewtechnology.net^
 ||cvt01.dnscry.pt^
@@ -1220,7 +1221,6 @@
 ||dns.crystalyx.net^
 ||dns.csaonline.de^
 ||dns.csswg.org^
-||dns.curser.dev^
 ||dns.cwlys.com^
 ||dns.cybertonic.tech^
 ||dns.cynthialabs.net^
@@ -2149,6 +2149,7 @@
 ||doh.archuser.org^
 ||doh.armadillodns.net^
 ||doh.asagiri.moe^
+||doh.asecdns.com^
 ||doh.asia.dnswarden.com^
 ||doh.asli.id^
 ||doh.azoris.ovh^
@@ -2326,6 +2327,7 @@
 ||dot-pure.onedns.net^
 ||dot-sg.blahdns.com^
 ||dot.360.cn^
+||dot.asecdns.com^
 ||dot.cox.net^
 ||dot.ffmuc.net^
 ||dot.libredns.gr^
@@ -3716,6 +3718,7 @@
 ||ns2.name^
 ||ns2.opennameserver.org^
 ||ns2.ravdns.com^
+||ns2.recursive.dnsbycomodo.com^
 ||ns2.wuyouss.com^
 ||ns3.bit-trail.nl^
 ||ns3.com^

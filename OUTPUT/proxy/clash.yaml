@@ -1908,9 +1908,12 @@ payload:
   - +.ankarazirvesi2018.com
   - +.anm.co.uk
   - +.annamilk.com
+  - +.annas-archive.gd
+  - +.annas-archive.gl
   - +.annas-archive.in
   - +.annas-archive.li
   - +.annas-archive.org
+  - +.annas-archive.pk
   - +.annas-archive.pm
   - +.annas-archive.se
   - +.annatam.com
@@ -5036,6 +5039,7 @@ payload:
   - +.c4rex.co
   - +.c4slive.com
   - +.ca.file.myqcloud.com
+  - +.cabconnect.org
   - +.cabdirect.org
   - +.cableav.tv
   - +.cableav.xyz
@@ -5149,6 +5153,7 @@ payload:
   - +.candidforum-videos.com
   - +.candycumcity.com
   - +.candypleasure.com
+  - +.canny.io
   - +.canon-cee.com
   - +.canon-cmos-sensors.com
   - +.canon-cna.com
@@ -7675,6 +7680,7 @@ payload:
   - +.drepung.org
   - +.drgan.net
   - +.dribbble.com
+  - +.driveawaytaxi.org
   - +.driverxxx.com
   - +.drivevideo.xyz
   - +.driving.co.uk
@@ -8437,6 +8443,9 @@ payload:
   - +.entrust.com
   - +.entrust.net
   - +.entrustdatacard.com
+  - +.envato-static.com
+  - +.envato.com
+  - +.envatousercontent.com
   - +.eotarchive.org
   - +.epc-jav.com
   - +.epicbrowser.com
@@ -10894,6 +10903,7 @@ payload:
   - +.gog-statics.com
   - +.gog.com
   - +.gog.qtlglb.com
+  - +.gogettaxi.org
   - +.gogle.com
   - +.gogo-load.com
   - +.gogoanime.vc
@@ -11266,6 +11276,7 @@ payload:
   - +.gotrusted.com
   - +.gotw.ca
   - +.gouhuo.qq.com
+  - +.goup.ai
   - +.gouri.xyz
   - +.gov.ir
   - +.gov.taipei
@@ -11578,6 +11589,7 @@ payload:
   - +.hayabusa.media
   - +.hayday.com
   - +.haydaygame.com
+  - +.hayya.ae
   - +.hbabit.com
   - +.hbfile.net
   - +.hbg.com
@@ -14262,6 +14274,20 @@ payload:
   - +.jiuse904.com
   - +.jiuse905.com
   - +.jiuzhouyihuo.com
+  - +.jivo.chat
+  - +.jivo.ru
+  - +.jivochat.co.in
+  - +.jivochat.co.za
+  - +.jivochat.com
+  - +.jivochat.com.br
+  - +.jivochat.com.co
+  - +.jivochat.com.pe
+  - +.jivochat.com.tr
+  - +.jivochat.de
+  - +.jivochat.es
+  - +.jivochat.ng
+  - +.jivochat.ru
+  - +.jivosite.ru
   - +.jiyou520.com
   - +.jiyu-kobo.co.jp
   - +.jizzboom.com
@@ -17223,6 +17249,7 @@ payload:
   - +.my-formosa.com
   - +.my-kualalumpur-1.myhuaweicloud.com
   - +.my-magazine.me
+  - +.my-manager-account.com
   - +.my-private-network.co.uk
   - +.my-proxy.com
   - +.my.weibo.com
@@ -17879,6 +17906,7 @@ payload:
   - +.nhentaihaven.org
   - +.nheos.com
   - +.nhk-ondemand.jp
+  - +.nhk.or.jp
   - +.nhncorp.jp
   - +.nianticlabs.com
   - +.nic.gov
@@ -23280,6 +23308,7 @@ payload:
   - +.supjav.com
   - +.suppig.net
   - +.supplybestjerseys.com
+  - +.support-uber.com
   - +.supportfacebook.com
   - +.supremacy.com
   - +.supremacy.net
@@ -23544,7 +23573,10 @@ payload:
   - +.tawny-peaks.com
   - +.taxel.media
   - +.taxi69.com
+  - +.taxiaid.org
   - +.taxidrivermovie.com
+  - +.taxiguru.org
+  - +.taxitax.org
   - +.taylorandfrancis.com
   - +.taylorfrancis.com
   - +.tbank-online.com
@@ -23654,8 +23686,6 @@ payload:
   - +.tejaratbank.ir
   - +.telebay.com
   - +.telecomspace.com
-  - +.telega.info
-  - +.telega.me
   - +.telega.one
   - +.telegra.ph
   - +.telegram-cdn.org
@@ -23875,6 +23905,7 @@ payload:
   - +.theman.in
   - +.themarvelexperiencetour.com
   - +.themathsfactor.com
+  - +.themeforest.net
   - +.themercury.com.au
   - +.themessengeradelaide.com.au
   - +.themilfmovies.com
@@ -25070,7 +25101,6 @@ payload:
   - +.up.gcp.googlers.com
   - +.up01.cc
   - +.upbit.com
-  - +.update.crashlytics.com
   - +.updatestar.com
   - +.updatetube.com
   - +.upfrontcfd.com
@@ -25187,6 +25217,7 @@ payload:
   - +.uwants.com
   - +.uwants.net
   - +.uwpcommunitytoolkit.com
+  - +.uxthemes.com
   - +.uxxxporn.com
   - +.uyghur-j.org
   - +.uyghur.co.uk
@@ -27653,11 +27684,25 @@ payload:
   - +.yandex.uz
   - +.yandexcloud.net
   - +.yandexcom.net
+  - +.yandexgo.com
   - +.yandexlyceum.ru
   - +.yandexwebcache.net
   - +.yandexwebcache.org
   - +.yanghengjun.com
   - +.yangjianli.com
+  - +.yango-b2b.com
+  - +.yango-team.com
+  - +.yango-tech.com
+  - +.yango.africa
+  - +.yango.ao
+  - +.yango.bh
+  - +.yango.co.il
+  - +.yango.com
+  - +.yango.fi
+  - +.yango.qa
+  - +.yango.taxi
+  - +.yango.tech
+  - +.yangofellowship.com
   - +.yangzhi.app
   - +.yangzhi.org
   - +.yaohubaba.com
