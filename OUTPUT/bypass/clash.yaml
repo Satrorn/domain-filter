@@ -1546,6 +1546,7 @@ payload:
   - +.dns.marcbond.uk
   - +.dns.marschi.de
   - +.dns.mateo.ovh
+  - +.dns.mathewakhil.online
   - +.dns.matthias-prost.com
   - +.dns.maybe.icu
   - +.dns.mayr.ws
@@ -1593,6 +1594,7 @@ payload:
   - +.dns.musikantit.fi
   - +.dns.muxinghe.cn
   - +.dns.mymachinepanda.online
+  - +.dns.mytest.cc
   - +.dns.mzjtechnology.com
   - +.dns.mzrme.cn
   - +.dns.n23.io
@@ -1750,6 +1752,7 @@ payload:
   - +.dns.schlagheck.berlin
   - +.dns.schmidt-zoarn.de
   - +.dns.scott-smith.us
+  - +.dns.scott.ovh
   - +.dns.sct-pro.com
   - +.dns.scuola.org
   - +.dns.seaotter.cc
@@ -4066,6 +4069,7 @@ payload:
   - +.router.sapib.ca
   - +.roycom.win
   - +.rpz-public-resolver1.rrdns.pch.net
+  - +.rpz.su
   - +.rtam.net
   - +.rubyfish.cn
   - +.rudolphdesigns.com
