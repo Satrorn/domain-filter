@@ -1435,6 +1435,7 @@
 ||alfera.my^
 ||alforattv.net^
 ||alfredapp.com^
+||algoritmika.org^
 ||alhayat.com^
 ||alhs.link^
 ||alhs.xyz^
@@ -1911,6 +1912,8 @@
 ||aniscartujo.com^
 ||anistreaming.xyz^
 ||ankarazirvesi2018.com^
+||ankiuser.net^
+||ankiweb.net^
 ||anm.co.uk^
 ||annamilk.com^
 ||annas-archive.gd^
@@ -1969,6 +1972,7 @@
 ||aoaou.iillii.net^
 ||aobo.com.au^
 ||aoc.cat^
+||aodahl.com^
 ||aofriend.com^
 ||aofriend.com.au^
 ||aojiao.org^
@@ -2024,6 +2028,7 @@
 ||apibay.org^
 ||apigee.com^
 ||apina.biz^
+||apiok.ru^
 ||apisof.net^
 ||apk-dl.com^
 ||apk.support^
@@ -2386,6 +2391,7 @@
 ||approvedusedbmw.com^
 ||appsflayer.com^
 ||appshopper.com^
+||appsmail.ru^
 ||appsocks.net^
 ||appsonebay.net^
 ||appspot-preview.com^
@@ -2462,6 +2468,7 @@
 ||arlingtoncemetery.mil^
 ||arma3.com^
 ||armaplatform.com^
+||armgs.team^
 ||armorgames.com^
 ||armovs.com^
 ||army.mil^
@@ -2625,6 +2632,7 @@
 ||att.jobs^
 ||att.net^
 ||att.tv^
+||attachmy.com^
 ||attackers.net^
 ||attalascom.com^
 ||attbelieves.com^
@@ -3158,6 +3166,7 @@
 ||barenakedislam.com^
 ||bareporno.com^
 ||barfuck.com^
+||bargipsy.com^
 ||barium-enema.com^
 ||barkadahansasmartone.com^
 ||barnabu.co.uk^
@@ -3933,11 +3942,13 @@
 ||bitz.ai^
 ||bizarresexuality.com^
 ||bizhat.com^
+||bizmrg.com^
 ||bjini.cc^
 ||bjnewlife.org^
 ||bjs.org^
 ||bjzc.org^
 ||bk.mufg.jp^
+||bk.ru^
 ||bkhome.org^
 ||bkkdown.site^
 ||bkrtx.com^
@@ -4614,6 +4625,7 @@
 ||booktopia.com.au^
 ||bookwalker.com.tw^
 ||booloo.com^
+||boom.ru^
 ||boomba.club^
 ||boombeach.com^
 ||boomerang.com^
@@ -5417,6 +5429,7 @@
 ||cdn-telegram.org^
 ||cdn-terapeak.com^
 ||cdn-tinkoff.ru^
+||cdn-vk.net^
 ||cdn-vk.ru^
 ||cdn77.com^
 ||cdn77.org^
@@ -5425,6 +5438,7 @@
 ||cdninstagram.com^
 ||cdnjs.com^
 ||cdnlab.live^
+||cdnmail.ru^
 ||cdnmhws.cc^
 ||cdnmhwscc.vip^
 ||cdnpure.com^
@@ -5612,6 +5626,7 @@
 ||checkgfw.com^
 ||chedteb.eu^
 ||cheerwholesale.us^
+||chef.io^
 ||chegg.com^
 ||cheggcdn.com^
 ||chemequations.com^
@@ -5792,6 +5807,7 @@
 ||cici.com^
 ||ciciai.com^
 ||ciciaicdn.com^
+||ciciq.net^
 ||cienen.com^
 ||cilk.com^
 ||cilk.net^
@@ -6099,6 +6115,7 @@
 ||cockyboys.com^
 ||cocoapods.org^
 ||cocoawithlove.com^
+||code-class.ru^
 ||code.org^
 ||code1984.com^
 ||codeberg.org^
@@ -6505,6 +6522,7 @@
 ||cunhua.pics^
 ||cuniq.com^
 ||cup.com.hk^
+||cups.online^
 ||cups.org^
 ||curbed.com^
 ||currently.com^
@@ -6549,6 +6567,7 @@
 ||cyberctm.com^
 ||cyberghostvpn.com^
 ||cybermondaybeats4sale.com^
+||cybersport.ru^
 ||cybertrust.co.jp^
 ||cybertrust.ne.jp^
 ||cyberx.com^
@@ -6608,6 +6627,8 @@
 ||daftsex-hd.com^
 ||dagelijksestandaard.nl^
 ||dagfs.com^
+||dahl.su^
+||dahlmessenger.com^
 ||daidostup.ru^
 ||daiichibank.co.jp^
 ||dailidaili.com^
@@ -6704,6 +6725,7 @@
 ||data.com^
 ||data.flurry.com^
 ||databank.worldbank.org^
+||datacloudmy.com^
 ||dataframeworks.com^
 ||datalabour.com^
 ||dataliberation.org^
@@ -7098,6 +7120,8 @@
 ||deutschewelle.h-cdn.com^
 ||deutschsex.com^
 ||dev-guardianapis.com^
+||dev-my.com^
+||dev-my.games^
 ||dev-theguardian.com^
 ||dev.to^
 ||devcon.org^
@@ -8485,6 +8509,7 @@
 ||eotarchive.org^
 ||epc-jav.com^
 ||epicbrowser.com^
+||epicevents.gg^
 ||epicgames.com^
 ||epicgames.dev^
 ||epicgamescdn.com^
@@ -8650,6 +8675,8 @@
 ||eset.sk^
 ||eset.systems^
 ||esetsoftware.com^
+||esforce.com^
+||esforce.ru^
 ||eskimotube.com^
 ||eslite.com^
 ||esm.run^
@@ -10368,6 +10395,7 @@
 ||gamerotic.com^
 ||gamerp.jp^
 ||gamesathletes.com^
+||gamescup.ru^
 ||gamesfirsthelsinki.com^
 ||gamesfuckgirls.com^
 ||gamesofdesire.com^
@@ -10481,6 +10509,7 @@
 ||gazprombank.com^
 ||gazprombank.investments^
 ||gazprombank.ru^
+||gb.ru^
 ||gbank.com.mm^
 ||gbnews.uk^
 ||gbxml.net^
@@ -10608,6 +10637,7 @@
 ||getdropbox.com^
 ||getfappy.com^
 ||getfedora.org^
+||getfiddler.com^
 ||getfoxyProxy.org^
 ||getfoxyoutside.org^
 ||getfoxyproxy.org^
@@ -10891,6 +10921,7 @@
 ||gmocloud.com^
 ||gmodules.com^
 ||gmoney.org^
+||gmopg.jp^
 ||gmosign.com^
 ||gmossp.jp^
 ||gmote.org^
@@ -10959,6 +10990,7 @@
 ||gogotunnel.com^
 ||gohappy.com.tw^
 ||gohentai.net^
+||goicq.org^
 ||gokbayrak.com^
 ||golang.com^
 ||golang.net^
@@ -12519,6 +12551,7 @@
 ||hrichina.org^
 ||hrntt.org^
 ||hrsaz.com^
+||hrtek.ru^
 ||hrw.org^
 ||hrweb.org^
 ||hsbc-alternatives.de^
@@ -12881,6 +12914,47 @@
 ||iconfactory.net^
 ||iconpaper.org^
 ||icons8.com^
+||icq-download.com^
+||icq-mobile.com^
+||icq-online.com^
+||icq-phone.com^
+||icq-phone.org^
+||icq.asia^
+||icq.at^
+||icq.biz^
+||icq.com^
+||icq.de^
+||icq.eu^
+||icq.fr^
+||icq.im^
+||icq.lt^
+||icq.mobi^
+||icq.org^
+||icq.ru^
+||icq.sg^
+||icq2mobile.com^
+||icq5.com^
+||icqanywhere.com^
+||icqbrasil.com^
+||icqbrazil.com^
+||icqchat.com^
+||icqflirting.com^
+||icqgame.com^
+||icqgames.com^
+||icqkids.com^
+||icqmail.com^
+||icqmail.net^
+||icqonline.com^
+||icqpassword.com^
+||icqpeople.com^
+||icqservers.com^
+||icqservice.com^
+||icqsupportteam.com^
+||icqsystem.com^
+||icqsystems.com^
+||icqtoday.com^
+||icqtutor.com^
+||icqvideo.com^
 ||icsd.fiz-karlsruhe.de^
 ||icu-project.org^
 ||icuminside.com^
@@ -13237,6 +13311,7 @@
 ||in99.org^
 ||inaporn.com^
 ||inasian.club^
+||inbox.ru^
 ||incapdns.net^
 ||incentivetravelgifts.com^
 ||incestflix.com^
@@ -13339,6 +13414,7 @@
 ||inside.com.tw^
 ||insidefilms.com^
 ||insidemacintosh.com^
+||insideok.ru^
 ||insider-intelligence.com^
 ||insider.com^
 ||insiderdevtour.com^
@@ -13618,6 +13694,7 @@
 ||internationalconnectionsacademy.com^
 ||internationalsaimoe.com^
 ||internet.org^
+||internet.ru^
 ||internetdownloadmanager.com^
 ||internetexplorer.co^
 ||internetexplorer.com^
@@ -13900,6 +13977,7 @@
 ||it-katok.ru^
 ||it-picnic.ru^
 ||it-piknik.ru^
+||it-territory.com^
 ||ita-do.com^
 ||itaboo.info^
 ||itaeromanga.com^
@@ -14696,6 +14774,7 @@
 ||kemono.cr^
 ||kemono.party^
 ||kemono.su^
+||kemptechnologies.com^
 ||kendalvandyke.com^
 ||kendatire.com^
 ||kendincos.net^
@@ -14846,6 +14925,7 @@
 ||kmt.org.tw^
 ||kmuh.org.tw^
 ||kn5ak.tk^
+||knightspeak.com^
 ||knovel.com^
 ||knowledgerush.com^
 ||knowswho.co.jp^
@@ -14856,6 +14936,7 @@
 ||kobe-pastel.com^
 ||kobo.com^
 ||kobobooks.com^
+||koddobra.ru^
 ||kodi.tv^
 ||kodi.wiki^
 ||kodingen.com^
@@ -15116,6 +15197,7 @@
 ||leporno.org^
 ||lepornochaud.com^
 ||lepornofrais.com^
+||lerna.ru^
 ||lerosua.org^
 ||lesbian8.com^
 ||lesbianpics.org^
@@ -15310,6 +15392,7 @@
 ||lisiku.com^
 ||lisiku1.com^
 ||list-manage.com^
+||list.ru^
 ||listenbrainz.org^
 ||listennotes.com^
 ||listentoyoutube.com^
@@ -15517,6 +15600,7 @@
 ||lovethiscity.com^
 ||lovetvshow.com^
 ||lovex.life^
+||lovina.app^
 ||lowergiseries.com^
 ||lowiro.com^
 ||lp99.pw^
@@ -15736,6 +15820,7 @@
 ||maileoch.com^
 ||mailfence.com^
 ||mailhealth.com^
+||mailicq.org^
 ||mailonline.co.uk^
 ||mailonline.com^
 ||mailonsunday.co.uk^
@@ -16170,6 +16255,7 @@
 ||medicalimplants-cadcam.com^
 ||medium.com^
 ||medium.systems^
+||mediumquality.ru^
 ||medone-education.thieme.com^
 ||medow.ru^
 ||medrxiv.org^
@@ -16791,8 +16877,10 @@
 ||minzhuzhanxian.com^
 ||minzhuzhongguo.org^
 ||miohentai.com^
+||mirabilis.com^
 ||miraheze.org^
 ||mirailab.tech^
+||mirandaicq.com^
 ||mirar.xxx^
 ||miroguide.com^
 ||mirror.xyz^
@@ -16866,6 +16954,7 @@
 ||mkto-c0100.com^
 ||mktorest.com^
 ||mktroute.com^
+||mlbootcamp.ru^
 ||mlc.ai^
 ||mlcool.com^
 ||mlssoccer.com^
@@ -16893,9 +16982,11 @@
 ||moapi1.club^
 ||moapi1.online^
 ||mobatek.net^
+||mobile-icq.com^
 ||mobile.de^
 ||mobile01.com^
 ||mobilefacebook.com^
+||mobileicq.com^
 ||mobileinternational.com^
 ||mobilemarketo.com^
 ||mobileme.dk^
@@ -17141,6 +17232,7 @@
 ||moviesarena.com^
 ||moviesfree4u.xyz^
 ||moviesneek.com^
+||movika.com^
 ||mox.moe^
 ||moxing.mobi^
 ||moxing.news^
@@ -17156,6 +17248,7 @@
 ||mp3ye.eu^
 ||mpettis.com^
 ||mpfinance.com^
+||mpgw-my.com^
 ||mpinews.com^
 ||mplstudios.com^
 ||mpnevolution.com^
@@ -17173,6 +17266,7 @@
 ||mrcong.com^
 ||mrdeepfakes.com^
 ||mresalat.ir^
+||mrgcdn.ru^
 ||mrlivecam.com^
 ||mrloli.com^
 ||mrpinks.com^
@@ -17330,6 +17424,8 @@
 ||my-private-network.co.uk^
 ||my-proxy.com^
 ||my-tbank.ru^
+||my.com^
+||my.games^
 ||my.weibo.com^
 ||my13la.com^
 ||my1stflame.com^
@@ -17540,6 +17636,7 @@
 ||mytimesplus.co.uk^
 ||mytizi.com^
 ||mytrannycams.com^
+||mytrk.link^
 ||mytving.com^
 ||mytvsuper.com^
 ||mytwishirt.com^
@@ -18655,6 +18752,8 @@
 ||oculusvr.com^
 ||odc-addthis-prod-01.oracle.com^
 ||odc-pixel-prod-01.oracle.com^
+||odkl.ru^
+||odnoklassniki.ru^
 ||odysee.com^
 ||oed.com^
 ||oekakiskey.com^
@@ -18701,6 +18800,7 @@
 ||oitabank.co.jp^
 ||oizoblog.com^
 ||ok.gle^
+||ok.me^
 ||ok.ru^
 ||ok.xxx^
 ||okayfreedom.com^
@@ -18714,8 +18814,10 @@
 ||okkisokuho.com^
 ||okko.sport^
 ||okko.tv^
+||okl.lt^
 ||oklink.com^
 ||okpool.me^
+||oktech.ru^
 ||okx-dns.com^
 ||okx-dns1.com^
 ||okx-dns2.com^
@@ -19785,6 +19887,7 @@
 ||pixnet.net^
 ||pixnet.pro^
 ||pixnet.tw^
+||pixonic.com^
 ||pixplug.in^
 ||pixtronix.com^
 ||pjbyj.top^
@@ -20494,11 +20597,13 @@
 ||privoxy.org^
 ||procopytips.com^
 ||proctoscopeexam.com^
+||prod-my.games^
 ||prodcontest.com^
 ||prodrive-japan.com^
 ||product.co.jp^
 ||profilemaster.com^
 ||profreeporno.com^
+||progress.com^
 ||project-poi.com^
 ||project-syndicate.org^
 ||projectapex.com^
@@ -21455,6 +21560,7 @@
 ||ruby-lang.org^
 ||rubygems.org^
 ||rude.com^
+||ruhub.tv^
 ||ruinedking.com^
 ||rukoebxx.com^
 ||rukor.org^
@@ -21484,10 +21590,14 @@
 ||rushbee.com^
 ||rushporn.online^
 ||rushporn.xxx^
+||russiandesigncup.ru^
 ||russianrape.org^
 ||russoutdoor.ru^
 ||rust-lang.org^
 ||rustdesk.com^
+||rustore.ru^
+||rustore.team^
+||rustore.tv^
 ||rustup.rs^
 ||rusvpn.com^
 ||ruten.com.tw^
@@ -21856,7 +21966,6 @@
 ||seematureporn.com^
 ||seemilfporn.com^
 ||seeminglee.com^
-||seemygf.com^
 ||seemyporn.com^
 ||seesmic.com^
 ||seeurlpcl.com^
@@ -22136,6 +22245,8 @@
 ||sfbassets.net^
 ||sfdcdigital.com^
 ||sfdcstatic.com^
+||sferum-dev.ru^
+||sferum.ru^
 ||sfileydy.com^
 ||sflow.com^
 ||sfmcompile.club^
@@ -22191,6 +22302,7 @@
 ||share-videos.se^
 ||sharebee.com^
 ||sharecool.org^
+||sharefile.com^
 ||sharepoint.com^
 ||sharepointonline.com^
 ||sharethis.com^
@@ -22503,6 +22615,7 @@
 ||sjum.cn^
 ||skamilinux.hu^
 ||skate2.com^
+||skbx.pro^
 ||skebetter.com^
 ||sketchappsources.com^
 ||sketchbookdesigner.com^
@@ -22510,6 +22623,9 @@
 ||sketchbooknews.com^
 ||sketchbookpro.com^
 ||sketchfab.com^
+||skillbox.pro^
+||skillbox.ru^
+||skillfactory.ru^
 ||skills.sh^
 ||skillshare.com^
 ||skimtube.com^
@@ -22602,6 +22718,7 @@
 ||sm.ms^
 ||sm3ha.ru^
 ||smaad.net^
+||smailru.net^
 ||smallteenpussy.com^
 ||smart-edge.com^
 ||smart-edge.info^
@@ -22988,6 +23105,7 @@
 ||spo-msedge.net^
 ||sponichi.co.jp^
 ||spore.com^
+||sportmail.ru^
 ||sportsfacebook.com^
 ||sportstream.com^
 ||sportswomanoftheyear.co.uk^
@@ -23224,6 +23342,7 @@
 ||static9.net.au^
 ||statically.io^
 ||staticflickr.com^
+||staticmy.com^
 ||stationeria.com^
 ||statsmakemecry.com^
 ||statueofdemocracy.org^
@@ -23420,6 +23539,7 @@
 ||sukebelinks.com^
 ||sulian.me^
 ||sulwerphoto.com^
+||summerstage.ru^
 ||summify.com^
 ||summitceo.ru^
 ||sumomo-ch.com^
@@ -23739,6 +23859,8 @@
 ||taptotokyo.com^
 ||taqunuhai.vip^
 ||taragana.com^
+||tarantool.io^
+||tarantoolplus.ru^
 ||tardigrade.io^
 ||target.com^
 ||targetimg1.com^
@@ -23809,6 +23931,7 @@
 ||teamviewer.us^
 ||tearapeak.com^
 ||teatroporno.com^
+||tech-mail.ru^
 ||tech26.de^
 ||techatbloomberg.com^
 ||techcrunch.com^
@@ -23888,6 +24011,7 @@
 ||telekom.com^
 ||telekom.de^
 ||telephony.goog^
+||telerik.com^
 ||telesco.pe^
 ||telesec.de^
 ||telesell.com^
@@ -23960,6 +24084,7 @@
 ||test-ipv6.ttk.ru^
 ||testipv6.de^
 ||testonfox.com^
+||tetrika-school.ru^
 ||tettediferro.it^
 ||tew.org^
 ||tex-talk.net^
@@ -24880,6 +25005,7 @@
 ||turkistantimes.com^
 ||turn.livekit.cloud^
 ||turntable.fm^
+||tusco.ru^
 ||tushy.com^
 ||tushycash.com^
 ||tuta.com^
@@ -25167,6 +25293,7 @@
 ||ucam.org^
 ||ucanews.com^
 ||ucdc1998.org^
+||uchi.ru^
 ||uchicago.edu^
 ||ucla.edu^
 ||udemy.com^
@@ -25226,6 +25353,7 @@
 ||umbrella.com^
 ||umich.edu^
 ||umonkey.net^
+||umschool.net^
 ||umsoplaneta.com^
 ||umsoplaneta.com.br^
 ||unblock-us.com^
@@ -25358,6 +25486,7 @@
 ||usenix.org^
 ||useplannr.com^
 ||userapi.com^
+||userapi.ru^
 ||usercentrics.eu^
 ||usercontent.dev^
 ||usercontent.goog^
@@ -25843,6 +25972,8 @@
 ||vipoo.es^
 ||vipshoes2.com^
 ||vipstudiocali.com^
+||viqeo.tv^
+||viqeotv.com^
 ||viralcum.com^
 ||viralporn.com^
 ||virginia.edu^
@@ -26029,6 +26160,8 @@
 ||vk-cdn.me^
 ||vk-cdn.net^
 ||vk-portal.net^
+||vk-records.ru^
+||vk-stadium.ru^
 ||vk.cc^
 ||vk.com^
 ||vk.company^
@@ -26038,17 +26171,30 @@
 ||vk.ru^
 ||vk.team^
 ||vkcache.com^
+||vkclips.app^
 ||vkcloud-static.ru^
+||vkcs.cloud^
+||vkfest.ru^
 ||vkgo.app^
 ||vklive.app^
 ||vkmessenger.app^
 ||vkmessenger.com^
+||vkontakte.com^
 ||vkontakte.ru^
+||vkpay.app^
+||vkpay.com^
+||vkpay.io^
+||vkpay.ru^
+||vkplay-arena.ru^
+||vkplay.live^
+||vkplay.ru^
+||vktech-static.ru^
 ||vkuser.net^
 ||vkuseraudio.com^
 ||vkuseraudio.net^
 ||vkuseraudio.ru^
 ||vkusercdn.ru^
+||vkuserlive.com^
 ||vkuserlive.net^
 ||vkuserphoto.ru^
 ||vkuservideo.com^
@@ -26057,6 +26203,7 @@
 ||vkvideo.ru^
 ||vl4x.net^
 ||vllcs.org^
+||vmailru.net^
 ||vmglobal.net^
 ||vmixcore.com^
 ||vmmark.com^
@@ -27380,6 +27527,13 @@
 ||xml-training-guide.com^
 ||xmovies.com^
 ||xmoviesforyou.com^
+||xn-----6kc7adj0c9esa.com^
+||xn----7sbaba0dc6cdn7cxcj.com^
+||xn----7sbabae2a0bnvtsfr4loc.com^
+||xn----7sbbab6bregnh7b8if5b.com^
+||xn----7sbbamm1bv2bh7i.com^
+||xn----8sbaroledu6bi7j.com^
+||xn----8sbeoy5bze.com^
 ||xn--096-4g6em5t.com^
 ||xn--11xs86f.icu^
 ||xn--1jqvh729avzfcy2d8ummib.com^
@@ -27398,6 +27552,7 @@
 ||xn--74q434dwff.net^
 ||xn--7hv594h.com^
 ||xn--80aaazx1an0a.lol^
+||xn--80aqcf7a6do.com^
 ||xn--8uq428d76d.tokyo^
 ||xn--90ab.com^
 ||xn--90aifd0az.shop^
@@ -27919,6 +28074,7 @@
 ||yahoosandbox.com^
 ||yahoosportsbook.com^
 ||yakbutterblues.com^
+||yaklass.ru^
 ||yale.edu^
 ||yam.com^
 ||yam.org.tw^
@@ -28011,6 +28167,7 @@
 ||yayadizhi.xyz^
 ||yazhouse8.com^
 ||yccdn.ru^
+||yclients.com^
 ||ycombinator.com^
 ||ydn.com.tw^
 ||ydy.com^
@@ -28112,7 +28269,6 @@
 ||youjism.com^
 ||youjizz.com^
 ||youjizz.sex^
-||youla-web-static.mrgcdn.ru^
 ||youla.io^
 ||youla.ru^
 ||youlucky.com^
