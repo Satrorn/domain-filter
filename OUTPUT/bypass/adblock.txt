@@ -423,7 +423,6 @@
 ||admir21.ru^
 ||adns.3am.la^
 ||adns.onlinetools.rocks^
-||ads-ch.landgame.net^
 ||ads.hunga1k47.com^
 ||ads.therman.eu^
 ||ads.x88.in^
@@ -3037,7 +3036,6 @@
 ||imagetemplate.com^
 ||imagetemplate.net^
 ||imexsac.com^
-||immadnez7.ru^
 ||imperio.top^
 ||imprendum.com^
 ||in-the-band.net^
