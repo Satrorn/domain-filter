@@ -1,5 +1,4 @@
 ||0000000000000000000000.com^
-||001.smallnode.net^
 ||003153.xyz^
 ||0815cloud.de^
 ||0ms.dev^
@@ -1701,7 +1700,6 @@
 ||dns.quad9.net^
 ||dns.quanhd.net^
 ||dns.quickline.ch^
-||dns.quickso.cn^
 ||dns.quiet.rocks^
 ||dns.rabbitdns.org^
 ||dns.ramansarda.com^
@@ -3965,7 +3963,6 @@
 ||r1bnc.com^
 ||r1bnc.eu.org^
 ||radiogirl.fm^
-||raj.pw^
 ||rasp.matthias-iwer.de^
 ||raspberryip.com^
 ||rayneau.fr^
@@ -4210,6 +4207,7 @@
 ||shield.kidshielder.com^
 ||shield1.eranext.net^
 ||shinano.anime.com.my^
+||shitblocker.com^
 ||shogun.ca^
 ||shop.tm^
 ||showmyhomes.com^
