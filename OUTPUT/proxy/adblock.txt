@@ -2556,6 +2556,7 @@
 ||asianxxxjoy.com^
 ||asianxxxvideos.cc^
 ||asiaone.com^
+||asiasociety.org^
 ||asiatgp.com^
 ||asiatoday.us^
 ||asjmapihost.cc^
@@ -3600,6 +3601,7 @@
 ||bell.wiki^
 ||bellebound.com^
 ||bellesa.co^
+||bellingcat.com^
 ||bellotube.com^
 ||bellsouth.net^
 ||bemywife.cc^
@@ -6418,6 +6420,7 @@
 ||crececonebay.com^
 ||creditcardsbay.com^
 ||creditkarma.com^
+||crewai.com^
 ||cricketcountry.com^
 ||crisp.chat^
 ||cristyli.com^
@@ -15078,6 +15081,7 @@
 ||lamrim.com^
 ||lanasbigboobs.com^
 ||landofhope.tv^
+||langchain.com^
 ||langsuirs.com^
 ||lanik.us^
 ||lanmdh.net^
@@ -15482,6 +15486,7 @@
 ||lmm167.shop^
 ||lmmbtc.com^
 ||lms01.com^
+||lmstudio.ai^
 ||lmsys.org^
 ||lncn.org^
 ||lnkd.in^
@@ -18849,6 +18854,7 @@
 ||olevod.tv^
 ||olevodtv.com^
 ||oli-school.com^
+||ollama.com^
 ||olumpo.com^
 ||olympicwatch.org^
 ||omafotze.com^
@@ -21076,6 +21082,7 @@
 ||rationalwiki.org^
 ||rawgit.com^
 ||rawgithub.com^
+||rawstory.com^
 ||raxcdn.com^
 ||rayark.download^
 ||rayark.net^
@@ -21218,6 +21225,7 @@
 ||recoiljs.org^
 ||reconinstruments.com^
 ||reconjet.com^
+||recordedfuture.com^
 ||recordhistory.org^
 ||recovery.org.tw^
 ||recoveryversion.com.tw^
@@ -24323,6 +24331,7 @@
 ||thieme.de^
 ||think-async.com^
 ||thinkboxsoftware.com^
+||thinkchina.sg^
 ||thinkdifferent.us^
 ||thinkgeek.com^
 ||thinkingtaiwan.com^
