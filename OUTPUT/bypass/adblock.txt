@@ -607,7 +607,6 @@
 ||authorizeddns.us^
 ||autoipset.com^
 ||avandns.com^
-||awiki.org^
 ||ax.lt^
 ||axaxa.fun^
 ||axistechsupport.com^
@@ -721,7 +720,6 @@
 ||bsn2bsn.com^
 ||bt.luoo.cc^
 ||bts01.dnscry.pt^
-||bubblex2.top^
 ||bucheli.synology.me^
 ||bud01.dnscry.pt^
 ||buh01.dnscry.pt^
@@ -1380,7 +1378,6 @@
 ||dns.hanahira.dev^
 ||dns.hanmey.de^
 ||dns.hannielzhang.com^
-||dns.haoxuan.xyz^
 ||dns.hashemlabs.co.uk^
 ||dns.hee.ink^
 ||dns.hellozhao.com^
@@ -1955,7 +1952,6 @@
 ||dns1.api110.com^
 ||dns1.blackrandcrf.ru^
 ||dns1.conne.net^
-||dns1.dns-ga.de^
 ||dns1.dnscrypt.ca^
 ||dns1.feear.se^
 ||dns1.gms.net.id^
@@ -1999,7 +1995,6 @@
 ||dns2.bortus.io^
 ||dns2.cbio.top^
 ||dns2.cybrespace.net^
-||dns2.dns-ga.de^
 ||dns2.feear.se^
 ||dns2.gms.net.id^
 ||dns2.gregoret.com.ar^
@@ -2032,7 +2027,6 @@
 ||dns2.vinc.me^
 ||dns2.ytpom.ru^
 ||dns2go.com^
-||dns3.dns-ga.de^
 ||dns3.hu10us22.win^
 ||dns3.wistarip.com^
 ||dns35.allone.dpdns.org^
@@ -2180,7 +2174,6 @@
 ||doh.defaultroutes.de^
 ||doh.denypradana.com^
 ||doh.disconnect.app^
-||doh.dns-ga.de^
 ||doh.dns.apple.com^
 ||doh.dns.apple.com.v.aaplimg.com^
 ||doh.dns1.lonet.org^
@@ -2367,7 +2360,6 @@
 ||dsmynas.org^
 ||dstruis.nl^
 ||dtdns.com^
-||dtdns.net^
 ||dtdns.org^
 ||dtw01.dnscry.pt^
 ||dub01.dnscry.pt^
@@ -2412,7 +2404,6 @@
 ||dynalias.org^
 ||dynamai.com^
 ||dynamic-dns.net^
-||dynamic-dns.us^
 ||dynamic-m.com^
 ||dynamic-site.net^
 ||dynamic.domains^
@@ -2464,7 +2455,6 @@
 ||dynnamn.ru^
 ||dynns.com^
 ||dyns.be^
-||dyns.cx^
 ||dyns.net^
 ||dynserv.org^
 ||dynssl.com^
@@ -2542,7 +2532,6 @@
 ||eurotank.ro^
 ||eva.hk^
 ||everton.com^
-||evils.in^
 ||evn01.dnscry.pt^
 ||excelkin.online^
 ||exns1.exalto.nu^
@@ -2838,7 +2827,6 @@
 ||hamshack.info^
 ||han01.dnscry.pt^
 ||happyforever.com^
-||happyminecraft.com^
 ||hatenboer.org^
 ||hbmc.net^
 ||hdns.ksyun.com^
@@ -3523,7 +3511,6 @@
 ||myddns.rocks^
 ||mydevpn.eu^
 ||mydissent.net^
-||mydns.bielperes.me^
 ||mydns.bz^
 ||mydns.jp^
 ||mydns.phatna.net^
