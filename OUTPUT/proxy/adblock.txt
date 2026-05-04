@@ -2161,7 +2161,6 @@
 ||apple.eu^
 ||apple.fi^
 ||apple.fr^
-||apple.hamburg^
 ||apple.hn^
 ||apple.hr^
 ||apple.hu^
@@ -2177,7 +2176,6 @@
 ||apple.lv^
 ||apple.me^
 ||apple.my^
-||apple.net^
 ||apple.net.gr^
 ||apple.news^
 ||apple.nl^
@@ -6791,7 +6789,6 @@
 ||dctbeatsbydre.com^
 ||ddc.com.tw^
 ||ddd-smart.net^
-||ddex.io^
 ||ddff66.com^
 ||ddff77.com^
 ||ddg.co^
@@ -7218,6 +7215,7 @@
 ||digitalhub.com^
 ||digitalid.ch^
 ||digitalnomadsproject.org^
+||digitalocean-ui.com^
 ||digitalocean.com^
 ||digitaloceanspaces.com^
 ||digitalpack.com^
@@ -9083,7 +9081,6 @@
 ||facecbook.org^
 ||facecook.com^
 ||facecook.org^
-||facedbook.com^
 ||faceebok.com^
 ||faceebook.com^
 ||faceebot.com^
@@ -10225,6 +10222,7 @@
 ||ftvmilfs.com^
 ||ftvnews.com.tw^
 ||ftx.com^
+||fu62.vip^
 ||fubo.tv^
 ||fucd.com^
 ||fuchsia.dev^
@@ -10935,7 +10933,6 @@
 ||gmo.jp^
 ||gmo.media^
 ||gmoask.jp^
-||gmobb.jp^
 ||gmocloud.com^
 ||gmodules.com^
 ||gmoney.org^
@@ -16835,6 +16832,7 @@
 ||minisaskatoon.com^
 ||minisexdoll.com^
 ||minishop.ca^
+||miniso-au.com^
 ||miniso-bh.com^
 ||miniso-np.com^
 ||miniso-nz.com^
@@ -17661,6 +17659,7 @@
 ||mythicgames.com^
 ||mytimesplus.co.uk^
 ||mytizi.com^
+||mytokenapi.com^
 ||mytrannycams.com^
 ||mytrk.link^
 ||mytving.com^
@@ -18696,7 +18695,6 @@
 ||nxta.org^
 ||nxtdig.com.hk^
 ||nxtdig.com.tw^
-||nyaa.eu^
 ||nyaa.net^
 ||nyaa.si^
 ||nyahentai.re^
@@ -21142,6 +21140,7 @@
 ||rdio.com^
 ||rds-yes.buzz^
 ||rdtcdn.com^
+||re25.vip^
 ||rea-asia.com^
 ||rea-group.com^
 ||rea.design^
@@ -23413,7 +23412,6 @@
 ||steampowered.com^
 ||steamserver.net^
 ||steamstatic.com^
-||steamunlocked.net^
 ||steamusercontent.com^
 ||steamygamer.com^
 ||steel-storm.com^
@@ -25515,7 +25513,6 @@
 ||uplinq.com^
 ||upload4u.info^
 ||uploaded.net^
-||uploaded.to^
 ||uploader.jp^
 ||uploadstation.com^
 ||uplus.co.kr^
