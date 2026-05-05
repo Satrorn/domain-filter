@@ -1955,6 +1955,8 @@
 ||anthropic.com^
 ||anti1984.com^
 ||antichristendom.com^
+||antiphishing.nl^
+||antiphishing.ru^
 ||antiwave.net^
 ||antixforum.com^
 ||antixlinux.com^
@@ -2161,6 +2163,7 @@
 ||apple.eu^
 ||apple.fi^
 ||apple.fr^
+||apple.hamburg^
 ||apple.hn^
 ||apple.hr^
 ||apple.hu^
@@ -2176,6 +2179,7 @@
 ||apple.lv^
 ||apple.me^
 ||apple.my^
+||apple.net^
 ||apple.net.gr^
 ||apple.news^
 ||apple.nl^
@@ -3013,6 +3017,7 @@
 ||azattyk.org^
 ||azattyq.org^
 ||azatutyun.am^
+||azbukainterneta.ru^
 ||azerbaycan.tv^
 ||azerimix.com^
 ||aziani.com^
@@ -3065,6 +3070,7 @@
 ||b-ok.global^
 ||b-ok.org^
 ||b0ne.com^
+||b2c-digest.ru^
 ||b3boos.com^
 ||b3bos.com^
 ||b4a.run^
@@ -3134,6 +3140,7 @@
 ||bamtoki.com^
 ||banan.tv^
 ||banana-vpn.com^
+||bananacall.ru^
 ||banatal3arab.com^
 ||banatfun.com^
 ||band.us^
@@ -3577,6 +3584,8 @@
 ||beeline.tv^
 ||beepool.com^
 ||beepool.org^
+||beesbfl.ru^
+||beescrm.ru^
 ||beevpn.com^
 ||beforeigners.com^
 ||befuck.com^
@@ -3844,6 +3853,7 @@
 ||bimbolive.com^
 ||bimglue.com^
 ||bimlibrary.com^
+||bimsaas.ru^
 ||bimseeker.com^
 ||bimsource.com^
 ||bimworld.com^
@@ -5126,6 +5136,7 @@
 ||calgonit.com^
 ||calibre-ebook.com^
 ||callabitch.org^
+||callbackkiller.com^
 ||callersbane.com^
 ||callhulu.com^
 ||calstate.edu^
@@ -5374,6 +5385,7 @@
 ||cbbank.com.mm^
 ||cbc.ca^
 ||cbi.ir^
+||cbkiller.com^
 ||cbm.com.mm^
 ||cbn.com.br^
 ||cbs.com^
@@ -5512,6 +5524,8 @@
 ||cerdas.com^
 ||cerebras.ai^
 ||cern.ch^
+||cert-gib.com^
+||cert-gib.ru^
 ||certificat2.com^
 ||certificate-transparency.org^
 ||certinomis.com^
@@ -6578,6 +6592,7 @@
 ||cy22.tv^
 ||cyber-bay.info^
 ||cyber-bay.org^
+||cybercrimecon.com^
 ||cyberctm.com^
 ||cyberghostvpn.com^
 ||cybermondaybeats4sale.com^
@@ -6789,6 +6804,7 @@
 ||dctbeatsbydre.com^
 ||ddc.com.tw^
 ||ddd-smart.net^
+||ddex.io^
 ||ddff66.com^
 ||ddff77.com^
 ||ddg.co^
@@ -8376,6 +8392,9 @@
 ||elgoog.im^
 ||elib.maruzen.co.jp^
 ||elifesciences.org^
+||eligens.cl^
+||eligens.com.br^
+||eligens.io^
 ||elite.com^
 ||elitebabes.com^
 ||eliteindianporn.com^
@@ -8521,6 +8540,14 @@
 ||envato-static.com^
 ||envato.com^
 ||envatousercontent.com^
+||envybox.company^
+||envybox.family^
+||envybox.kg^
+||envybox.su^
+||envycdp.com^
+||envycdp.ru^
+||envycrm.com^
+||envyday.ru^
 ||eotarchive.org^
 ||epc-jav.com^
 ||epicbrowser.com^
@@ -8864,6 +8891,9 @@
 ||f-secure.com^
 ||f2pool.com^
 ||f5pf.com^
+||f6.dev^
+||f6.ru^
+||f6.security^
 ||f6988.com^
 ||f8.com^
 ||f95zone.to^
@@ -8884,6 +8914,8 @@
 ||facboox.com^
 ||faccebook.com^
 ||faccebookk.com^
+||facct.email^
+||facct.ru^
 ||facdbook.com^
 ||facdebook.com^
 ||face-book.com^
@@ -9081,6 +9113,7 @@
 ||facecbook.org^
 ||facecook.com^
 ||facecook.org^
+||facedbook.com^
 ||faceebok.com^
 ||faceebook.com^
 ||faceebot.com^
@@ -10324,6 +10357,7 @@
 ||futuhkapp.com^
 ||futuholdings.com^
 ||futunited.com^
+||future-cs.ru^
 ||futurechinaforum.org^
 ||futuremessage.org^
 ||futureofbritishmanufacturing.com^
@@ -10350,6 +10384,10 @@
 ||fzlm.com^
 ||fzlm.net^
 ||g-area.org^
+||g-ib.ae^
+||g-ib.ru^
+||g-ib.sg^
+||g-ib.us^
 ||g-queen.com^
 ||g-technology.com^
 ||g-tun.com^
@@ -10591,6 +10629,7 @@
 ||gen.lib.rus.ec^
 ||gendai.net^
 ||generated.photos^
+||genetic-technologies.am^
 ||geneticconstructor.com^
 ||geng8cn.xyz^
 ||gengba-av.mom^
@@ -10599,6 +10638,11 @@
 ||genitourinaryexam.com^
 ||genius.com^
 ||genkai-hounyo.com^
+||genotek.am^
+||genotek.es^
+||genotek.eu^
+||genotek.health^
+||genotek.ru^
 ||genshin-porn.com^
 ||genshinh.com^
 ||gentoo.de^
@@ -10756,6 +10800,10 @@
 ||ghut.org^
 ||giantessbooru.com^
 ||giantessnight.com^
+||gib-global.com^
+||gib.sg^
+||gibdev.net^
+||gibtds.ru^
 ||gid.ru^
 ||giffgaff.com^
 ||giffgaff.design^
@@ -10933,6 +10981,7 @@
 ||gmo.jp^
 ||gmo.media^
 ||gmoask.jp^
+||gmobb.jp^
 ||gmocloud.com^
 ||gmodules.com^
 ||gmoney.org^
@@ -11467,7 +11516,18 @@
 ||groq.com^
 ||grotty-monday.com^
 ||ground.news^
+||group-ib.ae^
+||group-ib.co.uk^
+||group-ib.com^
+||group-ib.de^
+||group-ib.eu^
+||group-ib.ru^
+||group-ib.sg^
+||group-ib.us^
 ||groupfun.com^
+||groupib.ae^
+||groupib.sg^
+||groupib.us^
 ||groups.com^
 ||growlforwindows.com^
 ||grss-ieee.org^
@@ -12983,6 +13043,9 @@
 ||idea-server.com^
 ||ideal-teens.com^
 ||ideapocket.com^
+||ideco.dev^
+||ideco.ru^
+||idecosoftware.ru^
 ||idelreal.org^
 ||idemocracy.asia^
 ||identi.ca^
@@ -13421,6 +13484,7 @@
 ||innovations-i.com^
 ||inoreader.com^
 ||inote.tw^
+||inplat.ru^
 ||inporn.com^
 ||inquirer.net^
 ||insder.co^
@@ -14846,6 +14910,7 @@
 ||kik.com^
 ||kikdirty.com^
 ||killcovid2021.com^
+||killercb.ru^
 ||killwall.com^
 ||kilmeadeandfriends.com^
 ||kimchi.tv^
@@ -14905,6 +14970,7 @@
 ||kinokuniya.com^
 ||kinopoisk.ru^
 ||kinorium.com^
+||kion.ru^
 ||kir.jp^
 ||kir2kos.net^
 ||kirbysepicyarn.com^
@@ -16298,6 +16364,9 @@
 ||mega.nz^
 ||megacamz.com^
 ||megafilmporno.com^
+||megafon.com^
+||megafon.ru^
+||megafonpro.ru^
 ||megahdporno.net^
 ||megalodon.jp^
 ||megamarket.ru^
@@ -16412,6 +16481,7 @@
 ||mfk-t-finance.ru^
 ||mfmf.club^
 ||mfxmedia.com^
+||mgfn.ru^
 ||mgo-images.com^
 ||mgo.com^
 ||mgoon.com^
@@ -17201,6 +17271,7 @@
 ||moptt.tw^
 ||morazzia.com^
 ||morbell.com^
+||more.tv^
 ||moreheadphones.com^
 ||moresci.sale^
 ||morewithautodesk.com^
@@ -17354,7 +17425,11 @@
 ||mt0011.site^
 ||mtao.fun^
 ||mthruf.com^
+||mts-ws.net^
+||mts.ru^
+||mtsbank.ru^
 ||mtsdengi.ru^
+||mtsmedia.ru^
 ||mtt.org^
 ||mtvnservices.com^
 ||mtw.tl^
@@ -17519,6 +17594,7 @@
 ||myeasytv.com^
 ||myebay.com^
 ||myeclipseide.com^
+||myenvy.ru^
 ||myfappening.org^
 ||myfavoritearcade.com^
 ||myfbfans.com^
@@ -17594,6 +17670,7 @@
 ||mymmode.com^
 ||mymoe.moe^
 ||mymom.info^
+||mymts.ru^
 ||mymusclevideo.com^
 ||mymusic.net.tw^
 ||mynavi.jp^
@@ -18695,6 +18772,7 @@
 ||nxta.org^
 ||nxtdig.com.hk^
 ||nxtdig.com.tw^
+||nyaa.eu^
 ||nyaa.net^
 ||nyaa.si^
 ||nyahentai.re^
@@ -18891,6 +18969,7 @@
 ||omscr.com^
 ||omtrdc.net^
 ||omy.sg^
+||on-media.ru^
 ||on.cc^
 ||on.here^
 ||on2.com^
@@ -20959,6 +21038,7 @@
 ||quixel.com^
 ||quixel.se^
 ||quiz.directory^
+||quizlink.ru^
 ||qumingwz.com^
 ||quora.com^
 ||quoracdn.net^
@@ -21330,6 +21410,7 @@
 ||renzhe.cloud^
 ||repe21.com^
 ||repo.new^
+||report-megafon.ru^
 ||repotama.com^
 ||repsils.no^
 ||repsneakermall.com^
@@ -21352,6 +21433,7 @@
 ||responsys.net^
 ||restnproducts.ru^
 ||restream-media.net^
+||restream.ru^
 ||rethink.net^
 ||retimer.com^
 ||retroclassicporn.com^
@@ -21527,6 +21609,7 @@
 ||rosemarydoll.com^
 ||roshy.tv^
 ||rostaxi.org^
+||rostelecom.ru^
 ||rotten.com^
 ||rou.video^
 ||roucdn.link^
@@ -21580,6 +21663,7 @@
 ||rssmeme.com^
 ||rstatic.net^
 ||rt.com^
+||rt.ru^
 ||rtalabel.org^
 ||rtbcdn.ru^
 ||rthk.hk^
@@ -21680,6 +21764,7 @@
 ||sa-saopaulo.tencentcos.com^
 ||sa.com^
 ||sa.hao123.com^
+||saas-support.com^
 ||saasexch.cc^
 ||saasexch.co^
 ||saasexch.com^
@@ -21876,6 +21961,7 @@
 ||scanlover.com^
 ||scanservice1.qatp1.net^
 ||scanservice1.qpdp1.net^
+||scartel.ru^
 ||scasino.com^
 ||scat-enema.com^
 ||scat-japan.com^
@@ -23412,6 +23498,7 @@
 ||steampowered.com^
 ||steamserver.net^
 ||steamstatic.com^
+||steamunlocked.net^
 ||steamusercontent.com^
 ||steamygamer.com^
 ||steel-storm.com^
@@ -23797,6 +23884,7 @@
 ||t.co^
 ||t.finance^
 ||t.me^
+||t2.ru^
 ||t35.com^
 ||t66y.com^
 ||t91y.com^
@@ -24032,6 +24120,7 @@
 ||tehnodom.com^
 ||tehrantimes.com^
 ||tejaratbank.ir^
+||tele2.ru^
 ||telebay.com^
 ||telecomspace.com^
 ||telega.one^
@@ -25076,6 +25165,7 @@
 ||tvmedia.net.au^
 ||tvmost.com.hk^
 ||tvnaviweb.jp^
+||tvoyodbo.online^
 ||tvplayvideos.com^
 ||tvpromise.com^
 ||tvunetworks.com^
@@ -25513,6 +25603,7 @@
 ||uplinq.com^
 ||upload4u.info^
 ||uploaded.net^
+||uploaded.to^
 ||uploader.jp^
 ||uploadstation.com^
 ||uplus.co.kr^
@@ -27155,6 +27246,7 @@
 ||wingy.site^
 ||winhec.com^
 ||winhec.net^
+||wink.am^
 ||wink.ru^
 ||winning11.com^
 ||wintermute.com^
@@ -28335,6 +28427,8 @@
 ||yostar-pictures.co.jp^
 ||yostar.co.jp^
 ||yostarplat.com^
+||yota.ru^
+||yotagamer.ru^
 ||you-get.org^
 ||you.com^
 ||youassporn.com^
