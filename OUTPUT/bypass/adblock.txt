@@ -790,7 +790,6 @@
 ||cleansite.us^
 ||clic.eu.org^
 ||clickip.de^
-||clientdns3.softcom.net^
 ||clienturl.net^
 ||closetruth.date^
 ||cloud.beerloga.su^
@@ -3927,7 +3926,6 @@
 ||quantumpulse.dev^
 ||query.hdns.io^
 ||query.mobyds.com^
-||quic.lol^
 ||quicksytes.com^
 ||r-o-o-t.net^
 ||r1bnc.com^
