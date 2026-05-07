@@ -1822,7 +1822,6 @@
 ||dns.tls-data.de^
 ||dns.tomitomix.net^
 ||dns.tooizi.eu^
-||dns.trifanov-online.ru^
 ||dns.truong.fi^
 ||dns.trust404.win^
 ||dns.tryk.app^
@@ -1834,7 +1833,6 @@
 ||dns.umbrella.com^
 ||dns.unerror.network^
 ||dns.unitech.company^
-||dns.unitynetwork.ru^
 ||dns.unknown-universe.co.uk^
 ||dns.unpak.ac.id^
 ||dns.unx.io^
@@ -1914,7 +1912,6 @@
 ||dns.yuzia.cc^
 ||dns.yyaan.com^
 ||dns.yyaan.top^
-||dns.zachbosh.com^
 ||dns.zarchbox.fr^
 ||dns.zemows.industries^
 ||dns.zfsystem.tech^
@@ -3340,7 +3337,6 @@
 ||lon01.dnscry.pt^
 ||longmusic.com^
 ||look.xshentx.org^
-||lookup.zucx.net^
 ||lorc17-dns.komeho.info^
 ||lordsalty.com^
 ||los01.dnscry.pt^
@@ -4425,7 +4421,6 @@
 ||tzo.com^
 ||ucvradio.cl^
 ||udns.weixin.qq.com^
-||udp64.de^
 ||ufcfan.org^
 ||ufodns.com^
 ||ugo.si^
