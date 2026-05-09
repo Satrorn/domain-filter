@@ -363,7 +363,6 @@
 ||3xxx.pro^
 ||4008-517-517.cn^
 ||404museum.com^
-||40momporntube.com^
 ||40shopping.com^
 ||40somethingmag.com^
 ||41maonn.com^
@@ -1920,7 +1919,6 @@
 ||ankarazirvesi2018.com^
 ||ankiuser.net^
 ||ankiweb.net^
-||anm.co.uk^
 ||annamilk.com^
 ||annas-archive.gd^
 ||annas-archive.gl^
@@ -26482,6 +26480,7 @@
 ||vodafone.com.tr^
 ||vodafone.de^
 ||vodafone.it^
+||vodafone.nl^
 ||voicettank.org^
 ||vokevr.com^
 ||vol.moe^
