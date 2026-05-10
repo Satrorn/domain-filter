@@ -363,6 +363,7 @@
 ||3xxx.pro^
 ||4008-517-517.cn^
 ||404museum.com^
+||40momporntube.com^
 ||40shopping.com^
 ||40somethingmag.com^
 ||41maonn.com^
@@ -6097,7 +6098,6 @@
 ||cn6.eu^
 ||cna.com.tw^
 ||cnabc.com^
-||cnappinstall.googleadapis.com^
 ||cnbc.com^
 ||cnbcfm.com^
 ||cnbeta.com.tw^
@@ -6297,7 +6297,6 @@
 ||contactossexoecuador.com^
 ||containersonaws.com^
 ||contechacademy.com^
-||content.googleadapis.com^
 ||contentful.com^
 ||contest.com^
 ||controlspace.org^
@@ -14695,6 +14694,7 @@
 ||justswallows.com^
 ||justtristan.com^
 ||justusboys.com^
+||justveryok.com^
 ||juyangbee.xyz^
 ||juyangto.info^
 ||juyuange.org^
@@ -14881,6 +14881,7 @@
 ||kex.com^
 ||keybase.io^
 ||keybaseapi.com^
+||keyboardmen.com^
 ||keycdn.com^
 ||keyhole.com^
 ||keyporntube.com^
@@ -18814,6 +18815,7 @@
 ||nzchinese.com^
 ||nzchinese.net.nz^
 ||o-courier.ru^
+||o0-2.com^
 ||o2action.co.kr^
 ||o3.ru^
 ||o365weve-dev.com^
@@ -18869,7 +18871,15 @@
 ||odc-addthis-prod-01.oracle.com^
 ||odc-pixel-prod-01.oracle.com^
 ||odkl.ru^
+||odnoklasniki.by^
+||odnoklasniki.ua^
+||odnoklassniki.am^
+||odnoklassniki.by^
+||odnoklassniki.co.ee^
+||odnoklassniki.eu^
+||odnoklassniki.lv^
 ||odnoklassniki.ru^
+||odnoklassniki.tj^
 ||odysee.com^
 ||oed.com^
 ||oekakiskey.com^
@@ -21926,6 +21936,7 @@
 ||savoycomputing.com^
 ||savvyshopper.net.au^
 ||say2.info^
+||sayeasy.eu^
 ||saynow.com^
 ||sb-cd.com^
 ||sb-mobile.jp^

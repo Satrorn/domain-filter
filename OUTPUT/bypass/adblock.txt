@@ -602,6 +602,7 @@
 ||authorizeddns.us^
 ||autoipset.com^
 ||avandns.com^
+||awiki.org^
 ||ax.lt^
 ||axaxa.fun^
 ||axistechsupport.com^
@@ -1111,6 +1112,7 @@
 ||dns.ashleyjackson.net^
 ||dns.asterimoon.com^
 ||dns.asysec.com^
+||dns.auapi.fun^
 ||dns.audet.cloud^
 ||dns.auffray.org^
 ||dns.axto.me^
@@ -1123,6 +1125,7 @@
 ||dns.b72.com^
 ||dns.bad-taste.app^
 ||dns.bai0012.com^
+||dns.baishiyuan.cn^
 ||dns.beardic.cn^
 ||dns.bebasid.com^
 ||dns.belnet.be^
