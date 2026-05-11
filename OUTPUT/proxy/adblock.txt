@@ -6756,6 +6756,7 @@
 ||data-vocabulary.org^
 ||data.com^
 ||data.flurry.com^
+||data18.com^
 ||databank.worldbank.org^
 ||datacloudmy.com^
 ||dataframeworks.com^
@@ -7828,6 +7829,7 @@
 ||dstk.dk^
 ||dswz88.xyz^
 ||dsyiren.com^
+||dt18.com^
 ||dtci.co^
 ||dtci.technology^
 ||dtdns.com^
@@ -10753,6 +10755,7 @@
 ||gettyimages.us^
 ||getuploader.com^
 ||getws1.com^
+||getwsj.com^
 ||getwsone.com^
 ||getzola.org^
 ||gfacecbook.com^
@@ -14270,6 +14273,7 @@
 ||javdove.com^
 ||javdove8.xyz^
 ||javextreme.net^
+||javfc2.xyz^
 ||javfilms.com^
 ||javfinder.ai^
 ||javfinder.is^
