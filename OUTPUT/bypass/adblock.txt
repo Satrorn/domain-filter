@@ -2213,6 +2213,7 @@
 ||doh.max.net.id^
 ||doh.mcasviper.de^
 ||doh.meetz.pw^
+||doh.micronets.in^
 ||doh.mmmalia.com^
 ||doh.mochou.site^
 ||doh.moorecloud.id^
@@ -3338,6 +3339,7 @@
 ||lju01.dnscry.pt^
 ||llk01.dnscry.pt^
 ||loadlow.me^
+||loan.paymdm.xyz^
 ||locumm.com^
 ||loginto.me^
 ||logisoft-cy.com^
@@ -3789,6 +3791,7 @@
 ||panel.joosh.ru^
 ||panser.web.id^
 ||par01.dnscry.pt^
+||paradise-human.shop^
 ||paranoia.mydns.network^
 ||parikh.net^
 ||partycenteronline.com^
@@ -3815,6 +3818,7 @@
 ||pedie.info^
 ||pendulumaudio.com^
 ||penetrator.shurakenas.ru^
+||pepetio.xyz^
 ||per.adfilter.net^
 ||per01.dnscry.pt^
 ||peregrineair.com^
