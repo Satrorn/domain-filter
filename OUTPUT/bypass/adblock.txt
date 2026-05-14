@@ -2252,6 +2252,7 @@
 ||doh.seby.io^
 ||doh.securedns.eu^
 ||doh.sidnlabs.nl^
+||doh.sublime9.xyz^
 ||doh.suche.org^
 ||doh.sunoaki.net^
 ||doh.sww.net.id^
@@ -4312,6 +4313,7 @@
 ||synoserver.com^
 ||syre.pp.ua^
 ||sysadminetworks.com^
+||system-ns.com^
 ||systes.net^
 ||sytes.net^
 ||szyrzyk.pl^
