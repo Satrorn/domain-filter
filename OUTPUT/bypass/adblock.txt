@@ -168,8 +168,6 @@
 ||adg.jnorton.us^
 ||adg.khon.dev^
 ||adg.lintasjrg.xyz^
-||adg.meviusberry.hidns.co^
-||adg.mnml.co.in^
 ||adg.proprietarypenguin.com^
 ||adg.rokh.biz^
 ||adg.rueiliu.space^
@@ -238,7 +236,6 @@
 ||adguard.ef67daisuki.club^
 ||adguard.eischmann.cz^
 ||adguard.elrobit.com^
-||adguard.ender.fr^
 ||adguard.eoghan-net.com^
 ||adguard.eximpius.xyz^
 ||adguard.exium.net^
@@ -1258,8 +1255,6 @@
 ||dns.druta.me^
 ||dns.dualhosting.eu^
 ||dns.dumk.in^
-||dns.dyn1.de^
-||dns.dynx.pro^
 ||dns.dzkji.cn^
 ||dns.echpochmak-club.ru^
 ||dns.edc-pws.com^
@@ -1590,7 +1585,6 @@
 ||dns.ndo.dev^
 ||dns.neeb.it^
 ||dns.neilzone.co.uk^
-||dns.nerdytechgeeks.co.za^
 ||dns.netraptor.com.au^
 ||dns.netrve.net^
 ||dns.netvpn.net^
@@ -3663,7 +3657,6 @@
 ||ns.hjk.kr^
 ||ns.hjk.me^
 ||ns.mtsoln.com^
-||ns.nerdytechgeeks.co.za^
 ||ns.net.kg^
 ||ns.ral9005.org^
 ||ns.solutics.ec^
@@ -3672,13 +3665,11 @@
 ||ns0.fdn.fr^
 ||ns01.biz^
 ||ns01.info^
-||ns01.nerdytechgeeks.co.za^
 ||ns01.us^
 ||ns02.biz^
 ||ns02.info^
 ||ns02.nerdytechgeeks.co.za^
 ||ns02.us^
-||ns03.nerdytechgeeks.co.za^
 ||ns1.4netguides.org^
 ||ns1.dotls.org^
 ||ns1.fdn.fr^

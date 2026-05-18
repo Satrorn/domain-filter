@@ -21568,6 +21568,7 @@
 ||rightbtc.com^
 ||rightster.com^
 ||rigpa.org^
+||rigums.xyz^
 ||riku.me^
 ||rileyguide.com^
 ||rime.im^
@@ -22479,6 +22480,7 @@
 ||sgwritings.com^
 ||sgzhan.com^
 ||sh-xuxingda.com^
+||sh83.xyz^
 ||shadbase.com^
 ||shadeyouvpn.com^
 ||shadow.ma^
@@ -25731,6 +25733,7 @@
 ||ura-akiba.jp^
 ||uraban.me^
 ||uralsib.ru^
+||urasma.com^
 ||urbanairship.com^
 ||urbandictionary.com^
 ||urbansurvival.com^
@@ -29004,6 +29007,7 @@
 ||zhangboli.net^
 ||zhangboz1.xyz^
 ||zhangtianliang.com^
+||zhangzhehan.net^
 ||zhanlve.org^
 ||zhenghui.org^
 ||zhengjian.org^
