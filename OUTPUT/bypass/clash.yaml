@@ -268,7 +268,6 @@ payload:
   - +.adguard.johnnypatras.org
   - +.adguard.k-likhachev.ru
   - +.adguard.kalyanmudumby.com
-  - +.adguard.kantinyoyok.xyz
   - +.adguard.kasbot.net
   - +.adguard.kiboko.it
   - +.adguard.kitakitsune.xyz
@@ -484,6 +483,7 @@ payload:
   - +.ahoj.email
   - +.aicx99.shop
   - +.aintno.info
+  - +.airdns.org
   - +.airlinemeals.net
   - +.aitkcrev.minhduc.pw
   - +.ajlxwk4kedu5.absq.ch
@@ -917,6 +917,7 @@ payload:
   - +.ddns.info
   - +.ddns.martinmore.online
   - +.ddns.me
+  - +.ddns.me.uk
   - +.ddns.mobi
   - +.ddns.ms
   - +.ddns.name
@@ -929,6 +930,7 @@ payload:
   - +.ddnsking.com
   - +.ddnslive.com
   - +.ddnss.ch
+  - +.ddnss.de
   - +.ddnss.eu
   - +.ddnss.org
   - +.ddnssec.de
@@ -1475,7 +1477,6 @@ payload:
   - +.dns.kpsn.dev
   - +.dns.kriswerry.nl
   - +.dns.krol.cloud
-  - +.dns.kugoapps.com
   - +.dns.kukal.cz
   - +.dns.kusoneko.moe
   - +.dns.kuuhaku.moe
@@ -1634,7 +1635,6 @@ payload:
   - +.dns.ostfriese.org
   - +.dns.otezz.net
   - +.dns.ourvau.lt
-  - +.dns.ovpn.bond
   - +.dns.p3k.sk
   - +.dns.p55k.com
   - +.dns.pacificmonster.com
@@ -2203,7 +2203,6 @@ payload:
   - +.doh.luigi.nexific.it
   - +.doh.lujiacai.top
   - +.doh.lv
-  - +.doh.manish.ltd
   - +.doh.maskab.com
   - +.doh.max.net.id
   - +.doh.mcasviper.de
@@ -2327,7 +2326,6 @@ payload:
   - +.douglas.mebrak.fr
   - +.douglaster.com
   - +.dougtreadwell.com
-  - +.doyleandprendergast.com
   - +.dp76.com
   - +.dpcube.com
   - +.draco.plan9-ns2.com
@@ -2524,7 +2522,6 @@ payload:
   - +.excelkin.online
   - +.exns1.exalto.nu
   - +.expired-dns.com
-  - +.externalmobiel.lekdijk.online
   - +.extra.mask.ad
   - +.extratv.org
   - +.eyg01.dnscry.pt
@@ -2536,6 +2533,7 @@ payload:
   - +.f-parts.net
   - +.f1.dns.s3cure.me
   - +.f3322.net
+  - +.f3322.org
   - +.f4ckdns.dl4mt.dev
   - +.fairuse.org
   - +.falcongreen.com
@@ -2609,6 +2607,7 @@ payload:
   - +.freeddns.uk
   - +.freeddns.us
   - +.freedns.controld.com
+  - +.freedns.tech
   - +.freedom.mydns.network
   - +.freedynamicdns.net
   - +.freedynamicdns.org
@@ -2722,6 +2721,7 @@ payload:
   - +.gettrials.com
   - +.ghostnation.org
   - +.gibblets.top
+  - +.gicp.net
   - +.gigaportal.pl
   - +.gigatapbot.top
   - +.giize.com
@@ -2800,6 +2800,7 @@ payload:
   - +.h-o-s-t.name
   - +.h.gjrick.tw
   - +.h.ra3.in
+  - +.h0stname.net
   - +.h1x.com
   - +.h4ck.me
   - +.h4g3z1-doh.web.app
@@ -2894,6 +2895,7 @@ payload:
   - +.home.weisbrod.me
   - +.home.wriedts.de
   - +.home34.su
+  - +.home64.de
   - +.homedns.gumeniuk.com
   - +.homedns.org
   - +.homeftp.net
@@ -3005,7 +3007,6 @@ payload:
   - +.ikarosalpha.xyz
   - +.ikwb.com
   - +.ilinhy.com
-  - +.ilmxs.com
   - +.ilovecollege.info
   - +.imagetemplate.com
   - +.imagetemplate.net
@@ -3574,7 +3575,6 @@ payload:
   - +.nd.lgprk.com
   - +.ndcg.com
   - +.neat-url.com
-  - +.nedvighimost-sochi.ru
   - +.nelsonleung.org
   - +.nerdcamp.net
   - +.nerdpol.ovh
@@ -3798,6 +3798,7 @@ payload:
   - +.paydns.weixin.qq.com
   - +.pcgo.fun
   - +.pcornet.freeboxos.fr
+  - +.pdns.cz
   - +.pdns.elecura.net
   - +.pdns.faelix.net
   - +.pdns.itxe.net
@@ -3825,7 +3826,6 @@ payload:
   - +.phl01.dnscry.pt
   - +.phonedns.dr3ff1c13nt.com
   - +.phongg.vn
-  - +.photo-cult.com
   - +.photo-frame.com
   - +.php-dev.net
   - +.phx01.dnscry.pt
@@ -3916,6 +3916,7 @@ payload:
   - +.qdns02.nymterm.com
   - +.qhigh.com
   - +.qingmo.vip
+  - +.qlbv.vn
   - +.qlf-doh.inria.fr
   - +.qpoe.com
   - +.qqmcfw.tech
@@ -4377,6 +4378,7 @@ payload:
   - +.tlv01.dnscry.pt
   - +.tlz.asia
   - +.toaster.lol
+  - +.tobuy.us
   - +.toh.info
   - +.tokyo.559299366.xyz
   - +.topdns.com
@@ -4523,6 +4525,7 @@ payload:
   - +.vernikpro.ru
   - +.verymad.net
   - +.viamisoftware.com
+  - +.vicp.cc
   - +.vie01.dnscry.pt
   - +.vietnamddns.com
   - +.viewdns.net
