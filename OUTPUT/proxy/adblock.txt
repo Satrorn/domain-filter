@@ -1058,6 +1058,7 @@
 ||adultexpo.com.tw^
 ||adultfilmdatabase.com^
 ||adultfreex.com^
+||adultfriendfinder.com^
 ||adultgamereviews.com^
 ||adultgames.games^
 ||adultgames.me^
@@ -6526,6 +6527,7 @@
 ||ctee.com.tw^
 ||ctfassets.net^
 ||ctfriend.net^
+||ctinets.com^
 ||ctinews.com^
 ||ctinsider.com^
 ||ctitv.com.tw^
@@ -7715,6 +7717,7 @@
 ||downforeveryoneorjustme.com^
 ||download.com^
 ||download.dappcdn.com^
+||download.qatp1.net^
 ||download.qcpp1.net^
 ||download.qpdp1.net^
 ||downloadpass.com^
@@ -12549,7 +12552,6 @@
 ||hpcodewarsbcn.com^
 ||hpcomputers.com^
 ||hpcomputerservices.com^
-||hpconnected.com^
 ||hpconnected.net^
 ||hpconnected.org^
 ||hpconnected.us^
@@ -17259,6 +17261,7 @@
 ||monitorchina.org^
 ||monitoring.qatp1.net^
 ||monitoring.qcpp1.net^
+||monitoring.qpdp1.net^
 ||monitorware.com^
 ||monitrix.net^
 ||monlamit.org^
@@ -21003,6 +21006,7 @@
 ||q10.jp^
 ||q13.com^
 ||q13fox.com^
+||qagpublic.qatp1.net^
 ||qagpublic.qcpp1.net^
 ||qagpublic.qpdp1.net^
 ||qanote.com^
@@ -21021,6 +21025,7 @@
 ||qdiehzz7.me^
 ||qdmomentum.com^
 ||qgadmin.qatp1.net^
+||qgadmin.qcpp1.net^
 ||qgadmin.qpdp1.net^
 ||qgirl.com.tw^
 ||qi-gong.me^
@@ -21091,10 +21096,12 @@
 ||qualcommventures.com^
 ||qualphone.com^
 ||qualtrics.com^
+||qualysapi.qatp1.net^
 ||qualysapi.qcpp1.net^
 ||qualysapi.qpdp1.net^
 ||qualysguard.qatp1.net^
 ||qualysguard.qcpp1.net^
+||qualysguard.qpdp1.net^
 ||quanben-xiaoshuo.com^
 ||quanben.io^
 ||quannengshen.org^
@@ -22072,6 +22079,7 @@
 ||scandalplanet.com^
 ||scanlover.com^
 ||scanservice1.qatp1.net^
+||scanservice1.qcpp1.net^
 ||scanservice1.qpdp1.net^
 ||scartel.ru^
 ||scasino.com^
@@ -23294,6 +23302,7 @@
 ||spankingtube.com^
 ||spankmonster.com^
 ||spankred3d.com^
+||spankwire.com^
 ||sparknotes.com^
 ||sparkpool.com^
 ||spasibo.digital^
@@ -27725,7 +27734,6 @@
 ||xdaddy.in^
 ||xdaforums.com^
 ||xdaimages.com^
-||xdelta.org^
 ||xdh999.one^
 ||xdir.vip^
 ||xdporner.com^
@@ -27889,6 +27897,7 @@
 ||xn--czq75pvv1aj5c.org^
 ||xn--d1abkf4ap.fun^
 ||xn--d4ty0ojsqzfd.com^
+||xn--flw351e.com^
 ||xn--ggle-55da.com^
 ||xn--gmq348bujlxrb.com^
 ||xn--gmq92kd2rm1kx34a.com^
