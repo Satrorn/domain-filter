@@ -4161,6 +4161,7 @@
 ||bloombergstatus.com^
 ||bloombergsurvey.com^
 ||bloombergtax.com^
+||bloombergtax1.com^
 ||bloombergtaxtech.com^
 ||bloombergtradingchallenge.com^
 ||bloombergtv.mn^
@@ -6829,6 +6830,7 @@
 ||dctbeatsbydre.com^
 ||ddc.com.tw^
 ||ddd-smart.net^
+||ddex.io^
 ||ddff66.com^
 ||ddff77.com^
 ||ddg.co^
@@ -12736,6 +12738,7 @@
 ||html5rocks.com^
 ||htnewbooks.com^
 ||httpfacebook.com^
+||https443.org^
 ||httpsfacebook.com^
 ||httpwwwfacebook.com^
 ||htvncdn.net^
@@ -12861,6 +12864,7 @@
 ||hussiepass.com^
 ||hustler.com^
 ||hustlercash.com^
+||hut2.ru^
 ||hutao.cloud^
 ||hutianyi.net^
 ||hutong9.net^
@@ -17785,6 +17789,7 @@
 ||mysdn.com^
 ||mysdn.info^
 ||mysdn.net^
+||mysecondarydns.com^
 ||mysexgames.com^
 ||mysexygfs.com^
 ||myshopify.com^
@@ -19080,6 +19085,7 @@
 ||onedrive.eu^
 ||onedrive.net^
 ||onedrive.org^
+||onedumb.com^
 ||onefifteen.net^
 ||onefifteen.org^
 ||onejapanese.com^
@@ -25481,6 +25487,7 @@
 ||tytng189.com^
 ||tytporno.online^
 ||u.nu^
+||u15.info^
 ||u3c3.com^
 ||u9a9.cc^
 ||u9a9.com^
@@ -27599,6 +27606,7 @@
 ||www-sms-apple.com^
 ||www.clashverge.dev^
 ||www.sb^
+||www1.biz^
 ||www8-hp.com^
 ||wwwapple.com^
 ||wwwapple.net^
