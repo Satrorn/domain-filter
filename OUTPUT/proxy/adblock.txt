@@ -2188,6 +2188,7 @@
 ||apple.lv^
 ||apple.me^
 ||apple.my^
+||apple.net^
 ||apple.net.gr^
 ||apple.news^
 ||apple.nl^
@@ -9147,6 +9148,7 @@
 ||facecbook.org^
 ||facecook.com^
 ||facecook.org^
+||facedbook.com^
 ||faceebok.com^
 ||faceebook.com^
 ||faceebot.com^
@@ -11022,6 +11024,7 @@
 ||gmo.jp^
 ||gmo.media^
 ||gmoask.jp^
+||gmobb.jp^
 ||gmocloud.com^
 ||gmodules.com^
 ||gmoney.org^
@@ -18860,6 +18863,7 @@
 ||nxta.org^
 ||nxtdig.com.hk^
 ||nxtdig.com.tw^
+||nyaa.eu^
 ||nyaa.net^
 ||nyaa.si^
 ||nyahentai.re^
@@ -23630,6 +23634,7 @@
 ||steampowered.com^
 ||steamserver.net^
 ||steamstatic.com^
+||steamunlocked.net^
 ||steamusercontent.com^
 ||steamygamer.com^
 ||steel-storm.com^
@@ -25751,6 +25756,7 @@
 ||uplinq.com^
 ||upload4u.info^
 ||uploaded.net^
+||uploaded.to^
 ||uploader.jp^
 ||uploadstation.com^
 ||uplus.co.kr^
