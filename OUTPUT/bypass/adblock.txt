@@ -2227,6 +2227,7 @@
 ||doh.sb^
 ||doh.seby.io^
 ||doh.securedns.eu^
+||doh.serverhost.no^
 ||doh.sidnlabs.nl^
 ||doh.sublime9.xyz^
 ||doh.suche.org^
