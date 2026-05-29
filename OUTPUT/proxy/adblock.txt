@@ -364,6 +364,7 @@
 ||3xxx.pro^
 ||4008-517-517.cn^
 ||404museum.com^
+||40momporntube.com^
 ||40shopping.com^
 ||40somethingmag.com^
 ||41maonn.com^
@@ -2187,7 +2188,6 @@
 ||apple.lv^
 ||apple.me^
 ||apple.my^
-||apple.net^
 ||apple.net.gr^
 ||apple.news^
 ||apple.nl^
@@ -9147,7 +9147,6 @@
 ||facecbook.org^
 ||facecook.com^
 ||facecook.org^
-||facedbook.com^
 ||faceebok.com^
 ||faceebook.com^
 ||faceebot.com^
@@ -11023,7 +11022,6 @@
 ||gmo.jp^
 ||gmo.media^
 ||gmoask.jp^
-||gmobb.jp^
 ||gmocloud.com^
 ||gmodules.com^
 ||gmoney.org^
@@ -18889,7 +18887,6 @@
 ||nxta.org^
 ||nxtdig.com.hk^
 ||nxtdig.com.tw^
-||nyaa.eu^
 ||nyaa.net^
 ||nyaa.si^
 ||nyahentai.re^
@@ -20897,7 +20894,6 @@
 ||proxylist.org.uk^
 ||proxynetwork.org.uk^
 ||proxypy.net^
-||proxyrarbg.org^
 ||proxyroad.com^
 ||proxytunnel.net^
 ||proxz.com^
@@ -23661,7 +23657,6 @@
 ||steampowered.com^
 ||steamserver.net^
 ||steamstatic.com^
-||steamunlocked.net^
 ||steamusercontent.com^
 ||steamygamer.com^
 ||steel-storm.com^
@@ -25783,7 +25778,6 @@
 ||uplinq.com^
 ||upload4u.info^
 ||uploaded.net^
-||uploaded.to^
 ||uploader.jp^
 ||uploadstation.com^
 ||uplus.co.kr^
