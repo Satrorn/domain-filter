@@ -2189,6 +2189,7 @@ payload:
   - +.apple.lv
   - +.apple.me
   - +.apple.my
+  - +.apple.net
   - +.apple.net.gr
   - +.apple.news
   - +.apple.nl
@@ -9148,6 +9149,7 @@ payload:
   - +.facecbook.org
   - +.facecook.com
   - +.facecook.org
+  - +.facedbook.com
   - +.faceebok.com
   - +.faceebook.com
   - +.faceebot.com
@@ -10668,6 +10670,7 @@ payload:
   - +.gemfury.com
   - +.gemini.com
   - +.gen.lib.rus.ec
+  - +.gencraft.com
   - +.gendai.net
   - +.generated.photos
   - +.genetic-technologies.am
@@ -11023,6 +11026,7 @@ payload:
   - +.gmo.jp
   - +.gmo.media
   - +.gmoask.jp
+  - +.gmobb.jp
   - +.gmocloud.com
   - +.gmodules.com
   - +.gmoney.org
@@ -18888,6 +18892,7 @@ payload:
   - +.nxta.org
   - +.nxtdig.com.hk
   - +.nxtdig.com.tw
+  - +.nyaa.eu
   - +.nyaa.net
   - +.nyaa.si
   - +.nyahentai.re
@@ -20895,6 +20900,7 @@ payload:
   - +.proxylist.org.uk
   - +.proxynetwork.org.uk
   - +.proxypy.net
+  - +.proxyrarbg.org
   - +.proxyroad.com
   - +.proxytunnel.net
   - +.proxz.com
@@ -23658,6 +23664,7 @@ payload:
   - +.steampowered.com
   - +.steamserver.net
   - +.steamstatic.com
+  - +.steamunlocked.net
   - +.steamusercontent.com
   - +.steamygamer.com
   - +.steel-storm.com
@@ -25779,6 +25786,7 @@ payload:
   - +.uplinq.com
   - +.upload4u.info
   - +.uploaded.net
+  - +.uploaded.to
   - +.uploader.jp
   - +.uploadstation.com
   - +.uplus.co.kr
@@ -26019,6 +26027,7 @@ payload:
   - +.vdoav.com
   - +.vecchiescopate.casa
   - +.vector.im
+  - +.veed.io
   - +.veet.at
   - +.veet.be
   - +.veet.ca
@@ -27833,6 +27842,7 @@ payload:
   - +.xiezhua.com
   - +.xihua.es
   - +.xilou.us
+  - +.xin21.xyz
   - +.xinaia-av.buzz
   - +.xinbao.de
   - +.xindelu.com
