@@ -15605,6 +15605,7 @@
 ||livingonline.us^
 ||livingstream.com^
 ||livingyourambition.com^
+||livinno.org^
 ||livrariart.com.br^
 ||liwangyang.com^
 ||liyuans.com^
@@ -19206,6 +19207,7 @@
 ||ooyala.com^
 ||op.gg^
 ||op7979.com^
+||opac-project.eu^
 ||open-suse.ru^
 ||open.com.hk^
 ||openai.com^
@@ -25773,7 +25775,6 @@
 ||up.gcp.googlers.com^
 ||up01.cc^
 ||upbit.com^
-||updatestar.com^
 ||updatetube.com^
 ||upfrontcfd.com^
 ||upfrontfea.com^
