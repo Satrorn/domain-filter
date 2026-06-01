@@ -2522,6 +2522,7 @@ payload:
   - +.arxiv.org
   - +.arzon.jp
   - +.as-hp.ca
+  - +.as.mr
   - +.asacp.org
   - +.asagaku.com
   - +.asahi.com
@@ -22174,7 +22175,6 @@ payload:
   - +.scnsrc.me
   - +.scolle.net
   - +.scoop.sh
-  - +.scorecardresearch.com
   - +.scoreclassics.com
   - +.scorediscounts.club
   - +.scoregroup.com
@@ -25776,6 +25776,7 @@ payload:
   - +.up.gcp.googlers.com
   - +.up01.cc
   - +.upbit.com
+  - +.updatestar.com
   - +.updatetube.com
   - +.upfrontcfd.com
   - +.upfrontfea.com
@@ -27813,8 +27814,11 @@ payload:
   - +.xhamster3.com
   - +.xhamsterlive.com
   - +.xhcdn.com
+  - +.xhnews.live
   - +.xhot.pro
+  - +.xhpingcdn.com
   - +.xhpjc6-cdn-settings.appsflyersdk.com
+  - +.xhreal5.com
   - +.xhub.tv
   - +.xianba.net
   - +.xianchawang.net
