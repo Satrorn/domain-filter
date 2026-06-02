@@ -10753,6 +10753,7 @@
 ||getmdl.io^
 ||getnews.jp^
 ||getoutline.org^
+||getpaint.net^
 ||getpocket.com^
 ||getporn.tv^
 ||getpricetag.com^
@@ -16964,7 +16965,6 @@
 ||minilondon.co^
 ||minimarkham.ca^
 ||minimarkham.com^
-||minimax.io^
 ||minimoncton.ca^
 ||minimoncton.com^
 ||minimontrealcentre.ca^
@@ -19509,6 +19509,7 @@
 ||paimon.moe^
 ||painfulpussytortures.com^
 ||painnovel.com^
+||paint.net^
 ||paipal.com^
 ||paipancon.com^
 ||paisapay.cc^
