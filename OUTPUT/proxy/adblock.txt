@@ -12114,7 +12114,6 @@
 ||herokucdn.com^
 ||herokucharge.com^
 ||herokussl.com^
-||herominers.com^
 ||herringnetwork.com^
 ||heteml.jp^
 ||hetzner-cloud.de^
@@ -24926,6 +24925,7 @@
 ||tomsguide.com^
 ||tomshardware.com^
 ||ton.org^
+||toncenter.com^
 ||tonec.com^
 ||tongil.or.kr^
 ||tonicmovies.com^
