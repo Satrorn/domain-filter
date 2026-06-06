@@ -4182,6 +4182,7 @@ payload:
   - +.bloombergstatus.com
   - +.bloombergsurvey.com
   - +.bloombergtax.com
+  - +.bloombergtax1.com
   - +.bloombergtaxtech.com
   - +.bloombergtradingchallenge.com
   - +.bloombergtv.mn
@@ -5991,6 +5992,7 @@ payload:
   - +.claude.ai
   - +.claude.com
   - +.claudemcpclient.com
+  - +.claudemcpcontent.com
   - +.claudeusercontent.com
   - +.clawhub.ai
   - +.clb.org.hk
@@ -6015,6 +6017,7 @@ payload:
   - +.clemesha.org
   - +.click-sec.com
   - +.clickedu.co.uk
+  - +.clickserver.googleads.com
   - +.clien.net
   - +.client-api.arkoselabs.com
   - +.climate-server.com
@@ -24078,6 +24081,7 @@ payload:
   - +.suxib.com
   - +.suxiebu.com
   - +.suyangg.com
+  - +.suyingtv.com
   - +.suzuri.jp
   - +.svaboda.org
   - +.svc.ms
@@ -27770,6 +27774,7 @@ payload:
   - +.wp-themes.com
   - +.wp.com
   - +.wpewebkit.org
+  - +.wplace.live
   - +.wpoforum.com
   - +.wpvip.com
   - +.wqyd.org
