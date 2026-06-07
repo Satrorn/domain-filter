@@ -1791,6 +1791,7 @@ payload:
   - +.amcplus.com
   - +.amd.com.cn
   - +.amdfanstore.com
+  - +.amdgaming.com
   - +.amdigital.co.uk
   - +.ameba.jp
   - +.amebame.com
@@ -5474,6 +5475,7 @@ payload:
   - +.cciesecuritylabs.com
   - +.ccievoicelabs.com
   - +.ccim.org
+  - +.ccleaner.com
   - +.cclife.ca
   - +.cclife.org
   - +.cclifefl.org
@@ -5957,6 +5959,7 @@ payload:
   - +.citypopulation.de
   - +.citytalk.tw
   - +.citytourgirls.com
+  - +.cityu.hk
   - +.civicparty.hk
   - +.civil3d.com
   - +.civilcc.com
@@ -6579,7 +6582,7 @@ payload:
   - +.cuckwimp.com
   - +.cuebic.biz
   - +.cuffiesaldi.com
-  - +.cuhk.edu.hk
+  - +.cuhk.hk
   - +.cuhkacs.org
   - +.cuihua.org
   - +.cuinc.oen.tw
@@ -8394,9 +8397,11 @@ payload:
   - +.edns.biz
   - +.edoors.com
   - +.edu-research.org
+  - +.edu.hk
   - +.edu.ir
   - +.edubridge.com
   - +.education-cadcam.com
+  - +.eduhk.hk
   - +.eduplus.hk
   - +.edupro.org
   - +.edx-cdn.org
@@ -9614,6 +9619,7 @@ payload:
   - +.fileserve.com
   - +.filesmonster.vip
   - +.filesor.com
+  - +.filezilla-project.org
   - +.filipino-music.net
   - +.fillthesquare.org
   - +.filme2.xxx
@@ -10956,6 +10962,7 @@ payload:
   - +.gitbook.com
   - +.gitbook.io
   - +.gitbooks.io
+  - +.gitgud.io
   - +.githack.com
   - +.github-api.arkoselabs.com
   - +.github.ai
@@ -12287,6 +12294,7 @@ payload:
   - +.hitxhot.com
   - +.hive.blog
   - +.hiveon.net
+  - +.hivepress.io
   - +.hiwifi.com
   - +.hizb-ut-tahrir.info
   - +.hizb-ut-tahrir.org
@@ -12312,6 +12320,7 @@ payload:
   - +.hkbn.net
   - +.hkbnes.net
   - +.hkbookcity.com
+  - +.hkbu.hk
   - +.hkchronicles.com
   - +.hkchurch.org
   - +.hkci.org.hk
@@ -12366,6 +12375,7 @@ payload:
   - +.hktpremier.com
   - +.hktshop.com
   - +.hku.hk
+  - +.hkust.hk
   - +.hkusu.net
   - +.hkvwet.com
   - +.hkwcc.org.hk
@@ -15294,6 +15304,7 @@ payload:
   - +.landofhope.tv
   - +.langchain.com
   - +.langsuirs.com
+  - +.languagetool.org
   - +.lanik.us
   - +.lanmdh.net
   - +.lanniser-ylo.shop
@@ -17451,6 +17462,7 @@ payload:
   - +.motiyun.com
   - +.moto.com
   - +.motolia.com
+  - +.motopress.com
   - +.motor4ik.ru
   - +.motorola.ca
   - +.motorola.cl
@@ -17615,6 +17627,7 @@ payload:
   - +.msudalosti.com
   - +.msunlimitedcloudsummit.com
   - +.mswe1.org
+  - +.msys2.org
   - +.mt-ssul1.com
   - +.mt.co.kr
   - +.mt.lv
@@ -19019,6 +19032,7 @@ payload:
   - +.o3team.ru
   - +.o50.jp
   - +.oaistatic.com
+  - +.oaistatsig.com
   - +.oaiusercontent.com
   - +.oanda.com
   - +.oanencore.com
@@ -20385,6 +20399,7 @@ payload:
   - +.polymer-project.org
   - +.polymerhk.com
   - +.polymerproject.org
+  - +.polyu.hk
   - +.ponyanimalsex.com
   - +.poofetish.com
   - +.poolbinance.com
@@ -27775,6 +27790,7 @@ payload:
   - +.wp.com
   - +.wpewebkit.org
   - +.wplace.live
+  - +.wpmailsmtp.com
   - +.wpoforum.com
   - +.wpvip.com
   - +.wqyd.org
@@ -28115,7 +28131,10 @@ payload:
   - +.xn--czq75pvv1aj5c.org
   - +.xn--d1abkf4ap.fun
   - +.xn--d4ty0ojsqzfd.com
+  - +.xn--fiqs8s1bxp3anr7a.hk
+  - +.xn--fiqs8s1byzqyvl.hk
   - +.xn--flw351e.com
+  - +.xn--gdt08a.hk
   - +.xn--ggle-55da.com
   - +.xn--gmq348bujlxrb.com
   - +.xn--gmq92kd2rm1kx34a.com
@@ -28131,10 +28150,16 @@ payload:
   - +.xn--m1abbbgjah.lol
   - +.xn--mts47c3w9b1qr.net
   - +.xn--mtswd61ejxq.com
+  - +.xn--mxtq18a.hk
   - +.xn--ngstr-lra8j.com
   - +.xn--noss43i.com
   - +.xn--oiq.cc
   - +.xn--pearsonenespaol-brb.com
+  - +.xn--pssu7ci2j23mp9ny48b.hk
+  - +.xn--pssu7cv61af1tcs59bnvd.hk
+  - +.xn--pssu7cv61af44b.hk
+  - +.xn--pssu7cv61ahw8aq79bztd.hk
+  - +.xn--pssu7cv61ahwcb1p2yk.hk
   - +.xn--q41am8x.com
   - +.xn--qhrx81fxh2a.xn--55qx5d.hk
   - +.xn--qoq462m.com
@@ -28146,6 +28171,8 @@ payload:
   - +.xn--ubt498knmf.com
   - +.xn--uis17aj9kmuf.com
   - +.xn--urs05q.jp
+  - +.xn--wcv22d.hk
+  - +.xn--wcvs22d1m.hk
   - +.xn--x-qeu1ji09tzlg.biz
   - +.xn--x-qeu1ji09tzlg.net
   - +.xn--xsq421m.com
