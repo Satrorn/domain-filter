@@ -2195,7 +2195,6 @@
 ||apple.lv^
 ||apple.me^
 ||apple.my^
-||apple.net^
 ||apple.net.gr^
 ||apple.news^
 ||apple.nl^
@@ -6019,7 +6018,6 @@
 ||clemesha.org^
 ||click-sec.com^
 ||clickedu.co.uk^
-||clickserver.googleads.com^
 ||clien.net^
 ||client-api.arkoselabs.com^
 ||climate-server.com^
@@ -8509,7 +8507,6 @@
 ||emblstatic.net^
 ||embr.in^
 ||embs.org^
-||emby.vault647.com^
 ||emc.com^
 ||emcs.org^
 ||emergingsolutions.com^
@@ -9193,7 +9190,6 @@
 ||facecbook.org^
 ||facecook.com^
 ||facecook.org^
-||facedbook.com^
 ||faceebok.com^
 ||faceebook.com^
 ||faceebot.com^
@@ -11702,7 +11698,6 @@
 ||gvt6.com^
 ||gvt7.com^
 ||gvt9.com^
-||gw.sky-ip.net^
 ||gw2ru.com^
 ||gwiki.net^
 ||gwins.org^
@@ -15661,7 +15656,6 @@
 ||liveauction.com^
 ||livecamclips.com^
 ||livecoin.net^
-||livednow.com^
 ||livedoor.jp^
 ||livefilestore.com^
 ||livehdcams.com^
@@ -18715,6 +18709,7 @@
 ||noticias-rt.com^
 ||notify.io^
 ||notimundo.press^
+||notion-status.com^
 ||notionusercontent.com^
 ||nottinghampost.com^
 ||novafile.com^
@@ -18992,7 +18987,6 @@
 ||nxta.org^
 ||nxtdig.com.hk^
 ||nxtdig.com.tw^
-||nyaa.eu^
 ||nyaa.net^
 ||nyaa.si^
 ||nyahentai.re^
@@ -23846,7 +23840,6 @@
 ||steampowered.com^
 ||steamserver.net^
 ||steamstatic.com^
-||steamunlocked.net^
 ||steamusercontent.com^
 ||steamygamer.com^
 ||steel-storm.com^
@@ -25973,7 +25966,6 @@
 ||uplinq.com^
 ||upload4u.info^
 ||uploaded.net^
-||uploaded.to^
 ||uploader.jp^
 ||uploadstation.com^
 ||uplus.co.kr^

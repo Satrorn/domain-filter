@@ -336,7 +336,6 @@
 ||adguard.techlike.in^
 ||adguard.tetnet.net^
 ||adguard.theil.dev^
-||adguard.tigrex.net^
 ||adguard.timoz.fr^
 ||adguard.titov.es^
 ||adguard.tmdproject.nl^
@@ -1764,7 +1763,6 @@
 ||dns.stormycloud.org^
 ||dns.streamsmoke.com^
 ||dns.streamvine.app^
-||dns.stresslab.party^
 ||dns.struchkov.dev^
 ||dns.stud.cloud^
 ||dns.suhaila.dev^
@@ -4118,7 +4116,6 @@
 ||servep2p.com^
 ||servepics.com^
 ||servequake.com^
-||server.padil.web.id^
 ||server01.karl.one^
 ||server01.vboekel.nl^
 ||servernux.com^
@@ -4136,7 +4133,6 @@
 ||sg-w-p-1.nashkan.net^
 ||sg.101818.xyz^
 ||sg.rslvr.eu^
-||sg.yepdns.com^
 ||sg1.dnswarden.com^
 ||sg2.ooroot.com^
 ||sgd.559299366.xyz^
@@ -4555,7 +4551,6 @@
 ||vski.172896.xyz^
 ||vsrv15195.customer.xenway.de^
 ||vte01.dnscry.pt^
-||vuivn.site^
 ||vxe6.net^
 ||wakingmoon.com^
 ||wallpap.eu^
@@ -4654,7 +4649,6 @@
 ||ychk.ft1991.top^
 ||ydns.eu^
 ||ydns.io^
-||yeralin.net^
 ||ygto.com^
 ||yh.themcgoughs.org^
 ||yhz01.dnscry.pt^
