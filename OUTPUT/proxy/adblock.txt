@@ -2541,6 +2541,7 @@
 ||asdfg.jp^
 ||asebay.com^
 ||asexdoll.com^
+||asextube.net^
 ||asg.to^
 ||asha.org^
 ||ashemaletube.com^
@@ -11213,6 +11214,7 @@
 ||googil.com^
 ||googl.com^
 ||google-access.net^
+||google-analytics-cn.com^
 ||google-melange.com^
 ||google-syndication.com^
 ||google.ac^
@@ -11457,6 +11459,7 @@
 ||googlemail.com^
 ||googlemaps.com^
 ||googlemashups.com^
+||googleoptimize-cn.com^
 ||googlepagecreator.com^
 ||googlephotos.com^
 ||googleplay.com^
@@ -24327,6 +24330,7 @@
 ||taptap.tw^
 ||taptotokyo.com^
 ||taqunuhai.vip^
+||taradinhos.com^
 ||taragana.com^
 ||tarantool.io^
 ||tarantoolplus.ru^
