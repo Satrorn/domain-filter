@@ -2172,7 +2172,6 @@ payload:
   - +.apple.com.tr
   - +.apple.com.tw
   - +.apple.com.uy
-  - +.apple.comscoreresearch.com
   - +.apple.cz
   - +.apple.de
   - +.apple.dk
@@ -7714,6 +7713,7 @@ payload:
   - +.dot-mac.de
   - +.dot.net
   - +.dot.sb
+  - +.dota2.com
   - +.dotcernpilot.info
   - +.dotdeb.org
   - +.dotfacebook.com
@@ -11235,6 +11235,7 @@ payload:
   - +.googil.com
   - +.googl.com
   - +.google-access.net
+  - +.google-analytics-cn.com
   - +.google-melange.com
   - +.google-syndication.com
   - +.google.ac
@@ -11479,6 +11480,7 @@ payload:
   - +.googlemail.com
   - +.googlemaps.com
   - +.googlemashups.com
+  - +.googleoptimize-cn.com
   - +.googlepagecreator.com
   - +.googlephotos.com
   - +.googleplay.com
@@ -15688,6 +15690,8 @@ payload:
   - +.livehdcams.com
   - +.livejasmin.com
   - +.livejasminbabes.net
+  - +.livejournal.com
+  - +.livejournal.net
   - +.liveleak.com
   - +.livemint.com
   - +.livemodels.co
@@ -19182,6 +19186,7 @@ payload:
   - +.okx-dns.com
   - +.okx-dns1.com
   - +.okx-dns2.com
+  - +.okx.ac
   - +.okx.cab
   - +.okx.com
   - +.olabloga.pl
@@ -26136,6 +26141,7 @@ payload:
   - +.v-av.com
   - +.v-has.com
   - +.v.gd
+  - +.v.ps
   - +.v.roucdn
   - +.v2.help
   - +.v2.hysteria.network
@@ -26168,6 +26174,7 @@ payload:
   - +.value-domain.com
   - +.value-server.com
   - +.valuegb.com
+  - +.valve.net
   - +.valvesoftware.com
   - +.vamo.com
   - +.vamzakaz.ru
@@ -27098,6 +27105,7 @@ payload:
   - +.vpornvideos.com
   - +.vpro.com
   - +.vpro.net
+  - +.vps.hosting
   - +.vpser.net
   - +.vpsxb.net
   - +.vraiesagesse.net
@@ -28301,6 +28309,16 @@ payload:
   - +.xtapes.to
   - +.xtegvk.xyz
   - +.xteko.com
+  - +.xtom.au
+  - +.xtom.com
+  - +.xtom.de
+  - +.xtom.ee
+  - +.xtom.hk
+  - +.xtom.jp
+  - +.xtom.nl
+  - +.xtom.sg
+  - +.xtom.social
+  - +.xtom.us
   - +.xtracloud.cn
   - +.xtracloud.net
   - +.xtube.com

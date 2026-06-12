@@ -477,6 +477,7 @@
 ||ahcek.com^
 ||ahoj.email^
 ||aicx99.shop^
+||aihe.app^
 ||aintno.info^
 ||airdns.org^
 ||airlinemeals.net^
@@ -587,11 +588,13 @@
 ||au.rslvr.eu^
 ||auberge78.site^
 ||auraria.org^
+||australia.ai^
 ||authorizeddns.net^
 ||authorizeddns.org^
 ||authorizeddns.us^
 ||autoipset.com^
 ||avandns.com^
+||awiki.org^
 ||ax.lt^
 ||axistechsupport.com^
 ||ayman-dns.731my.com^
@@ -683,6 +686,7 @@
 ||bom02.dnscry.pt^
 ||borisov.page^
 ||bot.nu^
+||botclassic.com^
 ||bounceme.net^
 ||bouncers4rent.com^
 ||boxathome.net^
@@ -744,6 +748,7 @@
 ||changeip.co^
 ||changeip.co.uk^
 ||changeip.com^
+||changeip.me^
 ||changeip.name^
 ||changeip.net^
 ||changeip.org^
@@ -812,6 +817,7 @@
 ||cloudxns.net^
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
+||cmirg.com^
 ||cn-dns.hashtable.io^
 ||cnstefancelmare.ro^
 ||coalnet.ru^
@@ -912,6 +918,7 @@
 ||ddns.net^
 ||ddns.us^
 ||ddns5.com^
+||ddnsapp.com^
 ||ddnsfree.com^
 ||ddnsgeek.com^
 ||ddnsguru.com^
