@@ -753,7 +753,6 @@ payload:
   - +.abema-tv.com
   - +.abema.io
   - +.abema.tv
-  - +.abematv.akamaized.net
   - +.abematv.co.jp
   - +.abgsp1.buzz
   - +.abigass.com
@@ -983,6 +982,7 @@ payload:
   - +.adobe-aemassets-value.com
   - +.adobe-audience-finder.com
   - +.adobe-video-partner-finder.com
+  - +.adobe.com
   - +.adobe.io
   - +.adobe.ly
   - +.adobeaemcloud.com
@@ -1393,6 +1393,7 @@ payload:
   - +.akamaietpphishingtest.com
   - +.akamaihd-staging.net
   - +.akamaihd.com
+  - +.akamaihd.net
   - +.akamaimagicmath.net
   - +.akamainewzealand.com
   - +.akamaiphillipines.com
@@ -1404,6 +1405,7 @@ payload:
   - +.akamaitechnologies.com
   - +.akamaitechnologies.net
   - +.akamaized-staging.net
+  - +.akamaized.net
   - +.akamaizercentral.com
   - +.akamak.com
   - +.akamam.com
@@ -2490,6 +2492,7 @@ payload:
   - +.arewereadyyet.com
   - +.areyoucreditwise.com
   - +.argo-bdp.com
+  - +.argotunnel.com
   - +.aria.ms
   - +.arirangmeari.com
   - +.ark.to
@@ -2954,7 +2957,6 @@ payload:
   - +.avn.com
   - +.avnana5.com
   - +.avnight-shipin.com
-  - +.avodmp4s3ww-a.akamaihd.net
   - +.avoision.com
   - +.avpanda.cc
   - +.avple.tv
@@ -3195,6 +3197,7 @@ payload:
   - +.bangkokpost.com
   - +.bangkokstreetwhores.com
   - +.bangumi.moe
+  - +.bangumi.tv
   - +.bangyoulater.com
   - +.bangyourwife.com
   - +.bank-arzamas.ru
@@ -3315,12 +3318,10 @@ payload:
   - +.bcicdn.com
   - +.bcmorning.com
   - +.bcove.video
-  - +.bcovlive-a.akamaihd.net
   - +.bcovlive.io
   - +.bcrncdn.com
   - +.bcs-bank.ru
   - +.bcs.ru
-  - +.bcsecure01-a.akamaihd.net
   - +.bcvcdn.com
   - +.bcvp0rtal.com
   - +.bcy01.com
@@ -3787,6 +3788,7 @@ payload:
   - +.bfnn.org
   - +.bfsh.hk
   - +.bgicdn.com
+  - +.bgm.tv
   - +.bgme.me
   - +.bgov.com
   - +.bgr.in
@@ -4978,6 +4980,7 @@ payload:
   - +.bumptop.org
   - +.bumptunes.com
   - +.bunbunhk.com
+  - +.bunny.net
   - +.bunnycdn.com
   - +.bunnylust.com
   - +.burningcamel.com
@@ -5736,6 +5739,7 @@ payload:
   - +.chickteases.com
   - +.chid.com.mm
   - +.chihair-straightener.com
+  - +.chii.in
   - +.chikiporn.com
   - +.chikubank.co.jp
   - +.chillingo.com
@@ -5920,7 +5924,6 @@ payload:
   - +.ciscolearningsociety.org
   - +.ciscolearningsystem.com
   - +.ciscolive.com
-  - +.ciscolivehls-i.akamaihd.net
   - +.cisconetapp.com
   - +.cisconetspace.com
   - +.cisconetspace.info
@@ -6987,6 +6990,7 @@ payload:
   - +.dell.co.uk
   - +.dell.co.vi
   - +.dell.co.za
+  - +.dell.com
   - +.dell.com.ag
   - +.dell.com.ai
   - +.dell.com.ar
@@ -9466,7 +9470,6 @@ payload:
   - +.fbaddins.com
   - +.fbbmarket.com
   - +.fbboostyourbusiness.com
-  - +.fbcdn-a.akamaihd.net
   - +.fbcdn.com
   - +.fbcdn.net
   - +.fbf8.com
@@ -11235,7 +11238,6 @@ payload:
   - +.googil.com
   - +.googl.com
   - +.google-access.net
-  - +.google-analytics-cn.com
   - +.google-melange.com
   - +.google-syndication.com
   - +.google.ac
@@ -11480,7 +11482,6 @@ payload:
   - +.googlemail.com
   - +.googlemaps.com
   - +.googlemashups.com
-  - +.googleoptimize-cn.com
   - +.googlepagecreator.com
   - +.googlephotos.com
   - +.googleplay.com
@@ -12785,6 +12786,7 @@ payload:
   - +.hsbc.com.br
   - +.hsbc.com.cn
   - +.hsbc.com.eg
+  - +.hsbc.com.hk
   - +.hsbc.com.mo
   - +.hsbc.com.mt
   - +.hsbc.com.mx
@@ -14769,6 +14771,8 @@ payload:
   - +.jsati.com
   - +.jsatmobile.com
   - +.jsbridgestone.com
+  - +.jsdelivr.com
+  - +.jsdelivr.net
   - +.jshell.net
   - +.jshint.com
   - +.jsquaredjavascript.com
@@ -14938,6 +14942,7 @@ payload:
   - +.kaspersky.co.th
   - +.kaspersky.co.uk
   - +.kaspersky.co.za
+  - +.kaspersky.com
   - +.kaspersky.com.au
   - +.kaspersky.com.br
   - +.kaspersky.com.hk
@@ -15350,7 +15355,6 @@ payload:
   - +.lasersawapp.com
   - +.last.fm
   - +.lastcombat.com
-  - +.lastfm-img2.akamaized.net
   - +.lastfm.cn
   - +.lastfm.de
   - +.lastfm.es
@@ -15591,7 +15595,6 @@ payload:
   - +.line-scdn.net
   - +.line.biz
   - +.line.me
-  - +.linear-abematv.akamaized.net
   - +.linearcollider.org
   - +.linecorp.com
   - +.linefriends.com
@@ -15696,6 +15699,7 @@ payload:
   - +.livemint.com
   - +.livemodels.co
   - +.liveperson.com
+  - +.liveperson.net
   - +.livephotos.tv
   - +.liveporngirls.com
   - +.liverail.tv
@@ -17620,7 +17624,9 @@ payload:
   - +.msft.net
   - +.msftauth.net
   - +.msftauthimages.net
+  - +.msftconnecttest.com
   - +.msfteducation.ca
+  - +.msftncsi.com
   - +.msftnet.org
   - +.msgamesresearch.com
   - +.msgamestudios.com
@@ -17830,7 +17836,6 @@ payload:
   - +.myebay.com
   - +.myeclipseide.com
   - +.myenvy.ru
-  - +.myfappening.org
   - +.myfavoritearcade.com
   - +.myfbfans.com
   - +.myferrariheadphones.com
@@ -18796,6 +18801,7 @@ payload:
   - +.nsfw247.to
   - +.nsfwmemes.com
   - +.nsimg.net
+  - +.nspk.ru
   - +.nssurge.com
   - +.ntc.party
   - +.ntd.com
@@ -20433,6 +20439,7 @@ payload:
   - +.polyu.hk
   - +.ponyanimalsex.com
   - +.poofetish.com
+  - +.pool.ntp.org
   - +.poolbinance.com
   - +.poolin.com
   - +.poop-pee.online
@@ -20858,6 +20865,7 @@ payload:
   - +.powerpointninja.com
   - +.powershape-e.com
   - +.powershape.com
+  - +.powershellgallery.com
   - +.powersrv.de
   - +.powersunitedvr.com
   - +.pp-soc.com
@@ -23017,7 +23025,6 @@ payload:
   - +.simgbb.com
   - +.simianx.ai
   - +.similar-porn.fun
-  - +.simility.com
   - +.simonsgirls.com
   - +.simp.ly
   - +.simpcity.su
@@ -24298,6 +24305,7 @@ payload:
   - +.tail-f.com
   - +.tailf.com
   - +.tails.net
+  - +.tailscale.com
   - +.tailscale.io
   - +.tailwindtraders.com
   - +.taiolongdh.sbs
@@ -26865,7 +26873,6 @@ payload:
   - +.vocativ.com
   - +.vocn.tv
   - +.vocus.cc
-  - +.vod-abematv.akamaized.net
   - +.vod360.net
   - +.vodafone.co.uk
   - +.vodafone.com
@@ -27162,6 +27169,7 @@ payload:
   - +.vultr.com
   - +.vultryhw.com
   - +.vuvuzela.io
+  - +.vv1865.com
   - +.vxnbbrs.xyz
   - +.vxxsred.xyz
   - +.vyprvpn.com
