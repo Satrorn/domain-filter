@@ -3232,6 +3232,7 @@
 ||barss1207.pro^
 ||barton.de^
 ||bartvpn.com^
+||base.org^
 ||baselinestudy.com^
 ||baselinestudy.org^
 ||bash-hackers.org^
@@ -3983,6 +3984,7 @@
 ||bitget.com^
 ||bithumb.com^
 ||bitinka.com.ar^
+||bitlayer.org^
 ||bitly.com^
 ||bitly.is^
 ||bitmex.com^
@@ -4035,6 +4037,7 @@
 ||blackvpn.com^
 ||blackwell-synergy.com^
 ||blaoshi.cc^
+||blast.io^
 ||blazor.net^
 ||bleepingcomputer.com^
 ||blender.org^
@@ -4617,11 +4620,14 @@
 ||bmwusfactory.com^
 ||bmwusrideracademy.com^
 ||bmwvalueservice.com^
+||bmwweb.solutions^
 ||bmwwholesaleconnect.com^
 ||bmwworld.com^
 ||bmwworld.net^
 ||bmwworld.tv^
 ||bmwzentrum.com^
+||bnappweb.black^
+||bnbchain.org^
 ||bnbstatic.com^
 ||bnef.com^
 ||bnews.co^
@@ -4906,6 +4912,7 @@
 ||brutaltgp.com^
 ||bs-adreview.com^
 ||bs-awh.ne.jp^
+||bsappapi.cc^
 ||bsappapi.com^
 ||bsdforen.de^
 ||bsdguru.org^
@@ -5607,6 +5614,7 @@
 ||cgkate.jinvod.com^
 ||cgst.edu^
 ||ch9.ms^
+||chainid.network^
 ||championshipseriesleague.com^
 ||change.org^
 ||changeip.name^
@@ -6389,6 +6397,7 @@
 ||cordcloud.org^
 ||cordcloud.pro^
 ||cordcloud.site^
+||coredao.org^
 ||coreduo.com^
 ||coreextreme.com^
 ||corel.com^
@@ -7873,6 +7882,7 @@
 ||droplinegnome.org^
 ||droplr.com^
 ||dropmocks.com^
+||drpc.org^
 ||drsunacademy.com^
 ||drtuber.com^
 ||drunk6.com^
@@ -9368,6 +9378,8 @@
 ||fantasiasguatemala.com^
 ||fantasti.cc^
 ||fantasticyoungporn.com^
+||fantom.foundation^
+||fantom.network^
 ||fantv.hk^
 ||fanyue.info^
 ||fap-xxx.com^
@@ -9613,6 +9625,7 @@
 ||fi11.cn^
 ||fi11av1.com^
 ||fi11tv1.com^
+||fiat24.com^
 ||fibank.bg^
 ||fic.fan^
 ||ficador.com^
@@ -9790,6 +9803,7 @@
 ||flagrasamadores.net^
 ||flagsonline.it^
 ||flameunleashed.com^
+||flare.network^
 ||flaru.com^
 ||flash-xxx.com^
 ||flashtranny.com^
@@ -14157,6 +14171,7 @@
 ||is-a-hunter.com^
 ||is.gd^
 ||isaacmao.com^
+||isafepal.com^
 ||isasecret.com^
 ||isbgpsafeyet.com^
 ||isca-speech.org^
@@ -16553,6 +16568,7 @@
 ||mega.io^
 ||mega.nz^
 ||megacamz.com^
+||megaeth.com^
 ||megafilmporno.com^
 ||megafon.com^
 ||megafon.ru^
@@ -16622,6 +16638,7 @@
 ||meripet.biz^
 ||meripet.com^
 ||merit-times.com.tw^
+||merkl.xyz^
 ||merlinblog.xyz^
 ||meshmixer.com^
 ||meshmixerforum.com^
@@ -16663,6 +16680,7 @@
 ||metrotoons.com^
 ||meuhentai.com^
 ||mewe.com^
+||mexc.co^
 ||mexc.com^
 ||mexcsensors.com^
 ||meyou.jp^
@@ -18444,6 +18462,7 @@
 ||nianticlabs.com^
 ||nic.gov^
 ||nic.ibm^
+||nic.ru^
 ||nic.yandex^
 ||niceanimegames.com^
 ||nicegram.app^
@@ -18453,6 +18472,7 @@
 ||nicesshop.net^
 ||nichepornsite.com^
 ||nichepornsites.com^
+||nichost.ru^
 ||nickscipio.com^
 ||nicky.xxx^
 ||nicodic.jp^
@@ -18720,6 +18740,7 @@
 ||nodeimage.com^
 ||nodejs.org^
 ||nodequality.com^
+||nodereal.io^
 ||nodeseek.com^
 ||nodesnoop.com^
 ||nodesource.com^
@@ -19079,6 +19100,7 @@
 ||oanda.com^
 ||oanencore.com^
 ||oann.com^
+||oasis.io^
 ||oasisfeng.com^
 ||oath.cloud^
 ||oath.com^
@@ -19290,6 +19312,7 @@
 ||onetrust.com^
 ||onevps.com^
 ||oneworldmanystories.com^
+||onfinality.io^
 ||onindiansex.com^
 ||oninstagram.com^
 ||onionshare.org^
@@ -21363,6 +21386,7 @@
 ||r-pool.net^
 ||r-project.org^
 ||r0.ru^
+||r01.ru^
 ||r10.to^
 ||r10s.com^
 ||r10s.jp^
@@ -21685,6 +21709,9 @@
 ||referer.us^
 ||reflectivecode.com^
 ||reform-apple.com^
+||reg.cloud^
+||reg.com^
+||reg.ru^
 ||regex101.com^
 ||regiongold.com^
 ||registerhulu.com^
@@ -21957,6 +21984,7 @@
 ||rsg.sc^
 ||rsgamen.org^
 ||rshb.ru^
+||rsk.co^
 ||rspao.com^
 ||rss.4040940.xyz^
 ||rss.datuan.dev^
@@ -22147,6 +22175,7 @@
 ||saasexch.cc^
 ||saasexch.co^
 ||saasexch.com^
+||saasexch.info^
 ||saasexch.io^
 ||saboom.com^
 ||sabuibo.net^
@@ -22162,6 +22191,7 @@
 ||safechat.com^
 ||safeguarddefenders.com^
 ||safeliner.tech^
+||safepal.com^
 ||safervpn.com^
 ||saffrontech.com^
 ||sagabank.co.jp^
@@ -23376,6 +23406,7 @@
 ||solid.ru^
 ||solidaritetibet.org^
 ||solidfiles.com^
+||solidifi.app^
 ||solostudioksale.com^
 ||solscan.io^
 ||solutionstation.com^
@@ -23885,6 +23916,7 @@
 ||steam.ru.qtlglb.com^
 ||steam.tv^
 ||steamcommunity.com^
+||steamconnecttest.com^
 ||steamcontent.com^
 ||steamdb.info^
 ||steamdeck.com^
@@ -24165,6 +24197,7 @@
 ||swapspace.co^
 ||sway-cdn.com^
 ||sway.com^
+||sweb.ru^
 ||sweetadult-tube.com^
 ||sweetandmaxwell.co.uk^
 ||sweetmlif.net^
@@ -24309,6 +24342,7 @@
 ||tagxedo.com^
 ||tahr.org.tw^
 ||taiav.com^
+||taiko.xyz^
 ||tail-f.com^
 ||tailf.com^
 ||tails.net^
@@ -24853,6 +24887,7 @@
 ||thinkwithgoogle.com^
 ||thirdmill.org^
 ||thirdns.de^
+||thirdweb.com^
 ||thisav.com^
 ||thisav.org^
 ||thisisgame.com^
@@ -28129,6 +28164,7 @@
 ||xkontakt18.com^
 ||xkorean.cam^
 ||xl-gaytube.com^
+||xlayer.tech^
 ||xlecx.org^
 ||xlfmtalk.com^
 ||xlfmwz.info^

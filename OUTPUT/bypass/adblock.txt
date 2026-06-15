@@ -3841,6 +3841,7 @@
 ||phl01.dnscry.pt^
 ||phonedns.dr3ff1c13nt.com^
 ||phongg.vn^
+||photo-cult.com^
 ||photo-frame.com^
 ||php-dev.net^
 ||phx01.dnscry.pt^
@@ -3886,6 +3887,7 @@
 ||port25.biz^
 ||portfwd.com^
 ||portmap.host^
+||portrelay.com^
 ||positif4.cross.net.id^
 ||possessed.us^
 ||prdot.cldsrv.es^
@@ -3923,6 +3925,7 @@
 ||publicdnsserver.com^
 ||publicvm.com^
 ||pudim.info^
+||punked.us^
 ||puredns.org^
 ||purpose.shamanlanding.org^
 ||pygos.space^
@@ -3944,6 +3947,7 @@
 ||quantumpulse.dev^
 ||query.hdns.io^
 ||query.mobyds.com^
+||quic.lol^
 ||quicksytes.com^
 ||r-o-o-t.net^
 ||r1bnc.com^
@@ -4002,11 +4006,13 @@
 ||resolver1-fs.opendns.com^
 ||resolver1.absolight.net^
 ||resolver1.amlegion.org^
+||resolver1.dyndnsinternetguide.com^
 ||resolver1.hosting-cloud.net^
 ||resolver1.ipv6-sandbox.opendns.com^
 ||resolver1.opendns.com^
 ||resolver2-fs.opendns.com^
 ||resolver2.absolight.net^
+||resolver2.dyndnsinternetguide.com^
 ||resolver2.hosting-cloud.net^
 ||resolver2.ipv6-sandbox.opendns.com^
 ||resolver2.opendns.com^
@@ -4043,6 +4049,7 @@
 ||roth.ca^
 ||route.netshi.cn^
 ||route64.de^
+||routemehome.com^
 ||router.ahzol.com^
 ||router.sapib.ca^
 ||roxa.org^
@@ -4315,6 +4322,7 @@
 ||synology-diskstation.de^
 ||synology-ds.de^
 ||synoserver.com^
+||syntereo.com^
 ||syre.pp.ua^
 ||sysadminetworks.com^
 ||system-ns.com^
@@ -4390,6 +4398,7 @@
 ||tlv01.dnscry.pt^
 ||tlz.asia^
 ||toaster.lol^
+||tobuy.us^
 ||toh.info^
 ||tokyo.559299366.xyz^
 ||topdns.com^
@@ -4533,6 +4542,7 @@
 ||vernikpro.ru^
 ||verymad.net^
 ||viamisoftware.com^
+||vicinanza.org^
 ||vicp.cc^
 ||vicp.net^
 ||vie01.dnscry.pt^
