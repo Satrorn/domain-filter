@@ -4606,6 +4606,7 @@
 ||wandana.franklinfamily.au^
 ||wanip.ch^
 ||wantaquddin.com^
+||warp9computers.com^
 ||waw01.dnscry.pt^
 ||waw02.dnscry.pt^
 ||waydnes.ru^
@@ -4659,6 +4660,7 @@
 ||www.vpn.stroialliance.com^
 ||www1.biz^
 ||wwwhost.biz^
+||wwwhost.us^
 ||wyx.cloud^
 ||x.laoban.fun^
 ||x.ns1net.com^
@@ -4697,6 +4699,7 @@
 ||ychk.ft1991.top^
 ||ydns.eu^
 ||ydns.io^
+||yeralin.net^
 ||ygto.com^
 ||yh.themcgoughs.org^
 ||yhz01.dnscry.pt^
