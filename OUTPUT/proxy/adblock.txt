@@ -5541,6 +5541,7 @@
 ||celebgramme.com^
 ||celebmasta.live^
 ||celebritygay.com^
+||celebritymoviearchive.com^
 ||celebritynakeds.com^
 ||celebrityslips.com^
 ||celebritystorysite.com^
@@ -6025,6 +6026,7 @@
 ||clemesha.org^
 ||click-sec.com^
 ||clickedu.co.uk^
+||clickserver.googleads.com^
 ||clien.net^
 ||client-api.arkoselabs.com^
 ||climate-server.com^
@@ -10128,6 +10130,7 @@
 ||fpmt.org^
 ||fpmt.tw^
 ||fpmtmexico.org^
+||fpo.xxx^
 ||fptolia.com^
 ||fqcebook.com^
 ||fqok.org^
@@ -10294,6 +10297,8 @@
 ||freeweibo.com^
 ||freewww.biz^
 ||freewww.info^
+||freexh.blog^
+||freexh.live^
 ||freexinwen.com^
 ||freexvideos.org^
 ||freexxx.best^
@@ -20176,6 +20181,7 @@
 ||pikpak.io^
 ||pillbeatsblackfridaysale.com^
 ||pimg.tw^
+||pimpbunny.com^
 ||pin-cong.com^
 ||pin.it^
 ||pin6.com^
@@ -20887,6 +20893,7 @@
 ||powershellgallery.com^
 ||powersrv.de^
 ||powersunitedvr.com^
+||powfans.com^
 ||pp-soc.com^
 ||pp.ru^
 ||pp.ua^
@@ -22547,6 +22554,7 @@
 ||seqingx.com^
 ||sequence.com^
 ||ser7.cc^
+||serakon.com^
 ||seraph.me^
 ||serbiporno.net^
 ||serialssolutions.com^
@@ -27184,6 +27192,7 @@
 ||vscode-unpkg.net^
 ||vscode.dev^
 ||vsemrabota.ru^
+||vsex.in^
 ||vsezoo.com^
 ||vsmarketplacebadge.apphb.com^
 ||vsphere.com^
@@ -28088,6 +28097,7 @@
 ||xhamster2.com^
 ||xhamster3.com^
 ||xhamsterlive.com^
+||xhapp.live^
 ||xhcdn.com^
 ||xhnews.live^
 ||xhot.pro^
