@@ -2091,6 +2091,7 @@
 ||appbridge.it^
 ||appcenter.ms^
 ||appcloud.com^
+||appconsent.io^
 ||appdomain.cloud^
 ||appdownloader.net^
 ||appdynamics.co.uk^
@@ -3034,6 +3035,7 @@
 ||awwcn.xyz^
 ||awxcdn.com^
 ||axbdoll.com.tw^
+||axept.io^
 ||axios.com^
 ||axureformac.com^
 ||ayabank.com^
@@ -5503,6 +5505,7 @@
 ||cdkworkshop.com^
 ||cdmatech.com^
 ||cdn-apple.com^
+||cdn-cookieyes.com^
 ||cdn-telegram.org^
 ||cdn-terapeak.com^
 ||cdn-tinkoff.ru^
@@ -6345,6 +6348,7 @@
 ||conquerwithcharacter.com^
 ||conscrypt.com^
 ||conscrypt.org^
+||consentmanager.net^
 ||consentpro.com^
 ||constitutionalism.solutions^
 ||constructware.com^
@@ -6360,9 +6364,11 @@
 ||convrgencegame.com^
 ||coobay.com^
 ||cooer.su^
+||cookiebot.com^
 ||cookiechoices.org^
 ||cookielaw.org^
 ||cookiepro.com^
+||cookieyes.com^
 ||cool-comics.com^
 ||cool18.com^
 ||cool3c.com^
@@ -8975,7 +8981,6 @@
 ||extreme-board.com^
 ||extremepornfilms.com^
 ||extremetube.com^
-||exx.com^
 ||exxxtra.net^
 ||exxxtrasmall.com^
 ||exxxtrasmall1.com^
@@ -24604,6 +24609,7 @@
 ||teraperk.com^
 ||terk.nl^
 ||termius.com^
+||termly.io^
 ||termux.com^
 ||termux.dev^
 ||termux.org^
@@ -25408,6 +25414,7 @@
 ||trulyergonomic.com^
 ||trunest.com^
 ||trust-provider.com^
+||trustarc.com^
 ||trustasiassl.com^
 ||trustcor.ca^
 ||trustcor.com^
