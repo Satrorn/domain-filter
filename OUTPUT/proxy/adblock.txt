@@ -2044,19 +2044,15 @@
 ||apexlegends.com^
 ||apexprint.com.hk^
 ||api-extractor.com^
-||api-gl.lbkrs.com^
 ||api-p.videomarket.jp^
 ||api-secure.recaptcha.net^
 ||api-verify.recaptcha.net^
 ||api.ai^
-||api.futunn.com^
-||api.lbkrs.com^
 ||api.moomoobull.com^
 ||api.nebula-emby.com^
 ||api.news^
 ||api.recaptcha.net^
 ||api.waqi.info^
-||api5.futunn.com^
 ||apiary.io^
 ||apibay.org^
 ||apigee.com^
@@ -3883,6 +3879,7 @@
 ||bilibili230.com^
 ||bilibili301.xyz^
 ||bilibili306.xyz^
+||bilinovel.com^
 ||biliworld.com^
 ||bill-safe.com^
 ||billmelater.com^
@@ -5526,7 +5523,6 @@
 ||cdn-tinkoff.ru^
 ||cdn-vk.net^
 ||cdn-vk.ru^
-||cdn.futustatic.com^
 ||cdn77.com^
 ||cdn77.org^
 ||cdnblackmyth.club^
@@ -7787,7 +7783,6 @@
 ||downforeveryoneorjustme.com^
 ||download.com^
 ||download.dappcdn.com^
-||download.futunn.com^
 ||download.qatp1.net^
 ||download.qcpp1.net^
 ||download.qpdp1.net^
@@ -10506,19 +10501,26 @@
 ||futu2.com^
 ||futu3.com^
 ||futu4.com^
+||futu5.com^
 ||futu6.com^
 ||futu7.com^
 ||futu8.com^
 ||futu9.com^
+||futuau.com^
 ||futubull.cn^
 ||futuchain.com^
+||futuesop.com^
+||futufin.com^
 ||futuhk.com^
 ||futuhk1.com^
 ||futuhk2.com^
 ||futuhkapp.com^
+||futuhn.com^
 ||futuholdings.com^
 ||futuinc.com^
 ||futunited.com^
+||futuniuniu.com^
+||futunn.com^
 ||futuoa.com^
 ||future-cs.ru^
 ||futurechinaforum.org^
@@ -10528,6 +10530,9 @@
 ||futureofmaktingthings.com^
 ||futureshop.ca^
 ||futusg.com^
+||futustatic.com^
+||fututrade.com^
+||fututrustee.com^
 ||fux.com^
 ||fuxporn.com^
 ||fuyin.net^
@@ -11219,9 +11224,12 @@
 ||gofucker.com^
 ||gofuckmenow.com^
 ||gofundme.com^
+||gog-cdn-lumen.secure2.footprint.net^
+||gog-services.com^
 ||gog-statics.com^
 ||gog.com^
 ||gog.qtlglb.com^
+||gogalaxy.com^
 ||gogettaxi.org^
 ||gogle.com^
 ||gogo-load.com^
@@ -14272,6 +14280,7 @@
 ||ithaisex.com^
 ||ithome.com.tw^
 ||itiger.com^
+||itigerup.com^
 ||itirex.ru^
 ||itisatrap.org^
 ||itmedia.co.jp^
@@ -15397,6 +15406,7 @@
 ||laod.cn^
 ||laogai.org^
 ||laogairesearch.org^
+||laohu8.com^
 ||laomiu.com^
 ||laosijifuli9009.top^
 ||laowang.vip^
@@ -15447,7 +15457,9 @@
 ||laxd.com^
 ||lazymike.com^
 ||lbank.info^
+||lbctrl.com^
 ||lbfmaddiction.com^
+||lbkrs.com^
 ||lbtube.com^
 ||lcgirls.com^
 ||lcsmerch.com^
@@ -15875,6 +15887,8 @@
 ||longbridge.global^
 ||longbridge.hk^
 ||longbridge.sg^
+||longbridgeapp.com^
+||longbridgehk.com^
 ||longhair.hk^
 ||longmabook.com^
 ||longmabookcn.com^
@@ -17512,6 +17526,8 @@
 ||moodstocks.com^
 ||moodyz.com^
 ||moomoo.com^
+||moomooequity.com^
+||moomootrustee.com^
 ||moon.fm^
 ||moonbbs.com^
 ||moonbbs.info^
@@ -19355,8 +19371,6 @@
 ||onfinality.io^
 ||onindiansex.com^
 ||oninstagram.com^
-||onion.city^
-||onion.ly^
 ||onionshare.org^
 ||onkakao.net^
 ||online-deals.net^
@@ -19425,7 +19439,6 @@
 ||openai.com^
 ||openallweb.com^
 ||openamt.com^
-||openapi.futunn.com^
 ||openapiplatform.com^
 ||openapiservice.com^
 ||openart.ai^
@@ -21334,8 +21347,6 @@
 ||qstatus.com^
 ||qt-project.org^
 ||qt.io^
-||qtcard.futunn.com^
-||qtcardfthk.futufin.com^
 ||qtrac.eu^
 ||qtweeter.com^
 ||qualcomm-email.com^
@@ -24194,7 +24205,6 @@
 ||suppig.net^
 ||supplybestjerseys.com^
 ||support-uber.com^
-||support.futunn.com^
 ||supportfacebook.com^
 ||supr.cl^
 ||supremacy.com^
@@ -25107,7 +25117,11 @@
 ||tiffany-towers.com^
 ||tig-ol-bitties.live^
 ||tigerbbs.cn^
+||tigerbbs.com^
+||tigerbrokers.com^
+||tigerbrokers.net^
 ||tigerbrokers.nz^
+||tigerfintech.com^
 ||tigervpn.com^
 ||tik-tokapi.com^
 ||tiktok-minis.com^
@@ -25376,7 +25390,6 @@
 ||tracker.gg^
 ||tracker.network^
 ||tracking-location.com^
-||trade.futunn.com^
 ||tradeup.com^
 ||tradevip1.com^
 ||tradingview.com^
@@ -27426,6 +27439,7 @@
 ||wbpay.ru^
 ||wbr.by^
 ||wbrep.ru^
+||wbrks.com^
 ||wbstatic.net^
 ||wbstatic.ru^
 ||wbtek.ru^
@@ -28181,6 +28195,7 @@
 ||xiaogegelive.cn^
 ||xiaogirls.com^
 ||xiaohexie.com^
+||xiaohu8.com^
 ||xiaolan.me^
 ||xiaoma.org^
 ||xiaomi.eu^
@@ -29465,6 +29480,7 @@
 ||zhenlibu1984.com^
 ||zhenxiang.biz^
 ||zhijianfengyi.cn^
+||zhijianfengyi.com^
 ||zhimeishe888.com^
 ||zhinengluyou.com^
 ||zhizhu.top^
