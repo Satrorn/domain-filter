@@ -1560,6 +1560,7 @@
 ||allspyclips.com^
 ||allswingersclubs.org^
 ||allthefallen.moe^
+||almalinux.org^
 ||almasdarnews.com^
 ||alohatube.com^
 ||alotporn.com^
@@ -5050,6 +5051,7 @@
 ||bustyoldsluts.com^
 ||bustysammieblack.com^
 ||busu.org^
+||busybox.net^
 ||busytrade.com^
 ||buugaa.com^
 ||buy-from-shanghai.com^
@@ -6041,6 +6043,7 @@
 ||clemesha.org^
 ||click-sec.com^
 ||clickedu.co.uk^
+||clickserver.googleads.com^
 ||clien.net^
 ||client-api.arkoselabs.com^
 ||climate-server.com^
@@ -8963,6 +8966,7 @@
 ||exoav.com^
 ||exotic-ghana.com^
 ||exoticuganda.com^
+||exp-tas.com^
 ||expatshield.com^
 ||expecthim.com^
 ||experience-vmware.com^
@@ -11045,6 +11049,7 @@
 ||github-api.arkoselabs.com^
 ||github.ai^
 ||github.blog^
+||github.career^
 ||github.com^
 ||github.community^
 ||github.dev^
@@ -15619,6 +15624,7 @@
 ||liebelib.porn^
 ||life-global.org^
 ||life.coocan.jp^
+||lifeatspotify.com^
 ||lifemiles.com^
 ||lifeselector.com^
 ||lifestyle-tec.ru^
@@ -23726,6 +23732,7 @@
 ||spotifycharts.com^
 ||spotifycodes.com^
 ||spotifyforbrands.com^
+||spotifyforvendors.com^
 ||spotifyjobs.com^
 ||spraynwash.com^
 ||spreadporn.org^
@@ -27263,7 +27270,10 @@
 ||vsco.co^
 ||vscode-cdn.net^
 ||vscode-unpkg.net^
+||vscode-webview.net^
 ||vscode.dev^
+||vscodeedu.app^
+||vscodeedu.com^
 ||vsemrabota.ru^
 ||vsex.in^
 ||vsezoo.com^
