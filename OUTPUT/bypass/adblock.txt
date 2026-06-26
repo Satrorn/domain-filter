@@ -858,6 +858,7 @@
 ||cryptostorm.is^
 ||cryptroute.com^
 ||csproject.org^
+||ct1doh.cipherdns.co.za^
 ||cube.neubsi.at^
 ||cubedns.com^
 ||cuesinc.com^
