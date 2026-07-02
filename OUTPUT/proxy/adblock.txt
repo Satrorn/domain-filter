@@ -4045,6 +4045,7 @@
 ||blacktowhite.net^
 ||blackvpn.com^
 ||blackwell-synergy.com^
+||blanc.ru^
 ||blaoshi.cc^
 ||blast.io^
 ||blazor.net^
@@ -4734,6 +4735,7 @@
 ||bot.nu^
 ||botanwang.com^
 ||botframework.com^
+||botim.me^
 ||botmechanic.io^
 ||botorch.org^
 ||botstop.com^
@@ -11237,7 +11239,6 @@
 ||gogoanime.vc^
 ||gogoanime.wiki^
 ||gogoanime3.co^
-||gogocdn.net^
 ||gogole.com^
 ||gogotaku.info^
 ||gogotunnel.com^
@@ -12565,6 +12566,9 @@
 ||horizontal-systems.com^
 ||horizontalglue.com^
 ||horizontalsystems.com^
+||hornet.com^
+||hornetapp.com^
+||hornetx.com^
 ||hornyasianmilfs.com^
 ||hornybitches.org^
 ||hornybutt.com^
@@ -15732,6 +15736,7 @@
 ||listorious.com^
 ||litbus-anime.com^
 ||liteapplications.com^
+||litecoin.org^
 ||litenews.hk^
 ||literatumonline.com^
 ||literotica.com^
@@ -18305,7 +18310,9 @@
 ||netflixtechblog.com^
 ||netlify.app^
 ||netlify.com^
+||netlifydns.com^
 ||netlifystatus.com^
+||netlifyusercontent.com^
 ||netlock.hu^
 ||netmarble.com^
 ||netme.cc^
@@ -18906,6 +18913,7 @@
 ||ntdtvla.com^
 ||ntdvideo.tw^
 ||ntdvn.com^
+||ntl.fyi^
 ||ntlk.org^
 ||ntnews.com.au^
 ||ntp-c.colorado.edu^
