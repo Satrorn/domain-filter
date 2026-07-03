@@ -201,7 +201,6 @@
 ||adguard.aminetwork.biz^
 ||adguard.amscenter.net^
 ||adguard.app.sabino.pro^
-||adguard.avavd.ru^
 ||adguard.ayrespace.cc^
 ||adguard.baltes.info^
 ||adguard.bitteeinbyte.de^
@@ -524,7 +523,6 @@
 ||angelcamddns.com^
 ||angry.pp.ua^
 ||angrysky.ru^
-||anhphamhn82.uk^
 ||anixlab.com^
 ||annaffiare.org^
 ||anondns.net^
@@ -586,7 +584,6 @@
 ||au-syd-w-f-1.nashkan.net^
 ||au-syd-w-p-1.nashkan.net^
 ||au.rslvr.eu^
-||auberge78.site^
 ||auraria.org^
 ||australia.ai^
 ||authorizeddns.net^
@@ -1051,7 +1048,6 @@
 ||dns.853852.xyz^
 ||dns.886886886.xyz^
 ||dns.888654.xyz^
-||dns.890806.xyz^
 ||dns.920313.xyz^
 ||dns.985900.xyz^
 ||dns.9999.sg^
@@ -1110,7 +1106,6 @@
 ||dns.audet.cloud^
 ||dns.auffray.org^
 ||dns.axto.me^
-||dns.aykanbacaksoy.de^
 ||dns.azcom.dev^
 ||dns.azfar.my^
 ||dns.b33.network^
@@ -2187,7 +2182,6 @@
 ||doh.immerda.ch^
 ||doh.infracell.net^
 ||doh.iqiyi.com^
-||doh.iucc.ac.il^
 ||doh.jeroenhd.nl^
 ||doh.kekew.info^
 ||doh.kekew.racing^
@@ -2778,7 +2772,6 @@
 ||green3.jnraptor.net^
 ||green4.jnraptor.net^
 ||greppie.nl^
-||grgrgrkeepcalmkeepcalm.asatid12.ir^
 ||groks-the.info^
 ||groks-this.info^
 ||grr01.dnscry.pt^
