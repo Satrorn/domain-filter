@@ -1225,7 +1225,6 @@
 ||dns.deltain.ru^
 ||dns.demon-inc.tw^
 ||dns.dev-umbrellagov.com^
-||dns.devopscloud.icu^
 ||dns.dewei.dev^
 ||dns.dgea.fr^
 ||dns.dhemant.observer^
@@ -2927,7 +2926,6 @@
 ||homeunix.org^
 ||homingbeacon.net^
 ||homita.id.vn^
-||honor.cyvexadns.online^
 ||hopto.me^
 ||hopto.org^
 ||horus-team.com^
@@ -4065,7 +4063,6 @@
 ||s1.srch.top^
 ||s1.yushuncompany.com^
 ||s2.d3mik.ru^
-||s3.d3mik.ru^
 ||sabzipolobamahi.nl^
 ||sacarino.es^
 ||safe-guard.badbotdev.xyz^
