@@ -596,7 +596,6 @@
 ||axistechsupport.com^
 ||ayman-dns.731my.com^
 ||az.dz4fun.top^
-||az.i81.ru^
 ||azure.razor1911.xyz^
 ||b.jtt.ink^
 ||b0tnet.com^
@@ -1370,7 +1369,6 @@
 ||dns.home.beckett.io^
 ||dns.home.daniil.it^
 ||dns.homenet.saschagaspar.net^
-||dns.hoody.com^
 ||dns.hopkinton.online^
 ||dns.hopsken.com^
 ||dns.horcrux.vip^
@@ -3887,7 +3885,6 @@
 ||pride.ngo^
 ||princez.uk^
 ||privacy.plumedns.com^
-||privacydns.go6lab.si^
 ||privatebard.com^
 ||privatedns.com^
 ||privatedns.org^
@@ -4577,6 +4574,7 @@
 ||vps.grussenmeyer.com^
 ||vps.jmarkin.ru^
 ||vps.poly-tank.jp^
+||vps.robotboard.de^
 ||vps.techrich.net^
 ||vps01.bbhc.xyz^
 ||vps1.rootax.org^
