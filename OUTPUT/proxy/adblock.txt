@@ -1026,6 +1026,7 @@
 ||adpl.org.hk^
 ||adporn.cc^
 ||adpornu.xyz^
+||adsense.com^
 ||adskcloud.com^
 ||adskcloud.net^
 ||adskeng.net^
@@ -19816,6 +19817,8 @@
 ||patreonusercontent.com^
 ||paulsimon-music.com^
 ||pavpal.com^
+||pawchive.pw^
+||pawchive.st^
 ||pawoo.net^
 ||paxful.com^
 ||paxlicense.org^

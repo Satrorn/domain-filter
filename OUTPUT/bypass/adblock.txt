@@ -269,7 +269,6 @@
 ||adguard.kngnet.de^
 ||adguard.konikoni428.com^
 ||adguard.konnkors.lol^
-||adguard.lamhoangtung.space^
 ||adguard.laurenlaufman.com^
 ||adguard.lege.despagne.net^
 ||adguard.llf520.dpdns.org^
@@ -480,7 +479,6 @@
 ||aintno.info^
 ||airdns.org^
 ||airlinemeals.net^
-||aitkcrev.minhduc.pw^
 ||ajlxwk4kedu5.absq.ch^
 ||akari.anime.com.my^
 ||akl01.dnscry.pt^
@@ -732,7 +730,6 @@
 ||ccyykk.top^
 ||cdn-doh.ssnm.xyz^
 ||cdn.refined.pro^
-||cdns.lagzerotm.com^
 ||cechire.com^
 ||celebsplay.com^
 ||celltrak.mobi^
@@ -1438,7 +1435,6 @@
 ||dns.juancamos.com^
 ||dns.jundev.org^
 ||dns.jungle-im.ir^
-||dns.jupitrdns.com^
 ||dns.justinnetworkingsolutions.com^
 ||dns.k3nny.fr^
 ||dns.kamilszczepanski.com^
@@ -3189,7 +3185,6 @@
 ||johneldenring.lol^
 ||jomblo.asia^
 ||jonward.com^
-||joouddo.ru^
 ||josephfamily.org^
 ||joshberg.org^
 ||jp-to.foxyfy.net^
@@ -3235,7 +3230,6 @@
 ||kdgnkjho4od8w40.americasnet.com.br^
 ||keenetic.name^
 ||keine-panik.net^
-||kekv.fun^
 ||kellerbier-home.com^
 ||kellserve.com^
 ||kennethhuang.com^
@@ -3362,7 +3356,6 @@
 ||lozan.com^
 ||lslnyjq.uk^
 ||luba.vpn.i81.ru^
-||luckyweaving.com^
 ||lukscasino-479-tr.xyz^
 ||lukscasino-542-tr.xyz^
 ||lukscasino-929-tr.xyz^
@@ -3378,7 +3371,6 @@
 ||maincloud.ir^
 ||mainframe.dewed.de^
 ||malanser.ru^
-||malelolula.store^
 ||man01.dnscry.pt^
 ||management.alexpollard.net^
 ||mao.fi^
@@ -3439,7 +3431,6 @@
 ||mirolnet.com^
 ||misconfused.org^
 ||misecure.com^
-||mistasinresolver.ru^
 ||mistermousepotato.com^
 ||mithrandir.us^
 ||mlbfan.org^
