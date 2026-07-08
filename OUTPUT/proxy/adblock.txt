@@ -751,6 +751,7 @@
 ||abema-tv.com^
 ||abema.io^
 ||abema.tv^
+||abematv.akamaized.net^
 ||abematv.co.jp^
 ||abgsp1.buzz^
 ||abigass.com^
@@ -981,7 +982,6 @@
 ||adobe-aemassets-value.com^
 ||adobe-audience-finder.com^
 ||adobe-video-partner-finder.com^
-||adobe.com^
 ||adobe.io^
 ||adobe.ly^
 ||adobeaemcloud.com^
@@ -1393,7 +1393,6 @@
 ||akamaietpphishingtest.com^
 ||akamaihd-staging.net^
 ||akamaihd.com^
-||akamaihd.net^
 ||akamaimagicmath.net^
 ||akamainewzealand.com^
 ||akamaiphillipines.com^
@@ -1405,7 +1404,6 @@
 ||akamaitechnologies.com^
 ||akamaitechnologies.net^
 ||akamaized-staging.net^
-||akamaized.net^
 ||akamaizercentral.com^
 ||akamak.com^
 ||akamam.com^
@@ -2497,7 +2495,6 @@
 ||arewereadyyet.com^
 ||areyoucreditwise.com^
 ||argo-bdp.com^
-||argotunnel.com^
 ||aria.ms^
 ||arirangmeari.com^
 ||ark.to^
@@ -2963,6 +2960,7 @@
 ||avn.com^
 ||avnana5.com^
 ||avnight-shipin.com^
+||avodmp4s3ww-a.akamaihd.net^
 ||avoision.com^
 ||avpanda.cc^
 ||avple.tv^
@@ -3329,10 +3327,12 @@
 ||bcicdn.com^
 ||bcmorning.com^
 ||bcove.video^
+||bcovlive-a.akamaihd.net^
 ||bcovlive.io^
 ||bcrncdn.com^
 ||bcs-bank.ru^
 ||bcs.ru^
+||bcsecure01-a.akamaihd.net^
 ||bcvcdn.com^
 ||bcvp0rtal.com^
 ||bcy01.com^
@@ -4993,7 +4993,6 @@
 ||bumptop.org^
 ||bumptunes.com^
 ||bunbunhk.com^
-||bunny.net^
 ||bunnycdn.com^
 ||bunnylust.com^
 ||burningcamel.com^
@@ -5756,7 +5755,6 @@
 ||chickteases.com^
 ||chid.com.mm^
 ||chihair-straightener.com^
-||chii.in^
 ||chikiporn.com^
 ||chikubank.co.jp^
 ||chillingo.com^
@@ -5941,6 +5939,7 @@
 ||ciscolearningsociety.org^
 ||ciscolearningsystem.com^
 ||ciscolive.com^
+||ciscolivehls-i.akamaihd.net^
 ||cisconetapp.com^
 ||cisconetspace.com^
 ||cisconetspace.info^
@@ -6041,6 +6040,7 @@
 ||clemesha.org^
 ||click-sec.com^
 ||clickedu.co.uk^
+||clickserver.googleads.com^
 ||clien.net^
 ||client-api.arkoselabs.com^
 ||climate-server.com^
@@ -6885,7 +6885,6 @@
 ||dctbeatsbydre.com^
 ||ddc.com.tw^
 ||ddd-smart.net^
-||ddex.io^
 ||ddff66.com^
 ||ddff77.com^
 ||ddg.co^
@@ -7010,7 +7009,6 @@
 ||dell.co.uk^
 ||dell.co.vi^
 ||dell.co.za^
-||dell.com^
 ||dell.com.ag^
 ||dell.com.ai^
 ||dell.com.ar^
@@ -9489,6 +9487,7 @@
 ||fbaddins.com^
 ||fbbmarket.com^
 ||fbboostyourbusiness.com^
+||fbcdn-a.akamaihd.net^
 ||fbcdn.com^
 ||fbcdn.net^
 ||fbf8.com^
@@ -9862,6 +9861,8 @@
 ||flowgpt.com^
 ||flowhongkong.net^
 ||flowtype.org^
+||flowwow-images.com^
+||flowwow.com^
 ||fluffychat.im^
 ||fluidfxapp.com^
 ||fluidpreview.com^
@@ -10462,6 +10463,8 @@
 ||funnyfacebook.org^
 ||funnyordie.com^
 ||funp.com^
+||funpay.com^
+||funpay.ru^
 ||funpea.com^
 ||funshemale.com^
 ||fuq.com^
@@ -12846,7 +12849,6 @@
 ||hsbc.com.br^
 ||hsbc.com.cn^
 ||hsbc.com.eg^
-||hsbc.com.hk^
 ||hsbc.com.mo^
 ||hsbc.com.mt^
 ||hsbc.com.mx^
@@ -14831,8 +14833,6 @@
 ||jsati.com^
 ||jsatmobile.com^
 ||jsbridgestone.com^
-||jsdelivr.com^
-||jsdelivr.net^
 ||jshell.net^
 ||jshint.com^
 ||jsquaredjavascript.com^
@@ -15001,7 +15001,6 @@
 ||kaspersky.co.th^
 ||kaspersky.co.uk^
 ||kaspersky.co.za^
-||kaspersky.com^
 ||kaspersky.com.au^
 ||kaspersky.com.br^
 ||kaspersky.com.hk^
@@ -15414,6 +15413,7 @@
 ||lasersawapp.com^
 ||last.fm^
 ||lastcombat.com^
+||lastfm-img2.akamaized.net^
 ||lastfm.cn^
 ||lastfm.de^
 ||lastfm.es^
@@ -15655,6 +15655,7 @@
 ||line-scdn.net^
 ||line.biz^
 ||line.me^
+||linear-abematv.akamaized.net^
 ||linearcollider.org^
 ||linecorp.com^
 ||linefriends.com^
@@ -15760,7 +15761,6 @@
 ||livemint.com^
 ||livemodels.co^
 ||liveperson.com^
-||liveperson.net^
 ||livephotos.tv^
 ||liveporngirls.com^
 ||liverail.tv^
@@ -17693,9 +17693,7 @@
 ||msft.net^
 ||msftauth.net^
 ||msftauthimages.net^
-||msftconnecttest.com^
 ||msfteducation.ca^
-||msftncsi.com^
 ||msftnet.org^
 ||msgamesresearch.com^
 ||msgamestudios.com^
@@ -20517,7 +20515,6 @@
 ||polyu.hk^
 ||ponyanimalsex.com^
 ||poofetish.com^
-||pool.ntp.org^
 ||poolbinance.com^
 ||poolin.com^
 ||poop-pee.online^
@@ -20943,7 +20940,6 @@
 ||powerpointninja.com^
 ||powershape-e.com^
 ||powershape.com^
-||powershellgallery.com^
 ||powersrv.de^
 ||powersunitedvr.com^
 ||powfans.com^
@@ -22741,6 +22737,7 @@
 ||sexpornimg.com^
 ||sexpornpictures.com^
 ||sexpornvideoasian.com^
+||sexsaoy.com^
 ||sexsex1.com^
 ||sexsexe1.com^
 ||sexsiam.com^
@@ -22837,6 +22834,7 @@
 ||sfshibao.com^
 ||sftindia.org^
 ||sftuk.org^
+||sfunpay.com^
 ||sfx.ms^
 ||sg.weibo.com^
 ||sg120.me^
@@ -24400,7 +24398,6 @@
 ||tail-f.com^
 ||tailf.com^
 ||tails.net^
-||tailscale.com^
 ||tailscale.io^
 ||tailwindtraders.com^
 ||taiolongdh.sbs^
@@ -25137,6 +25134,7 @@
 ||tilda.ws^
 ||tildaapi.com^
 ||tildacdn.com^
+||tildacdn.net^
 ||tiltbrush.com^
 ||timdir.com^
 ||time-messenger.ru^
@@ -26980,6 +26978,7 @@
 ||vocativ.com^
 ||vocn.tv^
 ||vocus.cc^
+||vod-abematv.akamaized.net^
 ||vod360.net^
 ||vodafone.co.uk^
 ||vodafone.com^
@@ -27280,7 +27279,6 @@
 ||vultr.com^
 ||vultryhw.com^
 ||vuvuzela.io^
-||vv1865.com^
 ||vxnbbrs.xyz^
 ||vxxsred.xyz^
 ||vyprvpn.com^
@@ -28128,7 +28126,6 @@
 ||xdaddy.in^
 ||xdaforums.com^
 ||xdaimages.com^
-||xdelta.org^
 ||xdh999.one^
 ||xdir.vip^
 ||xdporner.com^
