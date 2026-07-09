@@ -184,6 +184,7 @@
 ||adguard-dns.com^
 ||adguard-dns.eu.org^
 ||adguard-home.de^
+||adguard-ironhide.ultima-thule.ru^
 ||adguard-kartoffel.zernico.de^
 ||adguard-server.pp.ua^
 ||adguard-us1.cloudmini.net^
@@ -305,7 +306,6 @@
 ||adguard.ppfeufer.de^
 ||adguard.pushedv.de^
 ||adguard.quydang.name.vn^
-||adguard.rabmoor.cz^
 ||adguard.rdekuyper.nl^
 ||adguard.rennes.despagne.net^
 ||adguard.richardapplegate.io^
@@ -1729,7 +1729,6 @@
 ||dns.seia.io^
 ||dns.seiffert.me^
 ||dns.sellan.fr^
-||dns.serdcebolit.ru^
 ||dns.server2.tschoerner.eu^
 ||dns.servizimv.it^
 ||dns.sev.monster^
@@ -1943,7 +1942,6 @@
 ||dns1.sarak.as^
 ||dns1.sarakas.net^
 ||dns1.schooldns.nl^
-||dns1.serdcebolit.ru^
 ||dns1.server.my.id^
 ||dns1.slowb.ro^
 ||dns1.tardishost.ru^
@@ -2781,7 +2779,6 @@
 ||guard.magic-pics.tk^
 ||guard.miracloud.fr^
 ||guard.pp.ua^
-||guard.sntrk.ru^
 ||guard.telesterion.de^
 ||guard.thefather.cloud^
 ||guard.yps.tw^
@@ -4187,7 +4184,6 @@
 ||sink.nolo.ltd^
 ||sinkdns.nihatkalfazade.com^
 ||sino.tw^
-||sitdns.com^
 ||sitelutions.com^
 ||sjc01.dnscry.pt^
 ||sjc02.dnscry.pt^
