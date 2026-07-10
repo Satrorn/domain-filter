@@ -4580,7 +4580,6 @@
 ||waw01.dnscry.pt^
 ||waw02.dnscry.pt^
 ||waydnes.ru^
-||web-rated.ie^
 ||webdav.cubecloud.win^
 ||webhop.biz^
 ||webhop.info^
