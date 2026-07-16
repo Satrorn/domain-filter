@@ -172,6 +172,7 @@
 ||adg.rueiliu.space^
 ||adg.spacework.com.mx^
 ||adg.tshost.no^
+||adg.yybyy.wiki^
 ||adg5yvi.ngatngay.net^
 ||adgaurd.lingmont.net^
 ||adgd.fragmentance.ru^
@@ -264,6 +265,7 @@
 ||adguard.johnnypatras.org^
 ||adguard.k-likhachev.ru^
 ||adguard.kalyanmudumby.com^
+||adguard.kantinyoyok.xyz^
 ||adguard.kasbot.net^
 ||adguard.kiboko.it^
 ||adguard.kitakitsune.xyz^
@@ -425,6 +427,7 @@
 ||africadns1.liquidtelecom.net^
 ||africadns2.liquidtelecom.net^
 ||ag.apollohct.com^
+||ag.brianlee.fun^
 ||ag.coco-tama-hoiku.com^
 ||ag.felixf.eu^
 ||ag.ff0x.ca^
@@ -590,6 +593,7 @@
 ||avandns.com^
 ||awiki.org^
 ||ax.lt^
+||axaxa.fun^
 ||axistechsupport.com^
 ||ayman-dns.731my.com^
 ||az.dz4fun.top^
@@ -1191,6 +1195,7 @@
 ||dns.controld.com^
 ||dns.cooluc.com^
 ||dns.corefusion.xyz^
+||dns.criena.net^
 ||dns.cryptomize.com^
 ||dns.crystalyx.net^
 ||dns.csaonline.de^
@@ -3325,7 +3330,6 @@
 ||litecsys.com^
 ||livewave.ru^
 ||ljack.com^
-||lju01.dnscry.pt^
 ||llk01.dnscry.pt^
 ||loadlow.me^
 ||locumm.com^
@@ -3840,7 +3844,6 @@
 ||pm1239-bd.xyz^
 ||pm7051-br.xyz^
 ||pm9352-bd.xyz^
-||pmo01.dnscry.pt^
 ||pns2.sadraidc.com^
 ||pntl.tl^
 ||podzone.net^

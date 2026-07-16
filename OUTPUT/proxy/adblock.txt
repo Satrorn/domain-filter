@@ -1135,6 +1135,7 @@
 ||afriboyz.com^
 ||aga-expo.com^
 ||agag.tw^
+||agb9r0ad.qllfkl.com^
 ||agdbank.com^
 ||agedm.org^
 ||agedm.tv^
@@ -1441,7 +1442,6 @@
 ||alexanderstreet.com^
 ||alexlur.org^
 ||alfa.me^
-||alfabank.oavdo.amc^
 ||alfabank.ru^
 ||alfabank.st^
 ||alfadirect.ru^
@@ -3089,6 +3089,7 @@
 ||azuredns-prd.org^
 ||azureedge-test.net^
 ||azureedge.net^
+||azureedge.us^
 ||azurefd.net^
 ||azureiotcentral.com^
 ||azureiotsolutions.com^
@@ -6402,6 +6403,7 @@
 ||coova.com^
 ||coova.net^
 ||coova.org^
+||copilot-stg.com^
 ||copilot.com^
 ||copro.pw^
 ||copy-manga.com^
@@ -11942,6 +11944,7 @@
 ||hayday.com^
 ||haydaygame.com^
 ||hayya.ae^
+||hb4bbbbb.pmhcjk.com^
 ||hbabit.com^
 ||hbfile.net^
 ||hbg.com^
@@ -16757,6 +16760,7 @@
 ||mh4u.org^
 ||mhcb.ru^
 ||mhcbr.ru^
+||mhgui.com^
 ||mhhanman.xyz^
 ||mhqwe.xyz^
 ||mhradio.org^
@@ -18193,6 +18197,7 @@
 ||naweeklytimes.com^
 ||naydex.net^
 ||nbabot.net^
+||nbbb1bb7.pmhcjk.com^
 ||nbc.co^
 ||nbc.com^
 ||nbcnews.com^
@@ -20624,7 +20629,6 @@
 ||porncoven.com^
 ||porncrash.com^
 ||porndabster.com^
-||porndeals.com^
 ||porndeepfake.net^
 ||porndex.com^
 ||porndiamond.com^
@@ -21290,6 +21294,7 @@
 ||q10.jp^
 ||q13.com^
 ||q13fox.com^
+||q676790b.pmhcjk.com^
 ||qagpublic.qatp1.net^
 ||qagpublic.qcpp1.net^
 ||qagpublic.qpdp1.net^
@@ -23937,6 +23942,7 @@
 ||starfox.com^
 ||stargazer-games.com^
 ||stark-verlag.ch^
+||starlink.com^
 ||starott.com^
 ||starp2p.com^
 ||starplus.com^
