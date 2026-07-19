@@ -931,7 +931,6 @@ payload:
   - +.dds.wpme.pl
   - +.de-a.org
   - +.de-adguard.dr3ff1c13nt.com
-  - +.de-f1.foxyfy.net
   - +.de-fra-w-f-1.nashkan.net
   - +.de-fra-w-f-2.nashkan.net
   - +.de-fra-w-f-3.nashkan.net
@@ -1199,7 +1198,6 @@ payload:
   - +.dns.controld.com
   - +.dns.cooluc.com
   - +.dns.corefusion.xyz
-  - +.dns.criena.net
   - +.dns.cryptomize.com
   - +.dns.crystalyx.net
   - +.dns.csaonline.de
@@ -3356,6 +3354,7 @@ payload:
   - +.lon01.dnscry.pt
   - +.longmusic.com
   - +.look.xshentx.org
+  - +.loophole.site
   - +.lorc17-dns.komeho.info
   - +.lordsalty.com
   - +.los01.dnscry.pt
@@ -4561,6 +4560,7 @@ payload:
   - +.voyage-s01.cloudku.technology
   - +.voyage-s02.cloudku.technology
   - +.voyez.ca
+  - +.vpn.technicule.info
   - +.vpn64.de
   - +.vpndns.net
   - +.vpnhellings.nl
@@ -4588,6 +4588,7 @@ payload:
   - +.vserv.wkind.de
   - +.vski.172896.xyz
   - +.vsrv15195.customer.xenway.de
+  - +.vtcuong.site
   - +.vte01.dnscry.pt
   - +.vuivn.site
   - +.vxe6.net
