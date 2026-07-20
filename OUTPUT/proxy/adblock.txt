@@ -6045,7 +6045,6 @@
 ||clemesha.org^
 ||click-sec.com^
 ||clickedu.co.uk^
-||clickserver.googleads.com^
 ||clien.net^
 ||client-api.arkoselabs.com^
 ||climate-server.com^
