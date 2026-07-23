@@ -1197,7 +1197,6 @@
 ||dns.controld.com^
 ||dns.cooluc.com^
 ||dns.corefusion.xyz^
-||dns.criena.net^
 ||dns.cryptomize.com^
 ||dns.crystalyx.net^
 ||dns.csaonline.de^
@@ -3724,6 +3723,7 @@
 ||oci02.at9.eu^
 ||ocry.com^
 ||oculta.me^
+||odoh-target.alekberg.net^
 ||ods.org^
 ||odvr.nic.cz^
 ||oemdns.com^
