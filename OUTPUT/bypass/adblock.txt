@@ -1198,7 +1198,6 @@
 ||dns.controld.com^
 ||dns.cooluc.com^
 ||dns.corefusion.xyz^
-||dns.criena.net^
 ||dns.cryptomize.com^
 ||dns.crystalyx.net^
 ||dns.csaonline.de^
@@ -2589,7 +2588,6 @@
 ||fin-tech.com^
 ||fintech-llc.com^
 ||fivepals.com^
-||fjr01.dnscry.pt^
 ||flashhub.net^
 ||flat.loisy.it^
 ||flat4free.com^
@@ -3726,7 +3724,7 @@
 ||oci02.at9.eu^
 ||ocry.com^
 ||oculta.me^
-||odoh-target-se.alekberg.net^
+||odoh-target-noads-se.alekberg.net^
 ||odoh-target.alekberg.net^
 ||ods.org^
 ||odvr.nic.cz^
