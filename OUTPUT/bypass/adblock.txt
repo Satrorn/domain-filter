@@ -679,7 +679,6 @@
 ||bobstrecansky.com^
 ||bog01.dnscry.pt^
 ||boldlygoingnowhere.org^
-||bom01.dnscry.pt^
 ||bom02.dnscry.pt^
 ||borisov.page^
 ||bot.nu^
@@ -1198,6 +1197,7 @@
 ||dns.controld.com^
 ||dns.cooluc.com^
 ||dns.corefusion.xyz^
+||dns.criena.net^
 ||dns.cryptomize.com^
 ||dns.crystalyx.net^
 ||dns.csaonline.de^
@@ -2778,7 +2778,6 @@
 ||groks-the.info^
 ||groks-this.info^
 ||grr01.dnscry.pt^
-||gru01.dnscry.pt^
 ||grunwald-marc.de^
 ||grupoimpulsora.com^
 ||grupompr.com^
@@ -3725,6 +3724,7 @@
 ||ocry.com^
 ||oculta.me^
 ||odoh-target-noads-se.alekberg.net^
+||odoh-target-se.alekberg.net^
 ||odoh-target.alekberg.net^
 ||ods.org^
 ||odvr.nic.cz^
