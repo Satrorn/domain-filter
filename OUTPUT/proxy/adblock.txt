@@ -4231,6 +4231,7 @@
 ||bluemix.net^
 ||bluesabre.org^
 ||bluestacks.com^
+||blurams.app^
 ||blurams.com^
 ||blylq.buzz^
 ||blz-contentstack.com^
@@ -5578,6 +5579,7 @@
 ||cencoastbmw.com^
 ||cenews.eu^
 ||cenkei.com^
+||ceno.app^
 ||censorship.ai^
 ||censorship.no^
 ||census.gov^
@@ -6050,6 +6052,7 @@
 ||clemesha.org^
 ||click-sec.com^
 ||clickedu.co.uk^
+||clickserver.googleads.com^
 ||clien.net^
 ||client-api.arkoselabs.com^
 ||climate-server.com^
@@ -14354,6 +14357,7 @@
 ||ivacy.com^
 ||iverycd.com^
 ||ivi.ru^
+||ivicdn.tv^
 ||ivintageporn.com^
 ||ivonblog.com^
 ||ivpn.net^
@@ -15182,6 +15186,7 @@
 ||kindleren.com^
 ||kindnudist.com^
 ||kindteenporn.com^
+||kinescopecdn.net^
 ||kingcomix.com^
 ||kingdomsalvation.org^
 ||kingextre.me^
@@ -22422,6 +22427,7 @@
 ||sber.ru^
 ||sberauto.com^
 ||sberbank-insurance.ru^
+||sberbank-tele.com^
 ||sberbank.com^
 ||sberbank.ru^
 ||sberbankaktivno.ru^
