@@ -288,6 +288,7 @@ payload:
   - +.adguard.myddns.org
   - +.adguard.nasaud.info
   - +.adguard.neelyha.tk
+  - +.adguard.neon0404.space
   - +.adguard.netmasc.services
   - +.adguard.nielsenhost.dk
   - +.adguard.niko-sem.com
@@ -902,7 +903,6 @@ payload:
   - +.dd.hlm.ovh
   - +.ddd.999369.xyz
   - +.ddd.loukky.com
-  - +.ddns-dvr.com
   - +.ddns-ip.net
   - +.ddns.cam
   - +.ddns.com.br
@@ -1198,6 +1198,7 @@ payload:
   - +.dns.controld.com
   - +.dns.cooluc.com
   - +.dns.corefusion.xyz
+  - +.dns.criena.net
   - +.dns.cryptomize.com
   - +.dns.crystalyx.net
   - +.dns.csaonline.de
@@ -1630,7 +1631,6 @@ payload:
   - +.dns.oryxlabs.com
   - +.dns.osmenoga.com
   - +.dns.ostfriese.org
-  - +.dns.oszx.co
   - +.dns.otezz.net
   - +.dns.ourvau.lt
   - +.dns.p3k.sk
@@ -3724,6 +3724,7 @@ payload:
   - +.ocry.com
   - +.oculta.me
   - +.odoh-target-noads-se.alekberg.net
+  - +.odoh-target-se.alekberg.net
   - +.odoh-target.alekberg.net
   - +.ods.org
   - +.odvr.nic.cz
@@ -4591,7 +4592,6 @@ payload:
   - +.vsrv15195.customer.xenway.de
   - +.vtcuong.site
   - +.vte01.dnscry.pt
-  - +.vuivn.site
   - +.vxe6.net
   - +.wakingmoon.com
   - +.wallpap.eu
