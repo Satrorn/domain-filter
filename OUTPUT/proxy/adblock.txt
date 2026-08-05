@@ -7079,6 +7079,8 @@
 ||deepfreeze.tech^
 ||deepl.com^
 ||deepmind.com^
+||deepwiki.com^
+||deepwiki.org^
 ||deezer.com^
 ||definebabe.com^
 ||definefetish.com^
@@ -10043,6 +10045,7 @@
 ||flydiv.com^
 ||flyflv.com^
 ||flyingjizz.com^
+||flyio.net^
 ||flypool.org^
 ||flyvpn.com^
 ||flyyindh-cc.sbs^
@@ -11263,6 +11266,7 @@
 ||glasamerike.net^
 ||glass8.eu^
 ||gleline.com^
+||glitchwave.com^
 ||global-sci.org^
 ||global.market.xiaomi.com^
 ||globaledu.org^
@@ -19962,14 +19966,17 @@
 ||ozon-credit.ru^
 ||ozon-dostavka.ru^
 ||ozon-tech.ru^
+||ozon.app^
 ||ozon.by^
 ||ozon.com^
 ||ozon.com.by^
 ||ozon.com.kz^
 ||ozon.dev^
 ||ozon.express^
+||ozon.global^
 ||ozon.kz^
 ||ozon.li^
+||ozon.market^
 ||ozon.ru^
 ||ozon.tech^
 ||ozon.tm^
@@ -22535,6 +22542,7 @@
 ||rutrecker.net^
 ||rutrk.org^
 ||rutube.ru^
+||rutube.sport^
 ||rutubelist.ru^
 ||ruvideos.net^
 ||ruyiseek.com^
@@ -22543,6 +22551,7 @@
 ||rwbautomation.tech^
 ||rwbgeo.ru^
 ||rxhj.net^
+||rym.fm^
 ||ryokoyomiuri.co.jp^
 ||ryukyubank.co.jp^
 ||rzr.to^
@@ -23758,6 +23767,7 @@
 ||snk-corp.co.jp^
 ||snk-corp.info^
 ||snkplaymore.info^
+||snmc.io^
 ||snow.me^
 ||snowcorp.com^
 ||snowlionpub.com^
@@ -23842,6 +23852,8 @@
 ||somanylolies.com^
 ||somee.com^
 ||sonatype.org^
+||sonematic.net^
+||sonemic.com^
 ||songjianjun.com^
 ||sonicbbs.cc^
 ||sonidodelaesperanza.org^
