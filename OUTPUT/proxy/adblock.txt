@@ -242,6 +242,7 @@
 ||2047.name^
 ||2047.one^
 ||2049bbs.xyz^
+||20thcenturystudios.com^
 ||20thcenturystudios.com.au^
 ||20thcenturystudios.com.br^
 ||20thcenturystudios.jp^
@@ -280,11 +281,15 @@
 ||2bit8.com^
 ||2buybeatsbydre.com^
 ||2ch.hk^
+||2ch.life^
 ||2ch.net^
+||2ch.org^
+||2ch.su^
 ||2chav.com^
 ||2dgen.com^
 ||2drdrebeats.com^
 ||2du5.com^
+||2dust.link^
 ||2gayboys.com^
 ||2gis.ae^
 ||2gis.am^
@@ -764,6 +769,7 @@
 ||abchinese.com^
 ||abclider.com^
 ||abclite.net^
+||abcnews.com^
 ||abeatsbydrdre.com^
 ||abebooks.co.uk^
 ||abebooks.com^
@@ -1863,6 +1869,7 @@
 ||amnesty.org.hk^
 ||amnesty.tw^
 ||amnestyusa.org^
+||amnezia.org^
 ||amnyemachen.org^
 ||amodoll.com^
 ||amoiist.com^
@@ -3240,6 +3247,7 @@
 ||baltnews.com^
 ||baltnews.lt^
 ||bamgrid.com^
+||bamtech.net^
 ||bamtoki.com^
 ||banan.tv^
 ||banana-vpn.com^
@@ -6105,9 +6113,12 @@
 ||claravenger.com^
 ||clarionproject.org^
 ||clash.com^
+||clashmi.app^
 ||clashmini.com^
 ||clashofclans.com^
+||clashparty.org^
 ||clashroyale.com^
+||clashverge.dev^
 ||clashyun.com^
 ||clasporno.org^
 ||classicalguitarblog.net^
@@ -6189,9 +6200,11 @@
 ||cloudflare-ipfs.com^
 ||cloudflare-quic.com^
 ||cloudflare-terms-of-service-abuse.com^
+||cloudflare.app^
 ||cloudflare.com^
 ||cloudflare.dev^
 ||cloudflare.net^
+||cloudflare.pay^
 ||cloudflare.tv^
 ||cloudflareaccess.com^
 ||cloudflareapps.com^
@@ -7321,6 +7334,7 @@
 ||detaliczny.com^
 ||detentiongirls.com^
 ||detodosparatodos.org^
+||detpress.com^
 ||dettol-prize.com^
 ||dettol.at^
 ||dettol.be^
@@ -7611,7 +7625,9 @@
 ||disney.ru^
 ||disney.se^
 ||disney.sg^
+||disneyaccount.com^
 ||disneyadsales.com^
+||disneyanimation.com^
 ||disneyarena.com^
 ||disneyaulani.com^
 ||disneybaby.com^
@@ -7627,6 +7643,7 @@
 ||disneyinternationalhd.com^
 ||disneyjunior.com^
 ||disneyjuniortreataday.com^
+||disneylandparis.com^
 ||disneylatino.com^
 ||disneymagicmoments.co.il^
 ||disneymagicmoments.co.uk^
@@ -7648,11 +7665,13 @@
 ||disneypeoplesurveys.com^
 ||disneyplus.bn5x.net^
 ||disneyplus.com^
+||disneyprivacycenter.com^
 ||disneyredirects.com^
 ||disneysrivieraresort.com^
 ||disneystore.com^
 ||disneystreaming.com^
 ||disneysubscription.com^
+||disneytermsofuse.com^
 ||disneytickets.co.uk^
 ||disneyturkiye.com.tr^
 ||disneytvajobs.com^
@@ -9987,6 +10006,7 @@
 ||flatpak.org^
 ||flatt.tech^
 ||flbjc.net^
+||flclashx.app^
 ||fldz8.buzz^
 ||flecheinthepeche.fr^
 ||fleshbot.com^
@@ -10031,6 +10051,7 @@
 ||flowgpt.com^
 ||flowhongkong.net^
 ||flowtype.org^
+||flowvy.io^
 ||flowwow-images.com^
 ||flowwow.com^
 ||fluffychat.im^
@@ -10412,6 +10433,7 @@
 ||freefacebookads.net^
 ||freefblikes.com^
 ||freefbx.com^
+||freeform.com^
 ||freeforums.org^
 ||freefq.com^
 ||freefuckvids.com^
@@ -12752,6 +12774,7 @@
 ||honeynet.org^
 ||hongjie10.xyz^
 ||hongjie11.xyz^
+||hongkongdisneyland.com^
 ||hongkongdoll.tv^
 ||hongkongdollvideo.org^
 ||hongkongfp.com^
@@ -13820,6 +13843,7 @@
 ||inclusivegrowthscore.com^
 ||incommon-rsa.org^
 ||incredibox.fr^
+||incy.cc^
 ||ind.sh^
 ||indazn.com^
 ||indaznlab.com^
@@ -15224,6 +15248,7 @@
 ||kards.com^
 ||karechat.ai^
 ||karinahart.com^
+||karing.app^
 ||karkhung.com^
 ||karlajames.com^
 ||karmahelp.ru^
@@ -16235,6 +16260,7 @@
 ||lubuntu.me^
 ||lucahmelayu.club^
 ||lucasentertainment.com^
+||lucasfilm.com^
 ||luckydesigner.space^
 ||luckyissue.com^
 ||luckymobile.ca^
@@ -18513,6 +18539,7 @@
 ||neicad.com^
 ||neiexplicit.com^
 ||neifea.com^
+||neigbuy.com^
 ||neimotion.com^
 ||neinastranincad.com^
 ||neisoftware.com^
@@ -19166,6 +19193,7 @@
 ||nsfw247.to^
 ||nsfwmemes.com^
 ||nsimg.net^
+||nsloon.com^
 ||nspk.ru^
 ||nsstatic.net^
 ||nssurge.com^
@@ -19659,6 +19687,7 @@
 ||onetrust.com^
 ||onevps.com^
 ||oneworldmanystories.com^
+||onexray.com^
 ||onfinality.io^
 ||onindiansex.com^
 ||oninstagram.com^
@@ -20648,6 +20677,7 @@
 ||piwheels.org^
 ||pixanalytics.com^
 ||pixapp.net^
+||pixar.com^
 ||pixate.com^
 ||pixeldrain.com^
 ||pixelmator.com^
@@ -21396,6 +21426,7 @@
 ||privilege.hk^
 ||privilege.tw^
 ||privoxy.org^
+||prizrak.app^
 ||procopytips.com^
 ||proctoscopeexam.com^
 ||prod-my.games^
@@ -22877,6 +22908,7 @@
 ||seapuff.com^
 ||search.com^
 ||search.xxx^
+||searchlightpictures.com^
 ||searchtruth.com^
 ||searx.me^
 ||seasidestory.tokyo^
@@ -23233,6 +23265,7 @@
 ||shadeyouvpn.com^
 ||shadow.ma^
 ||shadowcomplex.com^
+||shadowlaunch.com^
 ||shadowsky.xyz^
 ||shadowslaves.com^
 ||shadowsocks-r.com^
@@ -24324,6 +24357,8 @@
 ||starwarsjedifallenorder.com^
 ||starwarskids.com^
 ||starwarstheoldrepublic.com^
+||stash.wiki^
+||stash.ws^
 ||state.gov^
 ||stateofthemap.com^
 ||stateofthemap.org^
@@ -25324,6 +25359,7 @@
 ||theverge.com^
 ||thevirtualsexreview.com^
 ||thevivekspot.com^
+||thewaltdisneycompany.com^
 ||theweek.com^
 ||theweek.in^
 ||thewgo.org^
@@ -25647,6 +25683,7 @@
 ||tokyo-sports.co.jp^
 ||tokyo-tosho.net^
 ||tokyocn.com^
+||tokyodisneyresort.jp^
 ||tokyomotion.com^
 ||tokyomotion.net^
 ||tokyonightstyle.com^
@@ -27761,6 +27798,7 @@
 ||walmart.com^
 ||walmart.pharmacy^
 ||walmartimages.com^
+||waltdisneystudios.com^
 ||waltermartin.com^
 ||waltermartin.org^
 ||wan-press.org^
@@ -28024,6 +28062,7 @@
 ||wforum.com^
 ||wgcdn.co^
 ||wgcrowd.io^
+||wgtunnel.com^
 ||wha.la^
 ||whasil.xyz^
 ||what-fan.net^
@@ -28254,6 +28293,7 @@
 ||wirelessreach.com^
 ||wiremoneytoirelandwithxoomeasierandcheaper.com^
 ||wireshark.org^
+||wiresock.net^
 ||wisdompubs.org^
 ||wise-research.com^
 ||wise.com^
