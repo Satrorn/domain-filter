@@ -1226,6 +1226,7 @@
 ||aiasahi.jp^
 ||aibaobei.me^
 ||aicoin.com^
+||aihub.top^
 ||aimei133.com^
 ||aimoon.com^
 ||aimsciences.org^
@@ -8993,6 +8994,7 @@
 ||esetsoftware.com^
 ||esforce.com^
 ||esforce.ru^
+||esim.redteago.com^
 ||eskimotube.com^
 ||eslite.com^
 ||esm.run^
