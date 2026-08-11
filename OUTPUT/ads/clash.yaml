@@ -1004,6 +1004,7 @@ payload:
   - +.1gfz.com
   - +.1ghs.cn
   - +.1hlahoc4rpc-sdk.rum.aliyuncs.com
+  - +.1hqput7vfyl-sdk.rum.aliyuncs.com
   - +.1j4kj.com
   - +.1j5p551644.iok.la
   - +.1jdi-k22io.com
@@ -7341,6 +7342,8 @@ payload:
   - +.ads-i3.xhscdn.com
   - +.ads-i3.xhscdn.com.a.bdydns.com
   - +.ads-i4.xhscdn.com
+  - +.ads-i4.xhscdn.com.057f7a7d.cdnhwcxcy07.com
+  - +.ads-i8.xhscdn.com
   - +.ads-img-al.xhscdn.com
   - +.ads-img-al.xhscdn.com.w.cdngslb.com
   - +.ads-img-bak.xhscdn.com
@@ -7349,6 +7352,7 @@ payload:
   - +.ads-jp.tiktok.com
   - +.ads-leona-s1.xhscdn.com
   - +.ads-marketing-vivofs.vivo.com.cn
+  - +.ads-marketing-vivofs.vivo.com.cn.ctdns.cn
   - +.ads-monitoring.papegames.com
   - +.ads-monitoring.shziyi.com
   - +.ads-sdk-api.innoads.cn
@@ -11861,6 +11865,7 @@ payload:
   - +.clkservice.youdao.com
   - +.clkservice2.dict.youdao.com
   - +.clog.miguvideo.com
+  - +.clog.skysrt.com
   - +.clog.tanshudata.com
   - +.clonger.cn
   - +.cloooud.com
@@ -12759,6 +12764,7 @@ payload:
   - +.cnzh-kuailian.hl.cn
   - +.cnzz.cn
   - +.cnzz.com
+  - +.co-domaincfg.vivoglobal.com
   - +.co-in-google.com.cn
   - +.co-pnrt-stsdk.vivoglobal.com
   - +.co-qishui.com.cn
@@ -14307,6 +14313,7 @@ payload:
   - +.djkfkv.cn
   - +.djkyl.cn
   - +.djniuwefde.top
+  - +.djs.baomihua.com
   - +.djt-whatsapp.hl.cn
   - +.djzyw.com
   - +.dk-dao.one
@@ -29273,6 +29280,7 @@ payload:
   - +.pvqmrzn-whatsapp.hl.cn
   - +.pvqrmxa-whatsapp.hl.cn
   - +.pvrmqzn-whatsapp.hl.cn
+  - +.pvsa.gxfugy.cn
   - +.pvshoufa.com
   - +.pvsite.zol.com.cn
   - +.pvstat.baomihua.com
@@ -34103,7 +34111,6 @@ payload:
   - +.tr.email.directindustry.com
   - +.tr.email.medicalexpo.com
   - +.tr.email.nauticexpo.com
-  - +.tr.email.virtual-expo.com
   - +.tr.jianshu.com
   - +.tr.p.360.cn
   - +.trace-h5sdk.vivo.com.cn
@@ -36395,6 +36402,7 @@ payload:
   - +.webjet-whatsapp.com.cn
   - +.webjoy-whatsapp.hl.cn
   - +.webkey-whatsapp.hl.cn
+  - +.weblogger-wss.coolgcloud.com
   - +.weblogin-web-whatsapp.net.cn
   - +.webmail-myaccount-secure-micrsoftnotifications-dpob324t4jqd.zh-cn.edgeone.cool
   - +.webmain-web-whatsapp.net.cn
