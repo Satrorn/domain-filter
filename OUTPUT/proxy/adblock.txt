@@ -887,6 +887,9 @@
 ||activelearnprimary.com.au^
 ||activematter.game^
 ||activeteachonline.com^
+||activision.com^
+||activisionblizzard.com^
+||activisionblizzardmedia.com^
 ||activpn.com^
 ||actualidad-rt.com^
 ||aculo.us^
@@ -3741,6 +3744,7 @@
 ||bellsouth.net^
 ||bemywife.cc^
 ||benaughty.fun^
+||benefitsforeveryworld.com^
 ||bengalisexvideos.com^
 ||benliton.com^
 ||bentobox.tv^
@@ -5299,6 +5303,11 @@
 ||callbackkiller.com^
 ||callersbane.com^
 ||callhulu.com^
+||callofduty.com^
+||callofdutyendowment.com^
+||callofdutyendowment.org^
+||callofdutyleague.com^
+||callofdutymobile.com^
 ||calstate.edu^
 ||caltech.edu^
 ||calvappd.me^
@@ -5359,6 +5368,7 @@
 ||canadameet.com^
 ||canalporno.com^
 ||candidforum-videos.com^
+||candycrush.com^
 ||candycumcity.com^
 ||candypleasure.com^
 ||canny.io^
@@ -6599,6 +6609,7 @@
 ||crackle.com^
 ||craigslist.org^
 ||crankplayer.com^
+||crashbandicoot.com^
 ||crashlytics.com^
 ||crates.io^
 ||crazy-amateurs.com^
@@ -7282,6 +7293,7 @@
 ||democracy.earth^
 ||democrats.org^
 ||demonoid.is^
+||demonware.net^
 ||demoprint.com^
 ||demosisto.hk^
 ||denfaminicogamer.jp^
@@ -7414,7 +7426,9 @@
 ||dharmakara.net^
 ||dhcp.biz^
 ||dhlestudio.com.co^
+||diablo.com^
 ||diablo3.com^
+||diablo4.com^
 ||diabloimmortal.com^
 ||diabrowser.com^
 ||diabrowser.engineering^
@@ -9080,6 +9094,7 @@
 ||europeansustainabledesign.net^
 ||europeansustainabledesigncouncil.com^
 ||europeansustainabledesigncouncil.net^
+||europeanwarzoneseries.com^
 ||europepmc.org^
 ||europornstar.com^
 ||eurosexscene.com^
@@ -12571,6 +12586,7 @@
 ||highbolt.net^
 ||highcolonic.info^
 ||highdefinitionbeatsbydre.com^
+||highmoonstudios.com^
 ||highpeakspureearth.com^
 ||highporn.net^
 ||highrockmedia.com^
@@ -13885,6 +13901,7 @@
 ||inf.news^
 ||infinitetoons.com^
 ||infinitetube.com^
+||infinityward.com^
 ||influencersgonewild.com^
 ||info-graf.fr^
 ||infocert.digital^
@@ -15425,6 +15442,7 @@
 ||kindnudist.com^
 ||kindteenporn.com^
 ||kinescopecdn.net^
+||king.com^
 ||kingcomix.com^
 ||kingdomsalvation.org^
 ||kingextre.me^
@@ -21930,6 +21948,7 @@
 ||ratedgross.com^
 ||rateyourmusic.com^
 ||rationalwiki.org^
+||ravensoftware.com^
 ||ravm.tv^
 ||rawgit.com^
 ||rawgithub.com^
@@ -22964,6 +22983,7 @@
 ||sejie.com^
 ||sejie80.com^
 ||sekai.colorfulpalette.org^
+||sekirothegame.com^
 ||seksmet.nl^
 ||sekswebsite.nl^
 ||sekur1213.guru^
@@ -23490,6 +23510,7 @@
 ||sider.ai^
 ||siege-amazon.com^
 ||sierrafriendsoftibet.org^
+||sierragames.com^
 ||sigcomm.org^
 ||sigfpe.com^
 ||sigmoidoscopeexam.com^
@@ -23643,6 +23664,7 @@
 ||skybet.com^
 ||skyking.com.tw^
 ||skykiwi.com^
+||skylanders.com^
 ||skymansion.net^
 ||skymatter.com^
 ||skynet.be^
@@ -23699,6 +23721,7 @@
 ||sleazydream.com^
 ||sleazyfork.org^
 ||sleazyneasy.com^
+||sledgehammergames.com^
 ||slheng.com^
 ||slickvpn.com^
 ||slides.com^
@@ -23880,6 +23903,7 @@
 ||solidaritetibet.org^
 ||solidfiles.com^
 ||solidifi.app^
+||solidstate.com^
 ||solostudioksale.com^
 ||solscan.io^
 ||solutionstation.com^
@@ -24169,6 +24193,7 @@
 ||sputnikmediabank.com^
 ||sputniknews.com^
 ||spyjinx.com^
+||spyrothedragon.com^
 ||sqlite.org^
 ||sqlserveronlinux.com^
 ||sqool.net^
@@ -25706,6 +25731,8 @@
 ||tongil.or.kr^
 ||tonicmovies.com^
 ||tono-oka.jp^
+||tonyhawk.com^
+||tonyhawkthegame.com^
 ||tonyyan.net^
 ||toodoc.com^
 ||toolforge.org^
@@ -25885,6 +25912,7 @@
 ||trendmicro.com^
 ||trendsmap.com^
 ||trendyporn.com^
+||treyarch.com^
 ||trezor.io^
 ||trialofccp.org^
 ||triangulationblog.com^
@@ -28411,6 +28439,7 @@
 ||worldpornvideos.com^
 ||worldsecureemail.com^
 ||worldsecuresystems.com^
+||worldseriesofwarzone.com^
 ||worldsex.com^
 ||worldsfastestgamer.net^
 ||worldvpn.net^

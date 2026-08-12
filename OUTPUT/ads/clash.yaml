@@ -1004,7 +1004,6 @@ payload:
   - +.1gfz.com
   - +.1ghs.cn
   - +.1hlahoc4rpc-sdk.rum.aliyuncs.com
-  - +.1hqput7vfyl-sdk.rum.aliyuncs.com
   - +.1j4kj.com
   - +.1j5p551644.iok.la
   - +.1jdi-k22io.com
@@ -1014,7 +1013,6 @@ payload:
   - +.1l1.cc
   - +.1lib.cn
   - +.1m4962f897.iok.la
-  - +.1m9o22qt9lx-sdk.rum.aliyuncs.com
   - +.1mm.cc
   - +.1mpi.com
   - +.1nevsf92q.com
@@ -6429,7 +6427,6 @@ payload:
   - +.a.baidinet.com
   - +.a.baidu.com
   - +.a.bake818.cn
-  - +.a.baomihua.com
   - +.a.bfking.cn
   - +.a.booksir.cn
   - +.a.bshu.com
@@ -24508,6 +24505,7 @@ payload:
   - +.logsdk.klingai.com
   - +.logsdk.qq.com
   - +.logserver.nzxcloud.cn
+  - +.logservice-asia.agora.io
   - +.logservice-dra.platform.dbankcloud.cn
   - +.logservice-dra.platform.dbankcloud.com
   - +.logservice-dra.platform.hicloud.com
@@ -29932,6 +29930,7 @@ payload:
   - +.qyttqxsdf.cn
   - +.qywdp.com
   - +.qywea.com
+  - +.qyxiangr.com
   - +.qyxrwl.com
   - +.qyyop456.oss-cn-hongkong.aliyuncs.com
   - +.qz-bybit.hl.cn
@@ -30289,7 +30288,6 @@ payload:
   - +.resolver.msg.xiaomi.net
   - +.resona-wujl.com
   - +.resone-shinab.com
-  - +.resource.baomihua.com
   - +.respeaonsct.com
   - +.rest-argus-ad.agoralab.co
   - +.restorego-web-whatsapp.net.cn
@@ -34111,6 +34109,7 @@ payload:
   - +.tr.email.directindustry.com
   - +.tr.email.medicalexpo.com
   - +.tr.email.nauticexpo.com
+  - +.tr.email.virtual-expo.com
   - +.tr.jianshu.com
   - +.tr.p.360.cn
   - +.trace-h5sdk.vivo.com.cn
@@ -37997,6 +37996,7 @@ payload:
   - +.xn--ietu27cyvxbma.cn
   - +.xn--jpr415e.top
   - +.xn--m7r56jim130d78hd43ahbhxog.cn
+  - +.xn--m7r781dz66a.cn
   - +.xn--m8t06cw9sw2j.com
   - +.xn--mkr205c.com
   - +.xn--pjsk-25-ew3o.top

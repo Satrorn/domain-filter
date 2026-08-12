@@ -888,6 +888,9 @@ payload:
   - +.activelearnprimary.com.au
   - +.activematter.game
   - +.activeteachonline.com
+  - +.activision.com
+  - +.activisionblizzard.com
+  - +.activisionblizzardmedia.com
   - +.activpn.com
   - +.actualidad-rt.com
   - +.aculo.us
@@ -3742,6 +3745,7 @@ payload:
   - +.bellsouth.net
   - +.bemywife.cc
   - +.benaughty.fun
+  - +.benefitsforeveryworld.com
   - +.bengalisexvideos.com
   - +.benliton.com
   - +.bentobox.tv
@@ -5300,6 +5304,11 @@ payload:
   - +.callbackkiller.com
   - +.callersbane.com
   - +.callhulu.com
+  - +.callofduty.com
+  - +.callofdutyendowment.com
+  - +.callofdutyendowment.org
+  - +.callofdutyleague.com
+  - +.callofdutymobile.com
   - +.calstate.edu
   - +.caltech.edu
   - +.calvappd.me
@@ -5360,6 +5369,7 @@ payload:
   - +.canadameet.com
   - +.canalporno.com
   - +.candidforum-videos.com
+  - +.candycrush.com
   - +.candycumcity.com
   - +.candypleasure.com
   - +.canny.io
@@ -6600,6 +6610,7 @@ payload:
   - +.crackle.com
   - +.craigslist.org
   - +.crankplayer.com
+  - +.crashbandicoot.com
   - +.crashlytics.com
   - +.crates.io
   - +.crazy-amateurs.com
@@ -7283,6 +7294,7 @@ payload:
   - +.democracy.earth
   - +.democrats.org
   - +.demonoid.is
+  - +.demonware.net
   - +.demoprint.com
   - +.demosisto.hk
   - +.denfaminicogamer.jp
@@ -7415,7 +7427,9 @@ payload:
   - +.dharmakara.net
   - +.dhcp.biz
   - +.dhlestudio.com.co
+  - +.diablo.com
   - +.diablo3.com
+  - +.diablo4.com
   - +.diabloimmortal.com
   - +.diabrowser.com
   - +.diabrowser.engineering
@@ -9081,6 +9095,7 @@ payload:
   - +.europeansustainabledesign.net
   - +.europeansustainabledesigncouncil.com
   - +.europeansustainabledesigncouncil.net
+  - +.europeanwarzoneseries.com
   - +.europepmc.org
   - +.europornstar.com
   - +.eurosexscene.com
@@ -12572,6 +12587,7 @@ payload:
   - +.highbolt.net
   - +.highcolonic.info
   - +.highdefinitionbeatsbydre.com
+  - +.highmoonstudios.com
   - +.highpeakspureearth.com
   - +.highporn.net
   - +.highrockmedia.com
@@ -13886,6 +13902,7 @@ payload:
   - +.inf.news
   - +.infinitetoons.com
   - +.infinitetube.com
+  - +.infinityward.com
   - +.influencersgonewild.com
   - +.info-graf.fr
   - +.infocert.digital
@@ -15426,6 +15443,7 @@ payload:
   - +.kindnudist.com
   - +.kindteenporn.com
   - +.kinescopecdn.net
+  - +.king.com
   - +.kingcomix.com
   - +.kingdomsalvation.org
   - +.kingextre.me
@@ -21931,6 +21949,7 @@ payload:
   - +.ratedgross.com
   - +.rateyourmusic.com
   - +.rationalwiki.org
+  - +.ravensoftware.com
   - +.ravm.tv
   - +.rawgit.com
   - +.rawgithub.com
@@ -22965,6 +22984,7 @@ payload:
   - +.sejie.com
   - +.sejie80.com
   - +.sekai.colorfulpalette.org
+  - +.sekirothegame.com
   - +.seksmet.nl
   - +.sekswebsite.nl
   - +.sekur1213.guru
@@ -23491,6 +23511,7 @@ payload:
   - +.sider.ai
   - +.siege-amazon.com
   - +.sierrafriendsoftibet.org
+  - +.sierragames.com
   - +.sigcomm.org
   - +.sigfpe.com
   - +.sigmoidoscopeexam.com
@@ -23644,6 +23665,7 @@ payload:
   - +.skybet.com
   - +.skyking.com.tw
   - +.skykiwi.com
+  - +.skylanders.com
   - +.skymansion.net
   - +.skymatter.com
   - +.skynet.be
@@ -23700,6 +23722,7 @@ payload:
   - +.sleazydream.com
   - +.sleazyfork.org
   - +.sleazyneasy.com
+  - +.sledgehammergames.com
   - +.slheng.com
   - +.slickvpn.com
   - +.slides.com
@@ -23881,6 +23904,7 @@ payload:
   - +.solidaritetibet.org
   - +.solidfiles.com
   - +.solidifi.app
+  - +.solidstate.com
   - +.solostudioksale.com
   - +.solscan.io
   - +.solutionstation.com
@@ -24170,6 +24194,7 @@ payload:
   - +.sputnikmediabank.com
   - +.sputniknews.com
   - +.spyjinx.com
+  - +.spyrothedragon.com
   - +.sqlite.org
   - +.sqlserveronlinux.com
   - +.sqool.net
@@ -25707,6 +25732,8 @@ payload:
   - +.tongil.or.kr
   - +.tonicmovies.com
   - +.tono-oka.jp
+  - +.tonyhawk.com
+  - +.tonyhawkthegame.com
   - +.tonyyan.net
   - +.toodoc.com
   - +.toolforge.org
@@ -25886,6 +25913,7 @@ payload:
   - +.trendmicro.com
   - +.trendsmap.com
   - +.trendyporn.com
+  - +.treyarch.com
   - +.trezor.io
   - +.trialofccp.org
   - +.triangulationblog.com
@@ -28412,6 +28440,7 @@ payload:
   - +.worldpornvideos.com
   - +.worldsecureemail.com
   - +.worldsecuresystems.com
+  - +.worldseriesofwarzone.com
   - +.worldsex.com
   - +.worldsfastestgamer.net
   - +.worldvpn.net
