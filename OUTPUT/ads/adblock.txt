@@ -2023,14 +2023,10 @@
 ||4fe55e9f6c893405.com^
 ||4ffbace1f38aeffc.com^
 ||4fizjo-poland.shop^
-||4fizjo.club^
 ||4fizjocome.shop^
 ||4fizjofb.shop^
 ||4fizjofitness.shop^
-||4fizjopl.shop^
-||4fizjos.shop^
 ||4fizjosp.shop^
-||4fizjosports.shop^
 ||4fizjosup.shop^
 ||4fizjoutdoor.shop^
 ||4fizsale.shop^
@@ -8057,9 +8053,6 @@
 ||alphwdfa.cfd^
 ||alphxoar.cfd^
 ||alphxzo.cfd^
-||alpinuoutdoor.shop^
-||alpinus-pl.shop^
-||alpinusports.shop^
 ||alpjshz.cfd^
 ||alplsok.cfd^
 ||alpmnvx.cfd^
@@ -10288,7 +10281,6 @@
 ||bitgetfv.com.cn^
 ||bitmedianetwork.com^
 ||bitpie-wallet.com.cn^
-||bitradex-polska.com^
 ||bivgiokd0y.cn^
 ||biwei123.com^
 ||bixinqianbaoapp.com.cn^
@@ -10367,10 +10359,8 @@
 ||blackdragon02.oss-ap-southeast-5.aliyuncs.com^
 ||blackdragon03.oss-ap-southeast-5.aliyuncs.com^
 ||blackhh.top^
-||blackhome.club^
 ||blackjacknocounting.com^
 ||blackrose-finbitnex-pl.net^
-||blanked.edgeone.dev^
 ||blbet.com^
 ||blbet1.com^
 ||blblbl-1359435016.cos.ap-guangzhou.myqcloud.com^
@@ -10618,8 +10608,6 @@
 ||brqxm-whatsapp.com.cn^
 ||brt-it.website^
 ||brtzn-whatsapp.hl.cn^
-||brubeck-pl.shop^
-||brubeck-sports.shop^
 ||bruk.cn^
 ||bruplong.oss-accelerate.aliyuncs.com^
 ||bruvanek-pl.com^
@@ -10712,7 +10700,6 @@
 ||buyweb-whatsapp.hl.cn^
 ||buzfi.cn^
 ||bv-kuailian.hl.cn^
-||bvafrgmentumioter-dpun22ih62e8.edgeone.dev^
 ||bvakl.ifeng.com^
 ||bvcxd.com^
 ||bve.com.cn^
@@ -11073,8 +11060,6 @@
 ||caoyuanmuye.com.cn^
 ||capecodvoice.com^
 ||capital-whatsapp.com.cn^
-||capitalcore-ai.com^
-||capitalcore-ai.net^
 ||capitalnet.cn^
 ||capjfx.club^
 ||capn.oss-eu-central-1.aliyuncs.com^
@@ -11107,7 +11092,6 @@
 ||cartaocontinente-ptzvr.cfd^
 ||cartersda.com^
 ||cartx.cloud^
-||cas-microsoft.edgeone.dev^
 ||casaos.oss-cn-shanghai.aliyuncs.com^
 ||casaperch.com^
 ||casee.cn^
@@ -11128,6 +11112,7 @@
 ||casubi.com^
 ||cat-like.com^
 ||catalog.fjwhcbsh.com^
+||catfront.dianping.com^
 ||catvps.cn^
 ||cause-whatsapp.hl.cn^
 ||cautious-parakeet-dp8m7ealq3k4.edgeone.dev^
@@ -13087,7 +13072,6 @@
 ||cpu.baidu.com^
 ||cpucdn.baidu.com^
 ||cpux.gmud.top^
-||cpwehwhhhdsjddjkdfhesh-dps076qx66zp.edgeone.dev^
 ||cpx-whatsapp.hl.cn^
 ||cq850.com^
 ||cq9d6.com^
@@ -14169,6 +14153,8 @@
 ||diakuan.cn^
 ||dialer.cdn.cootekservice.com^
 ||dialogu.vip^
+||diament-zyskura.com^
+||diamentzyskura-pl.com^
 ||diamonstar.cn^
 ||dianfeng.hl.cn^
 ||diannaodian.com^
@@ -14453,6 +14439,7 @@
 ||do-global.com^
 ||do-sogou.com.cn^
 ||dobra-aktywolnia-pl.com^
+||dobraaktywolnia-ai.com^
 ||doc-fcms.edgeone.dev^
 ||doc-share.top^
 ||doc.belstar.com.cn^
@@ -16549,7 +16536,6 @@
 ||f3i5-0g49bgn-3h95-1324992141.cos.ap-jakarta.myqcloud.com^
 ||f3rf3r.oss-cn-beijing.aliyuncs.com^
 ||f4065397b4827c54.com^
-||f40914238-3da7-4de7-8dee-307e6692cfb8.edgeone.dev^
 ||f420c87dc6edc406.com^
 ||f442165e29dbca6e.com^
 ||f44b9bd1fe4e913f.com^
@@ -16986,10 +16972,6 @@
 ||fighter-pl.shop^
 ||fighter-shop.shop^
 ||fighter-sklep.shop^
-||fighterboks.shop^
-||fighteres.shop^
-||fighterspor.shop^
-||fightersport.shop^
 ||fightersports.shop^
 ||fighterstore.shop^
 ||figure-whatsapp.hl.cn^
@@ -17057,9 +17039,6 @@
 ||fitnessweb-whatsapp.hl.cn^
 ||fitop.com^
 ||fitweb-whatsapp.hl.cn^
-||fiu07060kl.com^
-||fiu07070kl.com^
-||fiu07090kl.com^
 ||fiuffuev.xyz^
 ||five999.com^
 ||fiwyjar.cn^
@@ -17672,11 +17651,8 @@
 ||gar-google.com.cn^
 ||garacy.cn^
 ||garagestorage.net.cn^
-||garden-home.shop^
 ||garden-whatsapp.hl.cn^
 ||garden.40409.cn^
-||gardenpl.club^
-||gardenshop.top^
 ||gas.data.pplive.com^
 ||gasolinegames.com^
 ||gassafe.com.cn^
@@ -17976,7 +17952,6 @@
 ||girklr.cn^
 ||gises.top^
 ||gist-githubusercontent-com.hhj520.top^
-||gistalco.shop^
 ||git.hanhan3344.cn^
 ||gitco.com.cn^
 ||github-cn.hl.cn^
@@ -18153,7 +18128,6 @@
 ||go8.plus^
 ||goal-whatsapp.com.cn^
 ||goalie.cn^
-||goalpinus.shop^
 ||gob-google.com.cn^
 ||gobanclm.com^
 ||gobcpe.qpon^
@@ -18183,7 +18157,6 @@
 ||gohi-tech.ltd^
 ||gojunkclean.cn^
 ||gokoton.shop^
-||gokutahya.shop^
 ||goldbye.vicp.net^
 ||goldengoosee.com^
 ||goldenlee.cn^
@@ -19422,7 +19395,6 @@
 ||hhttm.top^
 ||hhtzq.com^
 ||hhy.lol^
-||hi-mountain.shop^
 ||hi-sogou.com.cn^
 ||hi-web-whatsapp.net.cn^
 ||hi-wps.com.cn^
@@ -19903,8 +19875,6 @@
 ||home-score-iyx-sports.com.cn^
 ||home-sporttery.com^
 ||home-ueg-whatsappm.com.cn^
-||home-you.click^
-||home-you.club^
 ||home-you.ink^
 ||home-zh-kaiyunsport.com^
 ||home-zh-kering-play.com^
@@ -19916,22 +19886,11 @@
 ||homepet.store^
 ||homepokeredge.com^
 ||homesello.shop^
-||homeyous.shop^
-||homla-sklep.club^
-||homla.cfd^
-||homla.club^
-||homla.cyou^
-||homla.fashion^
 ||homla.help^
-||homla.icu^
-||homla.ink^
 ||homla.wiki^
 ||homla.yachts^
-||homladom.homes^
-||homladom.shop^
 ||homlafan.shop^
 ||homlamake.shop^
-||homlas.homes^
 ||homo114514.com.cn^
 ||homsale.shop^
 ||homstore.shop^
@@ -21131,6 +21090,8 @@
 ||ishuoshuo.com^
 ||isite.baidu.com^
 ||iskd.click^
+||iskra-inwestek.com^
+||iskra-inwestek.net^
 ||isl-whatsapp.com.cn^
 ||isles.cn^
 ||ismsms.org^
@@ -25534,7 +25495,6 @@
 ||met2.hp.com^
 ||meta-clash-verge.hl.cn^
 ||meta-learning.online^
-||meta-transparency-appeal-form-471ed0d914a1.edgeone.dev^
 ||meta.video.qiyi.com^
 ||meta360ai.com^
 ||metamask-log.iwopop.com^
@@ -26498,6 +26458,7 @@
 ||nacexx.xyz^
 ||nadvideo.baidu.com^
 ||nadvideo2.baidu.com^
+||nadziejazyskunai.com^
 ||nailbytes1.com^
 ||nainiuyx.xyz^
 ||najwd.com^
@@ -26508,6 +26469,7 @@
 ||nano-game-ad-slot.oss-cn-hongkong.aliyuncs.com^
 ||nanweng.cn^
 ||naok-pl.shop^
+||napedluxoriaai.com^
 ||napolicn.hl.cn^
 ||napoliweb.hl.cn^
 ||naqszc.com^
@@ -28767,11 +28729,6 @@
 ||pipizhanzhang.com^
 ||pis-tel-pcdn.youku.com^
 ||pishjdaagd.cn^
-||pitbull-sklep.shop^
-||pitbullcloths.club^
-||pitbullcloths.shop^
-||pitbullsport.club^
-||pitbullsports.club^
 ||pitch.oss-eu-west-1.aliyuncs.com^
 ||pivnnpo.cn^
 ||pixon.ads-pixiv.net^
@@ -28925,6 +28882,7 @@
 ||polaris5-normal-xh.zijieapi.com^
 ||polaris5-normal-zb.zijieapi.com^
 ||polarloco.com^
+||polfundai.com^
 ||policy.jd.com^
 ||policy.video.iqiyi.com^
 ||policy.video.ptqy.gitv.tv^
@@ -28935,7 +28893,6 @@
 ||pollycloud.com^
 ||pollylab.com^
 ||polsert.top^
-||polunexapro-pl.com^
 ||polvestapro.com^
 ||polycom.ltd^
 ||polyfill-js.cn^
@@ -30209,7 +30166,6 @@
 ||releaseapks.oss-ap-southeast-5.aliyuncs.com^
 ||relish.com.cn^
 ||relliun.cn^
-||reloader-dpffdavrss4p.edgeone.dev^
 ||rememb.oss-ap-northeast-1.aliyuncs.com^
 ||ren-tile.com^
 ||renderscience.com^
@@ -32245,14 +32201,8 @@
 ||stalco-mall.club^
 ||stalco-market.club^
 ||stalco-skleppl.club^
-||stalco.cc^
-||stalco.click^
-||stalco.icu^
-||stalco.ink^
 ||stalco24.club^
-||stalconarse.club^
 ||stalcookazje.club^
-||stalcopl-24.shop^
 ||stalcopl.shop^
 ||stalcos.club^
 ||stalcosa.club^
@@ -33071,7 +33021,6 @@
 ||tapdb.com^
 ||tapdb.net^
 ||tapiche.cn^
-||tapin.edgeone.dev^
 ||tapjoy.cn^
 ||target.ads.jihuoniao.com^
 ||targetedmedia.com.cn^
@@ -35115,7 +35064,6 @@
 ||upload-up.qtfm.cn^
 ||uplog.inews.qq.com^
 ||uplog.qbox.me^
-||upltv.com^
 ||ups-sdk-error.17m3.com^
 ||ups-sdk-error.17m3.com.cdn.dnsv1.com^
 ||ups.ksmobile.net^
@@ -35410,6 +35358,7 @@
 ||v9-dc-ad.ixigua.com^
 ||v9-net.top^
 ||v9-reading-ad.qznovelvod.com^
+||v95-aw-reading-ad.qznovelvod.com^
 ||v95-se-zjwztc-reading-ad.qznovelvod.com^
 ||v95-zjjx2tc-reading-ad.qznovelvod.com^
 ||v96-reading-ad.qznovelvod.com^
@@ -35434,7 +35383,6 @@
 ||valveman.cn^
 ||vamaker.com^
 ||vamh.cn^
-||vanaheim.shop^
 ||vangelinu.com^
 ||vangogh.bytedance.com.queniuiq.com^
 ||vapepie-web.com^
@@ -35546,7 +35494,6 @@
 ||vn-ebay.quxlpuj.cn^
 ||vn-mtws-whatsapp.com.cn^
 ||vn-wps.com.cn^
-||vnclip.net^
 ||vncn-wps.com.cn^
 ||vncq.cn^
 ||vnrsd-whatsapp.hl.cn^
@@ -36520,6 +36467,7 @@
 ||werkstattgo99.online^
 ||wesaitpac.help^
 ||wesiedu.com^
+||weslomikai.com^
 ||westbank2026.vip^
 ||westbank365.vip^
 ||westbanks2026.vip^
@@ -38592,7 +38540,6 @@
 ||ycyba.com^
 ||ycycle.life^
 ||ycyipha.cn^
-||yd.lyjt.cc^
 ||yd126.com^
 ||ydbee.cn^
 ||ydgj2727.com^
@@ -39908,6 +39855,8 @@
 ||zylawoffice.com.cn^
 ||zync-gov.cn^
 ||zyqtc.cn^
+||zyskonex-ai.com^
+||zyskonex-pl.com^
 ||zythdolm.cn^
 ||zytsbro.cn^
 ||zyunkjhz.com^
