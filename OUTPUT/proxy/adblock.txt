@@ -12622,6 +12622,7 @@
 ||hippyhillscomix.com^
 ||hipzoom.net^
 ||hiroshimabank.co.jp^
+||historylines.net^
 ||historyofdota.com^
 ||historyofdota.net^
 ||historyofdota.org^
@@ -15494,6 +15495,7 @@
 ||kiwi.jp^
 ||kiwi.kz^
 ||kiwibrowser.com^
+||kiwix.org^
 ||kiyobank.co.jp^
 ||kjj05.cn^
 ||kk-whys.co.jp^
@@ -16855,6 +16857,7 @@
 ||mcdonaldsarabia.com^
 ||mcdonaldsparties.co.nz^
 ||mcdonaldsparties.com.au^
+||mceindex.com^
 ||mcfog.com^
 ||mcisco.com^
 ||mcpeaceofmind.com^
