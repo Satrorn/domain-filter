@@ -2108,6 +2108,7 @@
 ||api.nebula-emby.com^
 ||api.news^
 ||api.recaptcha.net^
+||api.shuaiapi.com^
 ||api.waqi.info^
 ||apiary.io^
 ||apiauto.ru^
@@ -28607,6 +28608,7 @@
 ||x3guide.com^
 ||x3vid.com^
 ||x6av.com^
+||x86.fr^
 ||x99av.com^
 ||x9wang.com^
 ||xacmbq.xyz^
