@@ -926,6 +926,7 @@ payload:
   - +.adguard.io
   - +.adguard.org
   - +.adguardaccount.com
+  - +.adguardaccount.net
   - +.adguardcdn.com
   - +.adguardvpn.com
   - +.adhelpnews.com
@@ -12947,7 +12948,6 @@ payload:
   - +.hp-mns.com
   - +.hp-printing.com
   - +.hp-webplatform.com
-  - +.hp-ww.com
   - +.hp.company
   - +.hp.io
   - +.hp3d.com
@@ -19990,6 +19990,7 @@ payload:
   - +.oursteps.com.au
   - +.oursweb.net
   - +.ourtv.hk
+  - +.ouryahoo.com
   - +.out-app-purchase.com
   - +.outbound.io
   - +.outdoorpublicsex.com
@@ -29376,6 +29377,7 @@ payload:
   - +.yahoodns.net
   - +.yahoofinance.com
   - +.yahoohealth.com
+  - +.yahooinc.com
   - +.yahoomusic.com
   - +.yahoosandbox.com
   - +.yahoosportsbook.com
