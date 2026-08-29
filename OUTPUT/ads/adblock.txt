@@ -10324,7 +10324,6 @@
 ||ads-i1.xhscdn.com^
 ||ads-i10.xhscdn.com^
 ||ads-i2.xhscdn.com^
-||ads-i2.xhscdn.com.w.cdngslb.com^
 ||ads-i3.xhscdn.com^
 ||ads-i3.xhscdn.com.a.bdydns.com^
 ||ads-i4.xhscdn.com^
@@ -10338,7 +10337,6 @@
 ||ads-impressions.com^
 ||ads-inmobi-comtm.trafficmanager.net^
 ||ads-jp.tiktok.com^
-||ads-leona-s1.xhscdn.com^
 ||ads-lite.net^
 ||ads-lite2.net^
 ||ads-lot.ru^
@@ -53654,6 +53652,7 @@
 ||mailstat.us^
 ||mailtrack.io^
 ||mailtrack.me^
+||mailwilling-dp9gqao71lzl.edgeone.dev^
 ||main-9games.com^
 ||main-bundesliga-kaiyun.com.cn^
 ||main-caikewang.com^
@@ -91593,7 +91592,6 @@
 ||yandexadexchange.net^
 ||yandexmetrica.com^
 ||yango-ads.com^
-||yangshengzu.cn^
 ||yanmysipmhlgg.space^
 ||yannqrnohpakv.space^
 ||yaolu.mh.163.com^
