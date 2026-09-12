@@ -21770,6 +21770,7 @@
 ||qt.io^
 ||qtrac.eu^
 ||qtweeter.com^
+||quakemachinex.com^
 ||qualcomm-email.com^
 ||qualcomm-inc.com^
 ||qualcomm.cn^
