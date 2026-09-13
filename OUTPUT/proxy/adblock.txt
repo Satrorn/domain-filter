@@ -19530,7 +19530,6 @@
 ||oasis.io^
 ||oasisfeng.com^
 ||oath.cloud^
-||oath.com^
 ||oauth.net^
 ||oauthz.com^
 ||objectarx.com^
@@ -19881,7 +19880,6 @@
 ||opera-api2.com^
 ||opera-browser.com^
 ||opera-mini.net^
-||opera.com^
 ||opera.software^
 ||operacdn.com^
 ||operagx.com^
