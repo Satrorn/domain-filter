@@ -6357,6 +6357,7 @@
 ||code1984.com^
 ||codeberg.org^
 ||codeberg.page^
+||codebuff.com^
 ||codecademy.com^
 ||codeforaliving.io^
 ||codeforces.com^
@@ -9963,11 +9964,13 @@
 ||fire-emblem-heroes.com^
 ||firearmsworld.net^
 ||firebase.com^
+||firebase.dev^
 ||firebase.io^
 ||firebaseapp.com^
 ||firebaseio.com^
 ||firech.at^
 ||fireemblemawakening.com^
+||firefox-portal-detection.com^
 ||firefox.com^
 ||firefox.com.cn^
 ||firefox.hu^
@@ -10436,6 +10439,7 @@
 ||freebsdmall.com^
 ||freebsdnews.com^
 ||freebsdsoftware.org^
+||freebuff.com^
 ||freecamsfan.com^
 ||freecamstars.com^
 ||freecartoons.biz^
@@ -25224,6 +25228,7 @@
 ||textnow.me^
 ||texttobuy.org^
 ||texture.com^
+||tfbnw.net^
 ||tfc-taiwan.org.tw^
 ||tferwq.com^
 ||tfhub.dev^
