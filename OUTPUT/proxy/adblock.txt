@@ -15951,7 +15951,6 @@
 ||likee.com^
 ||likeeapp.ru^
 ||likeevideo.com^
-||likeevideo.ru^
 ||likeseiyu.com^
 ||liketruyen.net^
 ||liketwice.com^
