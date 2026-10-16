@@ -1,5 +1,6 @@
 payload:
   - +.0000000000000000000000.com
+  - +.001www.com
   - +.0rg.us
   - +.0x.no
   - +.100mountain.com
@@ -195,6 +196,7 @@ payload:
   - +.cloudns.pro
   - +.cloudwatch.net
   - +.cloudxns.net
+  - +.cmirg.com
   - +.cnstefancelmare.ro
   - +.coalnet.ru
   - +.codns.com
