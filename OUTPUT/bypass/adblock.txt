@@ -1304,12 +1304,14 @@
 ||routemehome.com^
 ||roxa.org^
 ||rpz.su^
+||rr.nu^
 ||rtam.net^
 ||rubyfish.cn^
 ||rum.si^
 ||run.place^
 ||rundis.com^
 ||ruok.org^
+||russkoeumea.com^
 ||rwbcode.com^
 ||ryointernational.com^
 ||sandmeiers.ch^
@@ -1435,6 +1437,7 @@
 ||stocktester.ru^
 ||stoupin.ru^
 ||strangled.net^
+||stroyexpert.org^
 ||stuff-4-sale.org^
 ||stuff-4-sale.us^
 ||stufftoread.com^
@@ -1442,6 +1445,7 @@
 ||stuns.org^
 ||sumibi.org^
 ||sundby.com^
+||surak.kz^
 ||surfnet.ca^
 ||suroot.com^
 ||swoop2.me^
