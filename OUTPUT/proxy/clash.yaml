@@ -5048,6 +5048,7 @@ payload:
   - +.bs-awh.ne.jp
   - +.bsappapi.cc
   - +.bsappapi.com
+  - +.bscdnweb.com
   - +.bsdforen.de
   - +.bsdguru.org
   - +.bsdnexus.com
@@ -6824,6 +6825,7 @@ payload:
   - +.cursor.com
   - +.cursor.sh
   - +.cursorapi.com
+  - +.cursorvm.com
   - +.curve.fi
   - +.curvefish.com
   - +.curvybbwwives.com
@@ -19904,6 +19906,7 @@ payload:
   - +.open-suse.ru
   - +.open.com.hk
   - +.openai.com
+  - +.openai.org
   - +.openallweb.com
   - +.openamt.com
   - +.openapiplatform.com
@@ -22988,6 +22991,7 @@ payload:
   - +.schwab.com.hk
   - +.schwab.com.sg
   - +.schwabassetmanagement.com
+  - +.schwabcdn.com
   - +.schwabplan.com
   - +.sci-hub.it.nf
   - +.sci-hub.mksa.top
@@ -25767,6 +25771,8 @@ payload:
   - +.timestalks.com
   - +.timeweb.cloud
   - +.timeweb.com
+  - +.timeweb.tech
+  - +.timewebcloud.kz
   - +.timi1.me
   - +.timo0.com
   - +.timsah.com
@@ -26496,6 +26502,7 @@ payload:
   - +.typekit.net
   - +.typenetwork.com
   - +.typepad.com
+  - +.typesafe.ai
   - +.typeset.io
   - +.typesquare.com
   - +.typography.com
