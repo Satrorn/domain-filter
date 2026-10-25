@@ -44,6 +44,7 @@ payload:
   - +.123-hp.com
   - +.123av.com
   - +.123av.me
+  - +.123av.org
   - +.123bin.cc
   - +.123dapp.com
   - +.123dappipad.com
@@ -206,6 +207,7 @@ payload:
   - +.1password.co
   - +.1password.com
   - +.1password.community
+  - +.1password.dev
   - +.1password.drift.click
   - +.1password.eu
   - +.1password.io
@@ -5705,6 +5707,10 @@ payload:
   - +.cdp1998.org
   - +.cdp2006.org
   - +.cdpeu.org
+  - +.cdpred.services
+  - +.cdprojekt.com
+  - +.cdprojekt.red
+  - +.cdprojektred.com
   - +.cdpuk.co.uk
   - +.cdpusa.org
   - +.cdpweb.org
@@ -6886,6 +6892,7 @@ payload:
   - +.cyberctm.com
   - +.cyberghostvpn.com
   - +.cybermondaybeats4sale.com
+  - +.cyberpunk.net
   - +.cybersport.ru
   - +.cybertrust.co.jp
   - +.cybertrust.ne.jp
@@ -15532,6 +15539,7 @@ payload:
   - +.kilmeadeandfriends.com
   - +.kimchi.tv
   - +.kimogirl.cc
+  - +.kimootoko.net
   - +.kimosex.com
   - +.kimy.com.tw
   - +.kindgirls.com
@@ -17668,6 +17676,7 @@ payload:
   - +.miniwindsor.com
   - +.miniworkshop.com
   - +.miniyaletown.ca
+  - +.minkch.com
   - +.minnano-av.com
   - +.minne.com
   - +.minneapolisbmw.com
@@ -19258,6 +19267,7 @@ payload:
   - +.nixpkgs.org
   - +.niziero.info
   - +.njactb.org
+  - +.njav.com
   - +.njav.tv
   - +.njavtv.com
   - +.njpw.co.jp
@@ -20946,6 +20956,7 @@ payload:
   - +.playfabapi.com
   - +.playfamily.ru
   - +.playforceone.com
+  - +.playgwent.com
   - +.playhearthstone.com
   - +.playmation.com
   - +.playmeow.com
@@ -21002,6 +21013,7 @@ payload:
   - +.pmates.com
   - +.pmem.org
   - +.pmem.us
+  - +.po-kaki-to.com
   - +.po18.tw
   - +.po2b.com
   - +.pobeda.page
@@ -25598,6 +25610,7 @@ payload:
   - +.theweek.in
   - +.thewgo.org
   - +.thewirechina.com
+  - +.thewitcher.com
   - +.thewonderful101.com
   - +.theync.com
   - +.theyxxx.com
@@ -29060,6 +29073,9 @@ payload:
   - +.xn--czq75pvv1aj5c.org
   - +.xn--d1abkf4ap.fun
   - +.xn--d4ty0ojsqzfd.com
+  - +.xn--fiq80y.hk
+  - +.xn--fiq80y3xbiwr.hk
+  - +.xn--fiq80y3xbiwrs0kiu9d.hk
   - +.xn--fiqs8s1bxp3anr7a.hk
   - +.xn--fiqs8s1byzqyvl.hk
   - +.xn--flw351e.com
@@ -30374,6 +30390,7 @@ payload:
   - +.zorrovpn.com
   - +.zotero.org
   - +.zozotown.com
+  - +.zozovideo.com
   - +.zpagov.net
   - +.zpath.com
   - +.zpn.im
