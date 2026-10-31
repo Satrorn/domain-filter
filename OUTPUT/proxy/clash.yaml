@@ -133,6 +133,7 @@ payload:
   - +.18comic-god.xyz
   - +.18comic.cc
   - +.18comic.company
+  - +.18comic.ink
   - +.18comic.org
   - +.18comic.vip
   - +.18commic.com
@@ -4075,6 +4076,7 @@ payload:
   - +.bingoporno.com
   - +.bingparachute.com
   - +.bingsandbox.com
+  - +.bingstatic.com
   - +.bingvisualsearch.com
   - +.bingworld.com
   - +.bingx.com
@@ -5077,6 +5079,7 @@ payload:
   - +.bsersd.xyz
   - +.bsi.ir
   - +.bsky.app
+  - +.bsky.chat
   - +.bsky.network
   - +.bsky.social
   - +.bspb.ru
@@ -11409,6 +11412,7 @@ payload:
   - +.githubassets.com
   - +.githubcopilot.com
   - +.githubhackathon.com
+  - +.githubhelp.com
   - +.githubnext.com
   - +.githubpreview.dev
   - +.githubstatus.com
@@ -18191,6 +18195,7 @@ payload:
   - +.msftauthimages.net
   - +.msfteducation.ca
   - +.msftnet.org
+  - +.msftstatic.com
   - +.msgamesresearch.com
   - +.msgamestudios.com
   - +.msguancha.com
@@ -25836,9 +25841,12 @@ payload:
   - +.tiktokeu-cdn.com
   - +.tiktokglobalshopv.com
   - +.tiktokminis.us
+  - +.tiktokshop.com
+  - +.tiktokstaticb.com
   - +.tiktokv.com
   - +.tiktokv.eu
   - +.tiktokv.us
+  - +.tiktokvapp.com
   - +.tiktokw.eu
   - +.tiktokw.us
   - +.tilda.cc
