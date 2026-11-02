@@ -4379,6 +4379,7 @@
 ||bmi.ir^
 ||bmia.org^
 ||bml.info^
+||bmonkeys.net^
 ||bmw-abudhabi.com^
 ||bmw-adventskalender.com^
 ||bmw-albania.com^
@@ -4805,6 +4806,7 @@
 ||bokep.net^
 ||bokepseks.org^
 ||bokepvidz.com^
+||boldgrid.com^
 ||bolehvpn.net^
 ||bollywoodlife.com^
 ||boltdns.net^
@@ -6335,6 +6337,7 @@
 ||cloudproxy.app^
 ||cloudrobotics.com^
 ||cloudvolumes.com^
+||cloudwp.dev^
 ||cloudyzgirl.com^
 ||cloupia.com^
 ||cloupia.net^
@@ -24664,6 +24667,7 @@
 ||steamladder.com^
 ||steamofporn.com^
 ||steamos.cloud^
+||steampeek.hu^
 ||steampowered.com^
 ||steamserver.net^
 ||steamstatic.com^
@@ -27771,6 +27775,7 @@
 ||vodafone.de^
 ||vodafone.it^
 ||vodafone.nl^
+||vodafoneziggo.nl^
 ||voicettank.org^
 ||vokevr.com^
 ||vol.moe^
@@ -28275,7 +28280,9 @@
 ||webex.es^
 ||webex.fr^
 ||webfee.org.ru^
+||webflow-ext.com^
 ||webflow.com^
+||webflow.io^
 ||webfreer.com^
 ||webgata.net^
 ||webgirlsonline.net^
@@ -28303,6 +28310,7 @@
 ||webs-tv.net^
 ||websdr.org^
 ||webshare.io^
+||website-files.com^
 ||website.new^
 ||websitepulse.com^
 ||websnapr.com^
@@ -30328,6 +30336,7 @@
 ||zi5.me^
 ||zibacity.com^
 ||ziddu.com^
+||ziggo.nl^
 ||ziglang.org^
 ||zigzag.kr^
 ||zillionk.com^
