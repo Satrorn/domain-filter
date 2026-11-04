@@ -3752,6 +3752,7 @@
 ||beget.cloud^
 ||beget.com^
 ||beget.de^
+||beget.email^
 ||beget.hosting^
 ||beget.pro^
 ||beget.ru^
@@ -4005,6 +4006,7 @@
 ||bili2.cc^
 ||bili888.com^
 ||bili999.com^
+||bilibili.tv^
 ||bilibili230.com^
 ||bilibili301.xyz^
 ||bilibili306.xyz^
