@@ -7175,6 +7175,7 @@
 ||debianitalia.org^
 ||debianizzati.org^
 ||debianpt.org^
+||debot.ai^
 ||debug.com^
 ||debugproject.com^
 ||debuntu.org^
@@ -22415,6 +22416,7 @@
 ||religionnews.com^
 ||religioustolerance.org^
 ||remirepo.net^
+||remna.dev^
 ||remna.st^
 ||renanse.com^
 ||rencapbank.ru^
