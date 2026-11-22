@@ -4960,6 +4960,7 @@
 ||bravoteens.com^
 ||bravotube.net^
 ||bravotube.tv^
+||bravotv.com^
 ||brawlstars.com^
 ||brawlstarsgame.com^
 ||brazilpartneruniversity.com^
@@ -6380,6 +6381,7 @@
 ||cna.com.tw^
 ||cnabc.com^
 ||cnbc.com^
+||cnbccouncils.com^
 ||cnbcfm.com^
 ||cnbeta.com.tw^
 ||cncrivals.com^
@@ -9706,6 +9708,7 @@
 ||fantom.network^
 ||fantv.hk^
 ||fanyue.info^
+||fanza.jp^
 ||fap-xxx.com^
 ||fap18.net^
 ||fap666.com^
@@ -10236,6 +10239,7 @@
 ||fnmt.es^
 ||foampositeshoes.com^
 ||fochk.org^
+||focusfeatures.com^
 ||focustaiwan.tw^
 ||focusvpn.com^
 ||fofg-europe.net^
@@ -12337,6 +12341,7 @@
 ||hayabusa.media^
 ||hayday.com^
 ||haydaygame.com^
+||hayu.com^
 ||hayya.ae^
 ||hb4bbbbb.pmhcjk.com^
 ||hbabit.com^
@@ -13899,6 +13904,7 @@
 ||illawarramercury.com.au^
 ||illgames.jp^
 ||illianacomputerrecycling.com^
+||illumination.com^
 ||illusion.co.jp^
 ||illusion.jp^
 ||illusion111.com^
@@ -18721,8 +18727,11 @@
 ||nbcolympics.com^
 ||nbcsports.com^
 ||nbcudigitaladops.com^
+||nbcumv.com^
 ||nbcuni.com^
+||nbcunicareers.com^
 ||nbcuniversal.com^
+||nbcuniversalprivacy.com^
 ||nbdh15.buzz^
 ||nbtvpn.com^
 ||nbys.tv^
@@ -22448,6 +22457,7 @@
 ||renyurenquan.org^
 ||renzhe.cloud^
 ||repe21.com^
+||replit.com^
 ||repo.new^
 ||report-megafon.ru^
 ||repotama.com^
@@ -25365,6 +25375,7 @@
 ||telegraph.co.uk^
 ||telekom.com^
 ||telekom.de^
+||telemundo.com^
 ||telephony.goog^
 ||telerik.com^
 ||telesco.pe^
@@ -26107,6 +26118,7 @@
 ||torrenty.org^
 ||torrentz.eu^
 ||torrindex.net^
+||tortoisegit.org^
 ||tortoisesvn.net^
 ||torvpn.com^
 ||tospo-keiba.jp^
@@ -26772,6 +26784,7 @@
 ||udnfunlife.com^
 ||udomain.hk^
 ||udtrucksmeena.com^
+||udxfpp.com^
 ||ueberamazon.de^
 ||uflash.tv^
 ||uforadio.com.tw^
@@ -26877,11 +26890,18 @@
 ||unityedu.cn^
 ||unityedu.com^
 ||unityedu.com.cn^
+||universalbeijingresort.com^
+||universalhorrorunleashed.com^
+||universalkidsresort.com^
 ||universalorlando.com^
+||universalpictures.co.uk^
 ||universalpictures.com^
+||universalpicturesathome.com^
 ||universalpicturesinternational.com^
+||universalproductsexperiences.com^
 ||universalscalablefirmware.org^
 ||universalstudioshollywood.com^
+||universalukproject.co.uk^
 ||universitypressscholarship.com^
 ||unix100.com^
 ||unknownspace.org^
@@ -26917,6 +26937,7 @@
 ||upfrontcfd.com^
 ||upfrontfea.com^
 ||upghsbc.com^
+||uphe.com^
 ||upholdjustice.org^
 ||upjav.cc^
 ||uplay-istrip.com^
@@ -26986,6 +27007,7 @@
 ||usertrust.com^
 ||usfk.mil^
 ||usgs.gov^
+||usj.co.jp^
 ||usma.edu^
 ||usmc.mil^
 ||usocctn.com^
