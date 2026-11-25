@@ -5321,6 +5321,7 @@ payload:
   - +.cachefly.com
   - +.cachefly.net
   - +.cachinese.com
+  - +.cachix.org
   - +.cacnw.com
   - +.cactusvpn.com
   - +.cad-mep.com
@@ -9772,10 +9773,12 @@ payload:
   - +.fastlane.ci
   - +.fastlane.tools
   - +.fastly-edge.com
+  - +.fastly-insights.com
   - +.fastly-terrarium.com
   - +.fastly.com
   - +.fastly.io
   - +.fastly.net
+  - +.fastlydns.net
   - +.fastlylabs.com
   - +.fastlylb.net
   - +.fastmail.com
@@ -27683,6 +27686,7 @@ payload:
   - +.vivaldi.com
   - +.vivatube.com
   - +.vivaxnxx.com
+  - +.vivox.com
   - +.vivthomas.com
   - +.vixen.com
   - +.vixengroup.com
